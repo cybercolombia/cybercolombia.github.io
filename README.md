@@ -1,1 +1,1 @@
- [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+ [configure](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
