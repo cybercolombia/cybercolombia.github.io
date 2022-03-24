@@ -1,11 +1,7 @@
 main:
-  - title: "Events"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Calendar"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Mission"
+    url: /mission/
   - title: "Contact"
-    url: /Contact/
+    url: /contact/
+  # - title: "About"
+  #   url: /about/

@@ -1,5 +1,5 @@
 ---
-permalink: /our_mission/
+permalink: /mission/
 title: "Our mission"
 ---
 

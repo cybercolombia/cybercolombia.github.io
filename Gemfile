@@ -14,4 +14,8 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
+  gem "kramdown-parser-gfm"
+  gem "webrick", "~> 1.7"
 end
+
+
