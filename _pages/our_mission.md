@@ -1,4 +1,7 @@
-# Our mission
+---
+permalink: /our_mission/
+title: "Our mission"
+---
 
 We aim to build a multidisciplinary and multidomain Colombian Community of Practice to ensure the efficient analysis and sharing of big data. Some fields important for Colombia’s economy are data-intensive: geographical information systems, geological modelling, biodiversity genomics, weather forecasting, etc. Our strategy leverages always-limiting physical resources, integrating tools and services, and integrating data.
 
