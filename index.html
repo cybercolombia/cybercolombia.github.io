@@ -9,8 +9,47 @@ header:
   #actions:
   #  - label: "Discover more"
   #    url: "https://cybercolombia.github.io/blog/welcome-to-jekyll/"
+
+intro: 
+  - excerpt: | 
+      Cybercolombia aims to cultivate and foster the use of digital infrastructure for compute- and data-intensive analysis in Colombia. 
+      This infrastructure includes the use of High-Performance Computers (HPC), and emerging processing infraestructures. 
+      We also make a great effort in the establishment of collaborations and virtual organizations around common practices, tools, and data.
+      Our approach is based on the development of annual *summer schools* and *technical talks* conducted by invited experts.
+feature_row:
+  - image_path: "/assets/images/ss/2021-07-13-3er_ss.png"
+    alt: "3rd Summer School (Virtual)"
+    title: "Getting to know our new HPC fans"
+    excerpt: |
+        During our 3rd Summer School we run the virtual networking session after 
+        two five full of talks and tutorials on IA, HPC, Big Data and Quantum Computing. 
+        Thanks to our invited speakers and tutorial mentors from Coiled, NVIDI, NASA, 
+        BSC, UIS, Renata, Earlham, ARNL, AWS, IBM, URCA/SC3UIS/AtoS, and URosario.
+    #url: "#test-link"
+    #btn_label: "Read More"
+    #btn_class: "btn--primary"  
+  - image_path: "/assets/images/ss/2021-04-08_mt.png"
+    alt: "MPI Workshop"
+    title: "Let's talk about weather"
+    excerpt: |
+        Hugo Rico (CIAHM) shared with us how climate systems are mathematicaly
+        modeled and simulated on high performance computing systems.
+    #url: "#test-link"
+    #btn_label: "Read More"
+    #btn_class: "btn--primary"
+  - image_path: "/assets/images/ss/2021-07-12_ms_kn.png"
+    alt: "The future is wide open"
+    title: "The future is wide open"
+    excerpt: | 
+        In our 3rd Summer School Mateo Valero (BSC) tell to us how future computing ecosystems development will
+        be driven by open technology due to the technology trends, costs, and ubiquitous 
+        open source software.
+    #url: "#test-link"
+    #btn_label: "Read More"
+    #btn_class: "btn--primary"
 ---
 
-Cybercolombia aims to cultivate and foster the use of digital infrastructure for compute- and data-intensive analysis in Colombia. 
-This infrastructure includes the use of High-Performance Computers (HPC), the use of large shared data storage, and the establishment 
-of collaborations and virtual organizations around common practices, tools, and data.
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
