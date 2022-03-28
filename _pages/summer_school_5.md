@@ -9,7 +9,9 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 
   actions:
-   - label: "Apply Here"
+   - label: "Registration (Soon)"
+     url: ""
+   - label: "Apply for Summer School - Scholarship (Soon)"
      url: ""
 # sidebar:
 #   - nav: sidebar-summers
@@ -17,11 +19,11 @@ header:
 
 <br><br>
 
-# Welcome to the 4th HPC Summer School 2022 – Colombia
+# Welcome to the 5th HPC Summer School 2022 – Colombia
 
-This will be the fifth installment in a series of international schools, organized by Universidad del Rosario and Universidad de Los Andes. It is aimed at guiding students, researchers, and professionals from private and public sectors through technical talks and training to the use of technologies supporting *space exploration*, thus stimulating the use of these technologies in Latin America and the world.
+This will be the fifth installment in a series of international schools, organized by Universidad de Los Andes and Universidad del Rosario. It is aimed at guiding students, researchers, and professionals from private and public sectors through technical talks and training to the use of technologies supporting *space exploration*, thus stimulating the use of these technologies in Latin America and the world.
 
-The school has a special focus on high-performance computing, being the driving force of several advances for innumerable areas of science and technology. Our participants will have the opportunity to learn how to program high-performance computers by developing parallel applications. This will be a great opportunity for constructive cooperation with programmers from abroad as well as other fields of interest, under the guidance of worldwide recognized experts in the field.
+The school has a special focus on high-performance computing, being this the driving force of several advances for innumerable areas of science, including *space exploration*. Our participants will have the opportunity to learn how to program high-performance computers by developing parallel applications. This will be a great opportunity for constructive cooperation with programmers from abroad as well as other fields of interest, under the guidance of worldwide recognized experts in the field.
 
 **Important dates**
 
@@ -30,6 +32,12 @@ The school has a special focus on high-performance computing, being the driving 
 |**Registration closes** |June 20, 2022                |
 |**Venue** |Universidad de los Andes, Bogotá, Colombia |
 |**Format**| Hybrid in-person/virtual | 
+
+<br>
+
+**Program**
+
+<iframe height="800" width="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRaKTIIsvgOIfp_AA6RY9FYhScK37JKpmoNreMG2rSgvh7C3BGB6gMnhxHvX9ECa22uwRZFrqMl8zzA/pubhtml?gid=95721650&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## Scope
 
