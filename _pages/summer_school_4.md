@@ -13,99 +13,96 @@ sidebar:
 
 speakers:
   - image_path: "/assets/images/speakers/2021/mateo_valero.jpg"
-    alt: "Mateo Valero (Barcelona Supercomputing)"
-    # title: "The future is wide open"
     excerpt: |
         **Mateo Valero (Barcelona Supercomputing)**
-        
-        *The future is wide open*
 
-        Barcelona Supercomputing Center believes the future of the entire computing ecosystem will be based on open technology due to the technology trends, costs, and ubiquitous open source software.
   - image_path: "/assets/images/speakers/2021/pedro_silva.png"
-    alt: "Pedro Mario Cruz E Silva (NVIDIA)"
-    # title: "NVIDIA Applications Frameworks for AI & HPC"
     excerpt: |
         **Pedro Mario Cruz E Silva (NVIDIA)**
 
-        *NVIDIA Applications Frameworks for AI & HPC*
-
-        In this presentation I’ll give an overview of key NVIDIA software and hardware components inside Deep Learning frameworks (TensorFlow & Pytorch) and NVIDIA applications platforms: RAPIDS (Machine Learning), Metropolis (IVA), Jarvis (Conversational AI), Merlin (Recommender Systems), Morpheus (Cybersecurity), etc. I’ll show the example of GPU Accelerated Quantum Computing Simulation with our new cuQuantum library.
-  - image_path: "/assets/images/speakers/2021/pedro_silva.png"
-    alt: "Carlos Jaime (UIS)"
-    # title: "Keynote: SCALAC & LaRedCCA (Spanish)"
+  - image_path: "/assets/images/speakers/2021/carlos_jaime.jpeg"
     excerpt: |
-        **Carlos Jaime (UIS)**
+        **Carlos Jaime Barrios (UIS)**
 
-        *SCALAC & LaRedCCA (Spanish)*
-
-        LaRedCCA was born in June 2019 with the main objective of creating a community in Colombia that favors collaboration for supercomputing scenarios that researchers need. The supercomputing connection process began with the Universidad Industrial de Santander (UIS) and the Universidad de los Andes.}
-  - image_path: "/assets/images/speakers/2021/pedro_silva.png"
-    alt: "Mónica Lopez (Renata)"
-    # title: "Keynote: SCALAC & LaRedCCA (Spanish)"
+  - image_path: "/assets/images/speakers/2021/monica_lopez.jpg"
     excerpt: |
         **Mónica Lopez (Renata)**
 
-        *SCALAC & LaRedCCA (Spanish)*
-
-        LaRedCCA was born in June 2019 with the main objective of creating a community in Colombia that favors collaboration for supercomputing scenarios that researchers need. The supercomputing connection process began with the Universidad Industrial de Santander (UIS) and the Universidad de los Andes.
-  - image_path: "/assets/images/speakers/2021/pedro_silva.png"
-    alt: "Rafael Rodriguez (Renata)"
-    # title: "Keynote: SCALAC & LaRedCCA (Spanish)"
+  - image_path: "/assets/images/speakers/2021/rafael_rodriguez.jpg"
     excerpt: |
         **Rafael Rodriguez (Renata)**
 
-        *SCALAC & LaRedCCA (Spanish)*
-
-        LaRedCCA was born in June 2019 with the main objective of creating a community in Colombia that favors collaboration for supercomputing scenarios that researchers need. The supercomputing connection process began with the Universidad Industrial de Santander (UIS) and the Universidad de los Andes.
-  - image_path: "/assets/images/speakers/2021/pedro_silva.png"
-    alt: "Nina Bogl (Amazon WebService HPC)"
-    # title: "Keynote: Research Computing on AWS Made Easy!"
+  - image_path: "/assets/images/speakers/2021/nina_volg.jpeg"
     excerpt: |
         **Nina Bogl (Amazon WebService HPC)**
 
-        *Research Computing on AWS Made Easy!*
-
-        AWS offers a vast number of resources and services, including an amazing amount of compute capacity, and a variety of architecture options, such that every researcher could have a supercomputer “at their fingertips”.
-
-        However, the task of having to setup their own environment and needing “IT Skills” may seem daunting to many scientists and researchers.
-
-        This presentation will demonstrate an easy way to use AWS tools and services to create an HPC cluster the way you need, when you need it. You will also learn how to setup your preferred application once, and use it every time you start a new cluster. In the AWS Cloud you can. experiment without fear!
-  - image_path: "/assets/images/speakers/2021/pedro_silva.png"
-    alt: "Nina Bogl (Amazon WebService HPC)"
-    # title: "Keynote: Research Computing on AWS Made Easy!"
+  - image_path: "/assets/images/speakers/2021/george_thiruvathukal.jpeg"
     excerpt: |
         **George Thiruvathukal (Loyola University Chicago)**
 
-        *Software Engineering in Scientific Computing*
-        
-        Scientific software is a special class of software that includes software developed to support various scientific endeavors that would be difficult, or impossible, to perform experimentally or without computational support. The development of scientific software differs significantly from the development of more traditional business information systems, from which many software engineering best practices and tools have been drawn.
-  - image_path: "/assets/images/speakers/2021/pedro_silva.png"
-    alt: "Nina Bogl (Amazon WebService HPC)"
-    # title: "Keynote: Research Computing on AWS Made Easy!"
+  - image_path: "/assets/images/speakers/2021/robert_davey.jpg"
     excerpt: |
         **Robert Davey (Earlham Institute)**
 
-        *Implementation of Cyverse UK*
-        
-        CyVerse UK provides free, large scale, computing facilities and data storage designed for life scientists. CyVerse provides an intuitive web interface, Discovery Environment (DE), where scientists can upload data and run analyses.
-  - image_path: "/assets/images/speakers/2021/pedro_silva.png"
-    alt: "Nina Bogl (Amazon WebService HPC)"
-    # title: "Keynote: Research Computing on AWS Made Easy!"
+  - image_path: "/assets/images/speakers/2021/women.png"
     excerpt: |
         **Nina McCurdy (NASA)**
 
-        *Data Visualization at the NASA Advanced Supercomputing Division*
-        
-        The goal of data visualization is to provide further insight by rendering data in a manner that best leverages our visual perception capabilities.  In the Data Analysis and Visualization group within the NASA Advanced Supercomputing (NAS) Division at NASA Ames Research Center, we collaborate with the users of the NAS systems in the development of visualizations and tools that enable one to see and interrogate computing results in new and fruitful ways.  In this talk we will describe some of our work, the interesting challenges that we faced, and why we think visualization is cool.
-  - image_path: "/assets/images/speakers/2021/pedro_silva.png"
-    alt: "Nina Bogl (Amazon WebService HPC)"
-    # title: "Keynote: Research Computing on AWS Made Easy!"
+  - image_path: "/assets/images/speakers/2021/man.png"
     excerpt: |
         **Patrick Moran (NASA)**
 
-        *Data Visualization at the NASA Advanced Supercomputing Division*
+  - image_path: "/assets/images/speakers/2021/yuri_alexeev.jpg"
+    excerpt: |
+        **Yuri Alexeev (Argonne)**
+
+  - image_path: "/assets/images/speakers/2021/paulo_aragao.jpeg"
+    excerpt: |
+        **Paulo Aragão (AWS)**
         
-        The goal of data visualization is to provide further insight by rendering data in a manner that best leverages our visual perception capabilities.  In the Data Analysis and Visualization group within the NASA Advanced Supercomputing (NAS) Division at NASA Ames Research Center, we collaborate with the users of the NAS systems in the development of visualizations and tools that enable one to see and interrogate computing results in new and fruitful ways.  In this talk we will describe some of our work, the interesting challenges that we faced, and why we think visualization is cool.
+  - image_path: "/assets/images/speakers/2021/nelson_vera.jpg"
+    excerpt: |
+        **Nelson Vera (UDistrital)**
+
+  - image_path: "/assets/images/speakers/2021/jacob_tomlinson.jpg"
+    excerpt: |
+        **Jacob Tomlinson (Nvidia)**
+     
+  - image_path: "/assets/images/speakers/2021/natalia_clementi.png"
+    excerpt: |
+        **Natalia Clementi (Coiled)**
+
+  - image_path: "/assets/images/members/carlos_alvarez.jpg"
+    excerpt: |
+        **Carlos Alvarez (URosario)**
+     
+  - image_path: "/assets/images/speakers/2021/man.png"
+    excerpt: |
+        **Luiz Angelo Steffenel (Université de Reims Champagne Ardenne)**
+
+  - image_path: "/assets/images/speakers/2021/man.png"
+    excerpt: |
+        **Jean Francois Couturier (Université de Reims Champagne Ardenne)** 
+       
+  - image_path: "/assets/images/speakers/2021/man.png"
+    excerpt: |
+        **Gilberto Javier Dìaz Toro (SC3UIS)**  
+      
+  - image_path: "/assets/images/members/juan_mallarino.jpg"
+    excerpt: |
+        **Juan P. Mallarino (Cybercolombia)**
+     
+  - image_path: "/assets/images/members/jose_monsalve.jpeg"
+    excerpt: |
+        **Jose Monsalve (Argonne)**
+    
+  - image_path: "/assets/images/speakers/2021/catalina_albornoz.jpg"
+    excerpt: |
+        **Catalina Albornoz (IBM)**
+      
+  - image_path: "/assets/images/speakers/2021/sieglinde_pfaendler.jpg"
+    excerpt: |
+        **Sieglinde Pfaendler (IBM)**        
 ---
 
 <style>
@@ -156,7 +153,7 @@ blockquote span{
 <img width="400" src="/assets/images/institutions/rosario.png">
 <img width="150" src="/assets/images/institutions/earlham.png">
 
-# Welcome to the 4th HPC Summer School 2022 – Colombia
+# 4th HPC Summer School 2021 – Colombia
 
 <p style="text-align: justify; text-justify: inter-word;">Our Summer School provides a unique opportunity to attend state-of-the-art training delivered by world-leading academics and industry partners from around the globe, practicing hands-on exercises lead by renowned experts, and networking with your peers in an invaluable forum for knowledge exchange.</p>
 
@@ -190,7 +187,9 @@ blockquote span{
 
 ### Speakers
 
-<!-- {% include feature_row id="speakers" %} -->
+> We would like to thank to our guest speakers and mentors the enlightening and entertaining presentations and tutorials, we also thank their inexhaustible interest for sharing their knowledge and experience.
+
+{% include feature_row id="speakers" %}
 
 ### Supported by
 
