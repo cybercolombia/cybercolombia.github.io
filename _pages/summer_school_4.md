@@ -56,6 +56,10 @@ blockquote span{
 }
 </style>
 
+<img width="200" src="/assets/images/institutions/andes.jpg">
+<img width="400" src="/assets/images/institutions/rosario.png">
+<img width="150" src="/assets/images/institutions/earlham.png">
+
 # Welcome to the 4th HPC Summer School 2022 – Colombia
 
 <p style="text-align: justify; text-justify: inter-word;">Our Summer School provides a unique opportunity to attend state-of-the-art training delivered by world-leading academics and industry partners from around the globe, practicing hands-on exercises lead by renowned experts, and networking with your peers in an invaluable forum for knowledge exchange.</p>
@@ -66,9 +70,15 @@ blockquote span{
 
 > **Hands-on** Participants will learn by constructive cooperation with other programmers from a variety of fields, under the guidance of worldwide recognized experts in the field.
 
+<p style="text-align: justify; text-justify: inter-word;">This will be the fourth installment in a series of international schools, organized by Universidad del Rosario, Universidad de Los Andes, and the Earlham Institute. It is aimed at training students, researchers, and professionals from private and public sectors in optimal parallel programming for HPC environments with heterogeneous infrastructure, thus stimulating the use of these technologies in Latin America and the world.</p>
+
+<p style="text-align: justify; text-justify: inter-word;">The school uses a hands-on approach, in which the participants will learn by developing parallel applications, presenting them with the opportunity for constructive cooperation with programmers from abroad as well as other fields of interest, under the guidance of worldwide recognized experts in the field.</p>
+
+<p style="text-align: justify; text-justify: inter-word;">Due to the current situation with covid-19, the summer school will be an online event to take place in Bogotá, from July 12th to 17th, 2021.</p>
+
 <br>
 
-**Important dates**
+### Important dates
 
 |**Date and Time (COT)** |June 27 - 29, 2022           |
 |**Registration Opens** |April 12 2022                  |
@@ -78,7 +88,28 @@ blockquote span{
 
 <br>
 
-**Program**
+### Programme
 
-<iframe height="800" width="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRaKTIIsvgOIfp_AA6RY9FYhScK37JKpmoNreMG2rSgvh7C3BGB6gMnhxHvX9ECa22uwRZFrqMl8zzA/pubhtml?gid=95721650&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe height="800px" width="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vREuvUrkmE5oeYMCt_XW7Yck0On_jJkbgPopQ7D1qfo6zyQfRYpuNLYY4iLO4MtdhpzVVwaKPSJSaz7/pubhtml?gid=95721650&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
+### Supported by
+
+<img width="200" src="/assets/images/institutions/nvidia.png">
+<img width="400" src="/assets/images/institutions/azure.png">
+<img width="150" src="/assets/images/institutions/ibm.png">
+<br>
+<img width="170" style="margin-right: 70px" src="/assets/images/institutions/uis.png">
+<img width="300" style="margin-right: 70px" src="/assets/images/institutions/sc3.jpg">
+<img width="150" src="/assets/images/institutions/coiled.png">
+<br>
+<img width="170" style="margin-right: 120px" src="/assets/images/institutions/mcic.png">
+<img width="200" style="margin-right: 70px" src="/assets/images/institutions/scalac.png">
+<img width="250" src="/assets/images/institutions/renata.png">
+<br>
+<img width="200" style="margin-right: 90px" src="/assets/images/institutions/laredcca.jpg">
+<img width="200" style="margin-right: 100px" src="/assets/images/institutions/urca.png">
+<img width="150" src="/assets/images/institutions/liciis.png">
+<br>
+<img width="200" style="margin-right: 50px" src="/assets/images/institutions/romeo.jpeg">
+<img width="300" style="margin-right: 50px" src="/assets/images/institutions/catai.png">
+<img width="150" src="/assets/images/institutions/atos.png">
