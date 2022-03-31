@@ -15,9 +15,9 @@ sidebar-summers:
         url: /summer_school_5/
       - title: "4th Summer School (2021)"
         url: /summer_school_4/
-      # - title: "3rd Summer School (2020)"
-      #   url: /summer_school_3/
-      # - title: "2nd Summer School (2019)"
-      #   url: /summer_school_2/
-      # - title: "1st Summer School (2018)"
-      #   url: /summer_school_1/
+      - title: "3rd Summer School (2020)"
+        url: /summer_school_3/
+      - title: "2nd Summer School (2019)"
+        url: /summer_school_2/
+      - title: "1st Summer School (2018)"
+        url: /summer_school_1/
