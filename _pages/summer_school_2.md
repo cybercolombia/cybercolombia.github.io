@@ -1,6 +1,6 @@
 ---
 permalink: /summer_school_2/
-title: "2th HPC Summer School"
+title: "2nd HPC Summer School"
 excerpt: |
    "HPC, building bridges between science and industry with cutting edge technology."
   
@@ -57,6 +57,27 @@ collaborators:
     excerpt: |
         **Jefferson Fialho (Collaborators & Co-developers - Dr. Silvio Stanzani)**
 
+organizing_committee:
+  - image_path: "/assets/images/committee/2019/mallarino.jpg"
+    excerpt: |
+        **Dr. Juan Pablo Mallarino Robayo**
+
+  - image_path: "/assets/images/committee/2019/calvarez.jpg"
+    excerpt: |
+        **Dr. Carlos Eduardo Álvarez**
+
+  - image_path: "/assets/images/committee/2019/estebanh.jpg"
+    excerpt: |
+        **Dr. Esteban Hernández**
+
+  - image_path: "/assets/images/committee/2019/marthi.jpg"
+    excerpt: |
+        **Mrs. Martha Lucía Cepeda**
+
+  - image_path: "/assets/images/committee/2019/harol.jpg"
+    excerpt: |
+        **Dr. Harold Castro**
+
 toc: true
 toc_label: "Content" # defautl: Content
 toc_icon: "book"     # corresponding Font Awesome icon name without the "fa" prefix
@@ -88,7 +109,7 @@ The summer school will take place in Bogotá, from June 5th to 9th, 2018.
 
 ### Programme
 <br>
-<img width="100%" src="/assets/images/ss/ss_2021_programme.png">
+<img width="100%" src="/assets/images/ss/ss_2019_programme.png">
 
 ### Speakers
 
@@ -103,3 +124,7 @@ The summer school will take place in Bogotá, from June 5th to 9th, 2018.
 ### Sponsor & Co-organizer
 <br>
 <img width="100%" src="/assets/images/institutions/2019.png">
+
+### Organizing Committee
+<br>
+{% include feature_row id="organizing_committee" %}

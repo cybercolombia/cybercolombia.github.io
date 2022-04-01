@@ -127,14 +127,6 @@ toc_sticky: true          # enables sticky toc
 Due to the current situation with covid-19, the summer school will be an online event to take place in Bogotá, from July 12th to 17th, 2021.
 {: .notice}
 
-### Important dates
-
-|**Date and Time (COT)** |June 27 - 29, 2022           |
-|**Registration Opens** |April 12 2022                  |
-|**Registration closes** |June 20, 2022                |
-|**Venue** |Universidad de los Andes, Bogotá, Colombia |
-|**Format**| Hybrid in-person/virtual | 
-
 ### Programme
 
 <iframe height="800px" width="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vREuvUrkmE5oeYMCt_XW7Yck0On_jJkbgPopQ7D1qfo6zyQfRYpuNLYY4iLO4MtdhpzVVwaKPSJSaz7/pubhtml?gid=95721650&amp;single=true&amp;widget=true&amp;headers=false"></iframe>

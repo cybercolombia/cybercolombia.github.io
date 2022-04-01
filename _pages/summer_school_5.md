@@ -15,6 +15,30 @@ header:
 sidebar:
   - nav: sidebar-summers
 
+organizing_committee:
+  - image_path: /assets/images/members/aurelio_vivas.png
+    excerpt: |
+        **M.Sc. Aurelio Vivas**
+  - image_path: "/assets/images/committee/2021/harol.jpg"
+    excerpt: |
+        **Dr. Harold Castro**
+  - image_path: /assets/images/members/esteban_hernandez.jpg
+    excerpt: |
+        **Dr. Esteban Hernández**
+  - image_path: /assets/images/members/jose_monsalve.jpeg
+    excerpt: |
+        **Dr. Jose Monsalve**
+  - image_path: "/assets/images/members/carlos_alvarez.jpg"
+    excerpt: |
+        **Dr. Carlos Álvarez**
+  - image_path: /assets/images/members/carlos_varela.jpg
+    excerpt: |
+        **M.Sc. Carlos Varela** 
+  - image_path: /assets/images/members/juan_mallarino.jpg
+    excerpt: |
+        **Dr. Juan Mallarino**
+
+
 toc: true
 toc_label: "Content" # defautl: Content
 toc_icon: "book"     # corresponding Font Awesome icon name without the "fa" prefix
@@ -35,12 +59,19 @@ toc_sticky: true          # enables sticky toc
 |**Venue** |Universidad de los Andes, Bogotá, Colombia |
 |**Format**| Hybrid in-person/virtual | 
 
-<br>
-
 ### Programme
-
+<br>
 <iframe height="800" width="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRaKTIIsvgOIfp_AA6RY9FYhScK37JKpmoNreMG2rSgvh7C3BGB6gMnhxHvX9ECa22uwRZFrqMl8zzA/pubhtml?gid=95721650&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
-<!-- ## Speakers
 
-## Sponsors -->
+### Speakers
+
+Comming soon.
+
+### Sponsors
+
+Comming soon.
+
+### Organizing Committee
+<br>
+{% include feature_row id="organizing_committee" %}

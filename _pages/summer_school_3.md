@@ -100,16 +100,8 @@ The aim of the Summer School is to introduce the cornerstone of programming tool
 
 Following from the school initiative, the event intends to accomplish the creation of collaborative interdisciplinary groups and the education of the next generation of highly specialized programmers. Ultimately, procuring innovative and efficient algorithms to optimally process all kinds of workflows.
 
-### Important dates
-
-|**Date and Time (COT)** |June 27 - 29, 2022           |
-|**Registration Opens** |April 12 2022                  |
-|**Registration closes** |June 20, 2022                |
-|**Venue** |Universidad de los Andes, Bogotá, Colombia |
-|**Format**| Hybrid in-person/virtual | 
-
 ### Programme
-
+<br>
 <img width="100%" src="/assets/images/ss/ss_2021_programme.png">
 
 ### Our approach
@@ -149,17 +141,5 @@ Discord is a turbo-charged chatting platform used by  teams wordwide to work tog
 {% include feature_row id="speakers" %}
 
 ### Partners & Organizers
-
+<br>
 <img width="100%" src="/assets/images/institutions/2020.png">
-
-### Pricing
-
-We have differentiated fees according to your profile. We highly encourage participation from women and minorities and offer a number of scholarships for students enrolled in academic institutions. Payment details will be emailed by mid-may after filling the Pre-Registration form.
-
-If you require financial support please note that we have a limited number of scholarships. In order to apply, you must send a short letter (1 page) briefly explaining why would you like to attend and how this school will help you advance in your professional or academic career to the organizers before 12th July.
- 
-| **Students** | $110.000 COP |
-| **Researchers/Professionals** | $160.000 COP |
-
-There is a 30% discount for early registration to all students until July 22.
-{: .notice}
