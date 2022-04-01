@@ -21,20 +21,6 @@ toc_icon: "book"     # corresponding Font Awesome icon name without the "fa" pre
 toc_sticky: true          # enables sticky toc
 ---
 
-<style>
-  /* .page {
-    width: calc(100% - 300px);
-    padding-right: 0px;
-  } */
-  .toc .nav__title {
-      color: #fff;
-      font-size: 0.75em;
-      background: #80868b;
-      border-top-left-radius: 4px;
-      border-top-right-radius: 4px;
-  }
-</style>
-
 ### Introduction
 
 <p style="text-align: justify; text-justify: inter-word;">This will be the fifth installment in a series of international schools, organized by Universidad de Los Andes and Universidad del Rosario. It is aimed at guiding students, researchers, and professionals from private and public sectors through technical talks and training to the use of technologies supporting <i>space exploration</i>, thus stimulating the use of these technologies in Latin America and the world.</p>

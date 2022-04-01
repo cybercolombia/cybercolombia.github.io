@@ -110,7 +110,7 @@ toc_icon: "book"     # corresponding Font Awesome icon name without the "fa" pre
 toc_sticky: true          # enables sticky toc        
 ---
 
-# Introduction
+### Introduction
 
 <p style="text-align: justify; text-justify: inter-word;">Our Summer School provides a unique opportunity to attend state-of-the-art training delivered by world-leading academics and industry partners from around the globe, practicing hands-on exercises lead by renowned experts, and networking with your peers in an invaluable forum for knowledge exchange.</p>
 
