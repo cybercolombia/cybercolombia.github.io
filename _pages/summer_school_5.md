@@ -59,7 +59,7 @@ toc_sticky: true          # enables sticky toc
 |**Venue** |Universidad de los Andes, Bogotá, Colombia |
 |**Format**| Hybrid in-person/virtual | 
 
-### Programme
+<!-- ### Programme
 <br>
 <iframe height="800" width="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRaKTIIsvgOIfp_AA6RY9FYhScK37JKpmoNreMG2rSgvh7C3BGB6gMnhxHvX9ECa22uwRZFrqMl8zzA/pubhtml?gid=95721650&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
@@ -70,7 +70,7 @@ Comming soon.
 
 ### Sponsors
 
-Comming soon.
+Comming soon. -->
 
 ### Organizing Committee
 <br>
