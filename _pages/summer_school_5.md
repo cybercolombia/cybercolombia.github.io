@@ -47,24 +47,24 @@ toc_sticky: true          # enables sticky toc
 
 ### Introduction
 
-<p style="text-align: justify; text-justify: inter-word;">This will be the fifth installment in a series of international schools, organized by Universidad de Los Andes and Universidad del Rosario. It is aimed at guiding students, researchers, and professionals from private and public sectors through technical talks and training to the use of technologies supporting <i>space exploration</i>, thus stimulating the use of these technologies in Latin America and the world.</p>
+<p style="text-align: justify; text-justify: inter-word;">This will be the fifth installment in a series of international schools, organized by Universidad de los Andes and Universidad del Rosario. It is aimed at guiding students, researchers, and professionals from private and public sectors through technical talks and training to the use of technologies supporting <i>space exploration</i>, thus stimulating the use of these technologies in Latin America and the world.</p>
 
 <p style="text-align: justify; text-justify: inter-word;">The school has a special focus on high-performance computing, being this the driving force of several advances for innumerable areas of science, including <i>space exploration</i>. Our participants will have the opportunity to learn how to program high-performance computers by developing parallel applications. This will be a great opportunity for constructive cooperation with programmers from abroad as well as other fields of interest, under the guidance of worldwide recognized experts in the field.</p>
 
 ### Important dates
 
 |**Date and Time (COT)** |June 27 - 29, 2022           |
-|**Registration Opens** |April 12 2022                  |
+|**Registration Opens** |May 01 2022                  |
 |**Registration closes** |June 20, 2022                |
 |**Venue** |Universidad de los Andes, Bogotá, Colombia |
 |**Format**| Hybrid in-person/virtual | 
 
-<!-- ### Programme
+### Programme
 <br>
 <iframe height="800" width="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRaKTIIsvgOIfp_AA6RY9FYhScK37JKpmoNreMG2rSgvh7C3BGB6gMnhxHvX9ECa22uwRZFrqMl8zzA/pubhtml?gid=95721650&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
-### Speakers
+<!-- ### Speakers
 
 Comming soon.
 
