@@ -14,7 +14,7 @@ sidebar:
 speakers:
   - image_path: "/assets/images/speakers/2021/mateo_valero.jpg"
     excerpt: |
-        Mateo Valero (BSC)**
+        **Mateo Valero (BSC)**
 
   - image_path: "/assets/images/speakers/2021/pedro_silva.png"
     excerpt: |
