@@ -67,7 +67,7 @@ speakers:
     excerpt: |
             <center><b>M. Roberta Devesa</b></center>
             <center><b>DYMAXION LABS</b></center>
-  - image_path: "/assets/images/speakers/2022/leonardo_camargo.jpeg"
+  - image_path: "/assets/images/speakers/2022/leonardo_camargo.jpg"
     excerpt: |
             <center><b>Leonardo Camargo</b></center>
             <center><b>UbiHPC</b></center>
