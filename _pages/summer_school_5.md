@@ -5,7 +5,7 @@ excerpt: |
     This will be the fifth installment in a series of international schools, organized by Universidad de Los Andes and Universidad del Rosario.  
 header:
   overlay_image: /assets/images/ss/banner_2022.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
 
   actions:
    - label: "Registration (Soon)"
@@ -85,7 +85,7 @@ toc_sticky: true          # enables sticky toc
 
 ### Introduction
 
-<p style="text-align: justify; text-justify: inter-word;">This will be the fifth installment in a series of international schools, organized by Universidad de los Andes and Universidad del Rosario. It is aimed at guiding students, researchers, and professionals from private and public sectors through technical talks and training to the use of technologies supporting <i>space exploration</i>, thus stimulating the use of these technologies in Latin America and the world.</p>
+<p style="text-align: justify; text-justify: inter-word;">This will be the fifth installment in a series of international schools, organized by Universidad de los Andes and Universidad del Rosario. It is aimed at guiding students, researchers, and professionals from private and public sectors through technical talks and training to the use of technologies supporting <b>space exploration</b>, thus stimulating the use of these technologies in Latin America and the world.</p>
 
 <p style="text-align: justify; text-justify: inter-word;">The school has a special focus on high-performance computing, being this the driving force of several advances for innumerable areas of science, including <i>space exploration</i>. Our participants will have the opportunity to learn how to program high-performance computers by developing parallel applications. This will be a great opportunity for constructive cooperation with programmers from abroad as well as other fields of interest, under the guidance of worldwide recognized experts in the field.</p>
 
