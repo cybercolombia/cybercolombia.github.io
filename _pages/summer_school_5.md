@@ -4,7 +4,7 @@ title: "Welcome to the 5th HPC Summer School"
 excerpt: |
     This will be the fifth installment in a series of international schools, organized by Universidad de Los Andes and Universidad del Rosario.  
 header:
-  overlay_image: /assets/images/ss/ss_2022_banner.jpg
+  overlay_image: /assets/images/ss/banner_2022.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 
   actions:
