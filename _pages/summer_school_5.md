@@ -95,11 +95,11 @@ toc_sticky: true          # enables sticky toc
 |**Registration Opens** |May 01 2022                  |
 |**Registration closes** |June 20, 2022                |
 |**Venue** |Universidad de los Andes, Bogotá, Colombia |
-|**Format**| Hybrid in-person/virtual | 
+|**Format**| Virtual | 
 
 ### Programme
 
-<iframe height="1200" width="100%" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRaKTIIsvgOIfp_AA6RY9FYhScK37JKpmoNreMG2rSgvh7C3BGB6gMnhxHvX9ECa22uwRZFrqMl8zzA/pubhtml?gid=95721650&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe height="1200" width="100%" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRaKTIIsvgOIfp_AA6RY9FYhScK37JKpmoNreMG2rSgvh7C3BGB6gMnhxHvX9ECa22uwRZFrqMl8zzA/pubhtml?gid=95721650&amp;single=true&amp;widget=true&amp;headers=false&amp;chrome=false"></iframe>
 
 ### Speakers
 
