@@ -63,6 +63,10 @@ speakers:
     excerpt: |
             <center><b>Sara Minson</b></center>
             <center><b>USGS</b></center>
+  - image_path: "/assets/images/speakers/2022/brett_shoelson.png"
+    excerpt: |
+            <center><b>Brett Shoelson</b></center>
+            <center><b>Mathworks</b></center>
   - image_path: "/assets/images/speakers/2022/roberta_devesa.jpg"
     excerpt: |
             <center><b>M. Roberta Devesa</b></center>
