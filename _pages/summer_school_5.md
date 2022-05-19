@@ -96,7 +96,7 @@ toc_sticky: true          # enables sticky toc
 ### Important dates
 
 |**Date and Time (COT)** |June 27 - 29, 2022           |
-|**Registration Opens** |May 01 2022                  |
+|**Registration Opens** |May 27 2022                  |
 |**Registration closes** |June 20, 2022                |
 |**Venue** |Universidad de los Andes, Bogotá, Colombia |
 |**Format**| Virtual | 
