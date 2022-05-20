@@ -99,6 +99,7 @@ toc_sticky: true          # enables sticky toc
 
 ### Important dates
 <br>
+
 |**Date and Time (COT)** |June 27 - 29, 2022           |
 |**Registration Opens** |May 27 2022                  |
 |**Registration closes** |June 20, 2022                |
@@ -118,7 +119,6 @@ toc_sticky: true          # enables sticky toc
 <br>
 <center>
 <img width="100%" src="/assets/images/institutions/ss_2022.PNG"> 
-
 </center>
 
 ### Organizing Committee
