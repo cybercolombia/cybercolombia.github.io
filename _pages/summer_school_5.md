@@ -9,9 +9,9 @@ header:
 
   actions:
    - label: "Registration (Soon)"
-     url: ""
+     url: "https://forms.gle/ugrJ7khZFfdN6emK6"
    - label: "Apply for Summer School - Scholarship (Soon)"
-     url: ""
+     url: "https://forms.gle/sm6TXpjyuSHg12TDA"
 sidebar:
   - nav: sidebar-summers
 
