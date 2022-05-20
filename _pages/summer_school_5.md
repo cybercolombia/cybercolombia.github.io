@@ -8,9 +8,9 @@ header:
   overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
 
   actions:
-   - label: "Registration (Soon)"
+   - label: "Registration"
      url: "https://forms.gle/ugrJ7khZFfdN6emK6"
-   - label: "Apply for Summer School - Scholarship (Soon)"
+   - label: "Apply for Summer School - Scholarship"
      url: "https://forms.gle/sm6TXpjyuSHg12TDA"
 sidebar:
   - nav: sidebar-summers
