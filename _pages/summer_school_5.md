@@ -79,7 +79,10 @@ speakers:
     excerpt: |
             <center><b>Leonardo Camargo</b></center>
             <center><b>UbiHPC</b></center>
-
+  - image_path: "/assets/images/speakers/2022/nina_volg.jpeg"
+    excerpt: |
+            <center><b>Nina Vogl</b></center>
+            <center><b>AWS</b></center>
 toc: true
 toc_label: "Content" # defautl: Content
 toc_icon: "book"     # corresponding Font Awesome icon name without the "fa" prefix
