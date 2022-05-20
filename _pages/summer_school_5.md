@@ -59,6 +59,10 @@ speakers:
     excerpt: |
             <center><b>Gabriele Jost</b></center>
             <center><b>NASA</b></center>
+  - image_path: "/assets/images/speakers/2022/fabio_rivadeneira.jpg"
+    excerpt: |
+            <center><b>Fabio Rivadeneira</b></center>
+            <center><b>Cibiofi</b></center>
   - image_path: "/assets/images/speakers/2022/sara_minson.webp"
     excerpt: |
             <center><b>Sara Minson</b></center>
@@ -88,13 +92,13 @@ toc_sticky: true          # enables sticky toc
 
 
 ### Introduction
-
+<br>
 <p style="text-align: justify; text-justify: inter-word;">This will be the fifth installment in a series of international schools, organized by Universidad de los Andes and Universidad del Rosario. It is aimed at guiding students, researchers, and professionals from private and public sectors through technical talks and training to the use of technologies supporting <b>space exploration</b>, thus stimulating the use of these technologies in Latin America and the world.</p>
 
 <p style="text-align: justify; text-justify: inter-word;">The school has a special focus on high-performance computing, being this the driving force of several advances for innumerable areas of science, including <i>space exploration</i>. Our participants will have the opportunity to learn how to program high-performance computers by developing parallel applications. This will be a great opportunity for constructive cooperation with programmers from abroad as well as other fields of interest, under the guidance of worldwide recognized experts in the field.</p>
 
 ### Important dates
-
+<br>
 |**Date and Time (COT)** |June 27 - 29, 2022           |
 |**Registration Opens** |May 27 2022                  |
 |**Registration closes** |June 20, 2022                |
@@ -102,20 +106,21 @@ toc_sticky: true          # enables sticky toc
 |**Format**| Virtual | 
 
 ### Programme
-
+<br>
 <iframe height="1200" width="100%" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRaKTIIsvgOIfp_AA6RY9FYhScK37JKpmoNreMG2rSgvh7C3BGB6gMnhxHvX9ECa22uwRZFrqMl8zzA/pubhtml?gid=95721650&amp;single=true&amp;widget=true&amp;headers=false&amp;chrome=false"></iframe>
 
 ### Speakers
-
+<br>
 {% include feature_row id="speakers" %}
 
 <!-- ### Speakers affiliation -->
-<!-- ### Collaborators -->
+### Collaborators
+<br>
+<center>
+<img width="100%" src="/assets/images/institutions/ss_2022.PNG"> 
 
-<!-- <center>
-<img width="60%" src="/assets/images/institutions/ss_2022.PNG"> 
-</center> -->
+</center>
 
 ### Organizing Committee
-
+<br>
 {% include feature_row id="organizing_committee" %}
