@@ -83,6 +83,10 @@ speakers:
     excerpt: |
             <center><b>Nina Vogl</b></center>
             <center><b>AWS</b></center>
+  - image_path: "/assets/images/speakers/2022/ricardo_barros.jpg"
+    excerpt: |
+            <center><b>Ricardo Barros</b></center>
+            <center><b>McMaster University</b></center>
 toc: true
 toc_label: "Content" # defautl: Content
 toc_icon: "book"     # corresponding Font Awesome icon name without the "fa" prefix
@@ -110,14 +114,16 @@ toc_sticky: true          # enables sticky toc
 |**Format**| Virtual | 
 
 ### Programme
-<br>
-<iframe height="1200" width="100%" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRaKTIIsvgOIfp_AA6RY9FYhScK37JKpmoNreMG2rSgvh7C3BGB6gMnhxHvX9ECa22uwRZFrqMl8zzA/pubhtml?gid=95721650&amp;single=true&amp;widget=true&amp;headers=false&amp;chrome=false"></iframe>
+
+<p>Meet the detailed program, abstracts, and speakers bios <a href="https://docs.google.com/document/d/1J3Y-vvrrHxCPP-h6o62N43rRgR426q5AwnNLqaVwrEM/edit?usp=sharing" target="_blank">here</a></p>
+
+<iframe frameborder="0" scrolling="no" style="border:none; overflow:hidden;" height="1200" width="100%" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRaKTIIsvgOIfp_AA6RY9FYhScK37JKpmoNreMG2rSgvh7C3BGB6gMnhxHvX9ECa22uwRZFrqMl8zzA/pubhtml?gid=95721650&amp;single=true&amp;widget=true&amp;headers=false&amp;chrome=false&amp;gid=0"></iframe>
 
 ### Speakers
 <br>
+
 {% include feature_row id="speakers" %}
 
-<!-- ### Speakers affiliation -->
 ### Collaborators
 <br>
 <center>
@@ -126,4 +132,5 @@ toc_sticky: true          # enables sticky toc
 
 ### Organizing Committee
 <br>
+
 {% include feature_row id="organizing_committee" %}
