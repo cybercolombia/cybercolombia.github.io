@@ -8,8 +8,9 @@ header:
   overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
 
   actions:
-   - label: "Registration"
-     url: "https://forms.gle/ugrJ7khZFfdN6emK6"
+   - label: "Registration - Payment"
+     #url: "https://forms.gle/ugrJ7khZFfdN6emK6"
+     url: "https://live.eventtia.com/es/hpc"
    - label: "Apply for Summer School - Scholarship"
      url: "https://forms.gle/sm6TXpjyuSHg12TDA"
 sidebar:
@@ -87,6 +88,7 @@ speakers:
     excerpt: |
             <center><b>Ricardo Barros</b></center>
             <center><b>McMaster University</b></center>
+breadcrumbs: false
 toc: true
 toc_label: "Content" # defautl: Content
 toc_icon: "book"     # corresponding Font Awesome icon name without the "fa" prefix
@@ -96,15 +98,17 @@ toc_sticky: true          # enables sticky toc
 
 <img src="/assets/images/institutions/andes_rosario.PNG" alt="Institutions" height="600" style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
 
-
-
 ### Introduction
-<br>
 <p style="text-align: justify; text-justify: inter-word;">This will be the fifth installment in a series of international schools, organized by Universidad de los Andes and Universidad del Rosario. It is aimed at guiding students, researchers, and professionals from private and public sectors through technical talks and training to the use of technologies supporting <b>space exploration</b>, thus stimulating the use of these technologies in Latin America and the world.</p>
 
 <p style="text-align: justify; text-justify: inter-word;"> We will have invited speakers from international space exploration agencies, such as National Aeronautics and Space Administration (NASA), European Space Agency (ESA), and United States Geological Survey (USGS); private and public organizations such as Amazon Web Services, NVIDIA, Mathworks iMMAP Dymaxion Labs, UbiHPC; and universities such as McMaster University, and Universidad del Valle. They will tell us how they are conducting space and land exploration at a large scale.</p>
 
+### Registration
+
+Use the registration button at the top of this page. If you need help with your registration process, please contact Aurelio Vivas **aa.vivas@uniandes.edu.co**.
+
 ### Important dates
+
 <br>
 
 |**Date and Time (COT)** |June 27 - 29, 2022           |
