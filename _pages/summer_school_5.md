@@ -71,7 +71,7 @@ speakers:
   - image_path: "/assets/images/speakers/2022/brett_shoelson.png"
     excerpt: |
             <center><b>Brett Shoelson</b></center>
-            <center><b>Mathworks</b></center>
+            <center><b>MathWorks</b></center>
   - image_path: "/assets/images/speakers/2022/roberta_devesa.jpg"
     excerpt: |
             <center><b>M. Roberta Devesa</b></center>
@@ -99,17 +99,17 @@ toc_sticky: true          # enables sticky toc
 <img src="/assets/images/institutions/andes_rosario.PNG" alt="Institutions" height="600" style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
 
 ### Introduction
+<p></p>
 <p style="text-align: justify; text-justify: inter-word;">This will be the fifth installment in a series of international schools, organized by Universidad de los Andes and Universidad del Rosario. It is aimed at guiding students, researchers, and professionals from private and public sectors through technical talks and training to the use of technologies supporting <b>space exploration</b>, thus stimulating the use of these technologies in Latin America and the world.</p>
 
 <p style="text-align: justify; text-justify: inter-word;"> We will have invited speakers from international space exploration agencies, such as National Aeronautics and Space Administration (NASA), European Space Agency (ESA), and United States Geological Survey (USGS); private and public organizations such as Amazon Web Services, NVIDIA, Mathworks iMMAP Dymaxion Labs, UbiHPC; and universities such as McMaster University, and Universidad del Valle. They will tell us how they are conducting space and land exploration at a large scale.</p>
 
 ### Registration
-
+<p></p>
 Use the registration button at the top of this page. If you need help with your registration process, please contact Aurelio Vivas **aa.vivas@uniandes.edu.co**.
 
 ### Important dates
-
-<br>
+<p></p>
 
 |**Date and Time (COT)** |June 27 - 29, 2022           |
 |**Registration Opens** |May 27 2022                  |
@@ -118,23 +118,23 @@ Use the registration button at the top of this page. If you need help with your 
 |**Format**| Virtual | 
 
 ### Programme
-
+<p></p>
 <p>Meet the detailed program, abstracts, and speakers bios <a href="https://docs.google.com/document/d/1J3Y-vvrrHxCPP-h6o62N43rRgR426q5AwnNLqaVwrEM/edit?usp=sharing" target="_blank">here</a></p>
-
+<p></p>
 <iframe frameborder="0" scrolling="no" style="border:none; overflow:hidden;" height="1200" width="100%" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRaKTIIsvgOIfp_AA6RY9FYhScK37JKpmoNreMG2rSgvh7C3BGB6gMnhxHvX9ECa22uwRZFrqMl8zzA/pubhtml?gid=95721650&amp;single=true&amp;widget=true&amp;headers=false&amp;chrome=false&amp;gid=0"></iframe>
 
 ### Speakers
-<br>
+<p></p>
 
 {% include feature_row id="speakers" %}
 
 ### Collaborators
-<br>
+<p></p>
 <center>
-<img width="100%" src="/assets/images/institutions/ss_2022.PNG"> 
+<img width="100%" src="/assets/images/institutions/ss_2022B.PNG"> 
 </center>
 
 ### Organizing Committee
-<br>
+<p></p>
 
 {% include feature_row id="organizing_committee" %}
