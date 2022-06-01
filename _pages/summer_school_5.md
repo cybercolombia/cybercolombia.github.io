@@ -105,8 +105,11 @@ toc_sticky: true          # enables sticky toc
 <p style="text-align: justify; text-justify: inter-word;"> We will have invited speakers from international space exploration agencies, such as National Aeronautics and Space Administration (NASA), European Space Agency (ESA), and United States Geological Survey (USGS); private and public organizations such as Amazon Web Services, NVIDIA, Mathworks iMMAP Dymaxion Labs, UbiHPC; and universities such as McMaster University, and Universidad del Valle. They will tell us how they are conducting space and land exploration at a large scale.</p>
 
 ### Registration
-<p></p>
-Use the registration button at the top of this page. If you need help with your registration process, please contact Aurelio Vivas **aa.vivas@uniandes.edu.co**.
+
+<p>Registration is a flat <i>30 USD</i> fee for the whole event. Assitance certificates will be issues for 80% of attendance.</p>
+
+<P>Use the registration button at the top of this page. If you need help with your registration process, please contact Aurelio Vivas <b>aa.vivas@uniandes.edu.co</b>.</P>
+
 
 ### Important dates
 <p></p>
@@ -116,10 +119,11 @@ Use the registration button at the top of this page. If you need help with your 
 |**Registration closes** |June 20, 2022                |
 |**Venue** |Universidad de los Andes, Bogotá, Colombia |
 |**Format**| Virtual | 
+|**Cost**| 30 USD | 
 
 ### Programme
 <p></p>
-<p>Meet the detailed program, abstracts, and speakers bios <a href="https://docs.google.com/document/d/1J3Y-vvrrHxCPP-h6o62N43rRgR426q5AwnNLqaVwrEM/edit?usp=sharing" target="_blank">here</a></p>
+<p>Meet the detailed program, abstracts, and speakers bios <a href="https://calendar.google.com/calendar/embed?height=650&wkst=1&bgcolor=%23ffffff&ctz=America%2FBogota&mode=AGENDA&&dates=20220627/20220629&showTitle=0&showNav=0&showDate=0&showPrint=1&showTabs=1&showCalendars=1&showTz=1&src=Y19wdmY2Y3FibjRlcWw0ZHMyMG1tbWpkbmZpNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23A79B8E" target="_blank">here</a></p>
 <p></p>
 <iframe frameborder="0" scrolling="no" style="border:none; overflow:hidden;" height="1200" width="100%" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRaKTIIsvgOIfp_AA6RY9FYhScK37JKpmoNreMG2rSgvh7C3BGB6gMnhxHvX9ECa22uwRZFrqMl8zzA/pubhtml?gid=95721650&amp;single=true&amp;widget=true&amp;headers=false&amp;chrome=false&amp;gid=0"></iframe>
 
