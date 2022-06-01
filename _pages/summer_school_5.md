@@ -106,7 +106,7 @@ toc_sticky: true          # enables sticky toc
 
 ### Registration
 
-<p>Registration is a flat <i>30 USD</i> fee for the whole event. Assitance certificates will be issues for 80% of attendance.</p>
+<p>Registration is a flat <i>30 USD</i> fee for the whole event. Assistance certificates will be issued for 80% of attendance.</p>
 
 <P>Use the registration button at the top of this page. If you need help with your registration process, please contact Aurelio Vivas <b>aa.vivas@uniandes.edu.co</b>.</P>
 
