@@ -88,6 +88,26 @@ speakers:
     excerpt: |
             <center><b>Ricardo Barros</b></center>
             <center><b>McMaster University</b></center>
+  - image_path: "/assets/images/speakers/2022/christel_chappuis.jpg"
+    excerpt: |
+            <center><b>Christel Chappuis</b></center>
+            <center><b>ESA Φ-lab, ESRIN</b></center>
+  - image_path: "/assets/images/speakers/2022/pierre_philippe.jpg"
+    excerpt: |
+            <center><b>Pierre Philippe</b></center>
+            <center><b>ESA Φ-lab, ESRIN</b></center>
+  - image_path: "/assets/images/speakers/2022/raquel_carmo.jpg"
+    excerpt: |
+            <center><b>Raquel Carmo</b></center>
+            <center><b>ESA Φ-lab, ESRIN</b></center>
+  - image_path: "/assets/images/speakers/2022/gabriele_meoni.png"
+    excerpt: |
+            <center><b>Gabriele Meoni</b></center>
+            <center><b>ESA Φ-lab, ESRIN</b></center>
+  - image_path: "/assets/images/speakers/2022/bertrand_le_saux.jpg"
+    excerpt: |
+            <center><b>Bertrand Le Saux</b></center>
+            <center><b>ESA Φ-lab, ESRIN</b></center>
 breadcrumbs: false
 toc: true
 toc_label: "Content" # defautl: Content
@@ -135,7 +155,7 @@ toc_sticky: true          # enables sticky toc
 ### Collaborators
 <p></p>
 <center>
-<img width="100%" src="/assets/images/institutions/ss_2022B.PNG"> 
+<img width="100%" src="/assets/images/institutions/ss_2022C.PNG"> 
 </center>
 
 ### Organizing Committee
