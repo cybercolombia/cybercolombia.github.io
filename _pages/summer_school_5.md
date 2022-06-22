@@ -47,7 +47,7 @@ speakers:
   - image_path: "/assets/images/speakers/2022/cesar_ocampo.png"
     excerpt: |
             <center><b>Cesar Ocampo</b></center>
-            <center><b>NASA</b></center>    
+            <center><b>Odyssey Space Research/NASA JSC</b></center>    
   - image_path: "/assets/images/speakers/2022/carolina_pardo.JPG"
     excerpt: |
             <center><b>Carolina Pardo</b></center>
