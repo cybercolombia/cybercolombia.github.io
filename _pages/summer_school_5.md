@@ -9,7 +9,6 @@ header:
 
   actions:
    - label: "Registration - Payment"
-     #url: "https://forms.gle/ugrJ7khZFfdN6emK6"
      url: "https://live.eventtia.com/es/hpc"
    - label: "Apply for Summer School - Scholarship"
      url: "https://forms.gle/sm6TXpjyuSHg12TDA"
@@ -135,8 +134,10 @@ toc_sticky: true          # enables sticky toc
 <p></p>
 
 |**Date and Time (COT)** |June 27 - 29, 2022           |
-|**Registration Opens** |May 27 2022                  |
-|**Registration closes** |June 20, 2022                |
+|**Registration Opens** |May 27 2022                   |
+|**Registration closes** |June 27, 2022                |
+|**Scholarship Opens** |May 27 2022                    |
+|**Scholarship closes** |June 22, 2022  (CLOSED)       |
 |**Venue** |Universidad de los Andes, Bogotá, Colombia |
 |**Format**| Virtual | 
 |**Cost**| 30 USD | 
