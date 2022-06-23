@@ -134,9 +134,9 @@ toc_sticky: true          # enables sticky toc
 <p></p>
 
 |**Date and Time (COT)** |June 27 - 29, 2022           |
-|**Registration Opens** |May 27 2022                   |
+|**Registration opens** |May 27 2022                   |
 |**Registration closes** |June 27, 2022                |
-|**Scholarship Opens** |May 27 2022                    |
+|**Scholarship opens** |May 27 2022                    |
 |**Scholarship closes** |June 22, 2022  (CLOSED)       |
 |**Venue** |Universidad de los Andes, Bogotá, Colombia |
 |**Format**| Virtual | 
