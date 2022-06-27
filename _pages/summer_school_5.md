@@ -51,15 +51,15 @@ speakers:
     excerpt: |
             <center><b>Carolina Pardo</b></center>
             <center><b>iMMAP Colombia</b></center>
-  - image_path: "/assets/images/speakers/2022/jeffrey_villaveces.webp"
-    excerpt: |
-            <center><b>Jeffrey Villaveces</b></center>
-            <center><b>iMMAP Colombia</b></center>
-  - image_path: "/assets/images/speakers/2022/jeffrey_villaveces.webp"
+  # - image_path: "/assets/images/speakers/2022/jeffrey_villaveces.webp"
+  #   excerpt: |
+  #           <center><b>Jeffrey Villaveces</b></center>
+  #           <center><b>iMMAP Colombia</b></center>
+  - image_path: "/assets/images/speakers/2022/xitong_zhang.jpg"
     excerpt: |
             <center><b>Xitong Zhang</b></center>
             <center><b>iMMAP Colombia</b></center>
-  - image_path: "/assets/images/speakers/2022/xitong_zhang.jpg"
+  - image_path: "/assets/images/speakers/2022/gabriel_jost.jpg"
     excerpt: |
             <center><b>Gabriele Jost</b></center>
             <center><b>NASA</b></center>
@@ -67,10 +67,6 @@ speakers:
     excerpt: |
             <center><b>Fabio Rivadeneira</b></center>
             <center><b>Cibiofi</b></center>
-  - image_path: "/assets/images/speakers/2022/sara_minson.webp"
-    excerpt: |
-            <center><b>Sara Minson</b></center>
-            <center><b>USGS</b></center>
   - image_path: "/assets/images/speakers/2022/sara_minson.webp"
     excerpt: |
             <center><b>Sara Minson</b></center>
