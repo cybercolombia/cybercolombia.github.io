@@ -55,7 +55,11 @@ speakers:
     excerpt: |
             <center><b>Jeffrey Villaveces</b></center>
             <center><b>iMMAP Colombia</b></center>
-  - image_path: "/assets/images/speakers/2022/gabriel_jost.jpg"
+  - image_path: "/assets/images/speakers/2022/jeffrey_villaveces.webp"
+    excerpt: |
+            <center><b>Xitong Zhang</b></center>
+            <center><b>iMMAP Colombia</b></center>
+  - image_path: "/assets/images/speakers/2022/xitong_zhang.jpg"
     excerpt: |
             <center><b>Gabriele Jost</b></center>
             <center><b>NASA</b></center>
@@ -67,10 +71,14 @@ speakers:
     excerpt: |
             <center><b>Sara Minson</b></center>
             <center><b>USGS</b></center>
-  - image_path: "/assets/images/speakers/2022/brett_shoelson.png"
+  - image_path: "/assets/images/speakers/2022/sara_minson.webp"
     excerpt: |
-            <center><b>Brett Shoelson</b></center>
-            <center><b>MathWorks</b></center>
+            <center><b>Sara Minson</b></center>
+            <center><b>USGS</b></center>
+  - image_path: "/assets/images/speakers/2022/jose_monsalve.jpeg"
+    excerpt: |
+            <center><b>Jose Monsalve</b></center>
+            <center><b>Argonne National Laboratory</b></center>
   - image_path: "/assets/images/speakers/2022/roberta_devesa.jpg"
     excerpt: |
             <center><b>M. Roberta Devesa</b></center>
@@ -107,6 +115,10 @@ speakers:
     excerpt: |
             <center><b>Bertrand Le Saux</b></center>
             <center><b>ESA Φ-lab, ESRIN</b></center>
+  - image_path: "/assets/images/speakers/2022/pedro_silva.png"
+    excerpt: |
+            <center><b>Pedro Cruz e Silva</b></center>
+            <center><b>NVIDIA</b></center>
 breadcrumbs: false
 toc: true
 toc_label: "Content" # defautl: Content
