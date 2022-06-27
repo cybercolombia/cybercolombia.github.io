@@ -3,6 +3,13 @@ permalink: /contact/
 title: "Contact"
 layout: splash
 feature_row:
+ - image_path: /assets/images/members/esteban_hernandez.jpg
+    alt: "Dr. Esteban Hernández"
+    title: "Dr. Esteban Hernández"
+    excerpt: |
+        **ejhernandezb@udistrital.edu.co**
+
+        PhD on Engineering with focus on HPC for Weather Forecasting. Senior Software architect with +17 years of experience, my strengths include a deep understanding of availability, performance, security, and capacity planning. I also have a deep understanding of and experience working with Big Data environments using Data Sciences tools and techniques. He has developed generations of high availability architectures based on open source software with JBoss, Glassfish and Apache Tomcat, tuned computing platforms to achieve high processing performance and implemented scientific programs using OpenMP, MPI, CUDA, OpenCL and OpenACC, and other parallel frameworks and languages. Dr. Hernandez has  working as Senior Big Data Architect on AWS and HPC Expert.
   - image_path: /assets/images/members/carlos_alvarez.jpg
     alt: "Dr. Carlos Álvarez"
     title: "Dr. Carlos Álvarez"
@@ -17,13 +24,7 @@ feature_row:
         **jp.mallarino50@uniandes.edu.co**
 
         Physicist from Universidad Nacional de Colombia, obtained my Ph.D. in Physics from Universidad de los Andes developing analytic models for stiff rod-like polyelectrolytes through molecular simulations. During my post-doctoral stay in Universidad de los Andes, we revised the Contact Theorem for the Cell Model and Manning condensation phenomenon for the two-dimensional one-component plasma. As of today, I am the HPC Coordinator and Researcher for the School of Sciences in Universidad de los Andes. I have a strong background on theoretical statistical mechanics, programming languages such as C/C++, Python, R and SQL, and Linux administration for cluster environments with application development and deployment.
-  - image_path: /assets/images/members/esteban_hernandez.jpg
-    alt: "Dr. Esteban Hernández"
-    title: "Dr. Esteban Hernández"
-    excerpt: |
-        **awseste@amazon.com**
 
-        PhD on Engineering with focus on HPC for Weather Forecasting. Senior Software architect with +17 years of experience, my strengths include a deep understanding of availability, performance, security, and capacity planning. I also have a deep understanding of and experience working with Big Data environments using Data Sciences tools and techniques. He has developed generations of high availability architectures based on open source software with JBoss, Glassfish and Apache Tomcat, tuned computing platforms to achieve high processing performance and implemented scientific programs using OpenMP, MPI, CUDA, OpenCL and OpenACC, and other parallel frameworks and languages. Currently working as Senior Big Data Architect on AWS
   - image_path: /assets/images/members/jose_monsalve.jpeg
     alt: "Dr. Jose Monsalve"
     title: "Dr. Jose Monsalve"
