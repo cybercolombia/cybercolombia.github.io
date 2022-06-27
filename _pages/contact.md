@@ -3,7 +3,7 @@ permalink: /contact/
 title: "Contact"
 layout: splash
 feature_row:
- - image_path: /assets/images/members/esteban_hernandez.jpg
+  - image_path: /assets/images/members/esteban_hernandez.jpg
     alt: "Dr. Esteban Hernández"
     title: "Dr. Esteban Hernández"
     excerpt: |
