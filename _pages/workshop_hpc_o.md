@@ -50,7 +50,7 @@ toc_sticky: true     # enables sticky toc
 
 <p style="text-align: justify; text-justify: inter-word;">The school uses a hands-on approach, in which the participants will learn by developing parallel applications, presenting them with the opportunity for constructive cooperation with programmers from abroad as well as other fields of interest, under the guidance of worldwide recognized experts in the field.</p>
 
-The summer school will take place in Bogotá, from September 17 and 20, 2017.
+The summer school will take place in Bogotá, from September 19 and 20, 2017.
 {: .notice}
 
 ### Scope 
