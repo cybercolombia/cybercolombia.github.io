@@ -34,7 +34,7 @@ organizing_committee:
     excerpt: |
         **Msc. Rodolfo Caliz**
 
-  - image_path: "/assets/images/committee/2019/estebanh.jpg"
+  - image_path: "/assets/images/members/esteban_hernandez.jpg"
     excerpt: |
         **Dr. Esteban Hernández**
 
