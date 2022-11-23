@@ -1,6 +1,6 @@
 ---
-permalink: /summer_school_2/
-title: "2nd HPC Summer School"
+permalink: /summer_school_1/
+title: "1Th HPC Summer School"
 excerpt: |
    "HPC, building bridges between science and industry with cutting edge technology."
   
