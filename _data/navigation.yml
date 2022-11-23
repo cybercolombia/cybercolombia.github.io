@@ -19,5 +19,7 @@ sidebar-summers:
         url: /summer_school_3/
       - title: "2nd Summer School (2019)"
         url: /summer_school_2/
-      # - title: "1st Summer School (2018)"
-      #   url: /summer_school_1/
+      - title: "1st Summer School (2018)"
+        url: /summer_school_1/
+     # - title: "1 HPC Workshop (2017)"
+     #   url: /workshop_1/
