@@ -79,7 +79,7 @@ The summer school will take place in Bogotá, from September 19 and 20, 2017.
 <br>
 <img width="50%" src="/assets/images/institutions/nvidia.png">
 <img width="50%" src="/assets/images/institutions/ibm.png">
-<img width="50%" src="/assets/images/institutions/mathworks.png">
+<img width="50%" src="/assets/images/institutions/mathworks.jpeg">
 <img width="50%" src="/assets/images/institutions/udistrital.png">
 
 
