@@ -109,7 +109,7 @@ The summer school will take place in Bogotá, from June 5th to 9th, 2018.
 
 ### Programme
 <br>
-<img width="100%" src="/assets/images/ss/ss_2019_programme.png">
+<img width="100%" src="/assets/images/ss/ss_2018_programme.png">
 
 ### Speakers
 
