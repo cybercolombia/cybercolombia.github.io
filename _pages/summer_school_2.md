@@ -12,9 +12,6 @@ sidebar:
   - nav: sidebar-summers
 
 speakers:
-  - image_path: "/assets/images/speakers/2019/silvio.jpg"
-    excerpt: |
-        **Dr. Silvio Stanzani (NCC/UNESP)**
 
   - image_path: "/assets/images/speakers/2021/pedro_silva.png"
     excerpt: |
@@ -24,38 +21,13 @@ speakers:
     excerpt: |
         **Dr. Verónica Arias (Uniandes)**
 
-  - image_path: "/assets/images/speakers/2019/carlos_arango.jpg"
-    excerpt: |
-        **Mr. Carlos Eduardo Arango Gutiérrez (Univalle)**
-
   - image_path: "/assets/images/speakers/2019/barrios.jpg"
     excerpt: |
         **Dr. Carlos Jaime Barrios Hernández (Universidad Industrial de Santander)**
-
-  - image_path: "/assets/images/speakers/2019/feki.jpg"
+  - image_path: "/assets/images/speakers/2017/kevin_jorissen.jpg"
     excerpt: |
-        **Dr. Saber Feki (KAUST)**
+        **Dr. Kevin Jorissen (AWS)**
 
-  - image_path: "/assets/images/speakers/2019/sunita.jpg"
-    excerpt: |
-        **Sunita Chandrasekaran (University of Delaware)**
-
-  - image_path: "/assets/images/speakers/2019/joao.jpg"
-    excerpt: |
-        **Mr. João Paulo Peçanha Navarro (Solutions Architect / NVIDIA)**
-
-collaborators: 
-  - image_path: "/assets/images/speakers/2019/rogerio.jpg"
-    excerpt: |
-        **Rogério Iope (Collaborators & Co-developers - Dr. Silvio Stanzani)**
-
-  - image_path: "/assets/images/speakers/2019/raphael.jpg"
-    excerpt: |
-        **Raphael Cobe (Collaborators & Co-developers - Dr. Silvio Stanzani)**
-
-  - image_path: "/assets/images/speakers/2019/jefferson.jpg"
-    excerpt: |
-        **Jefferson Fialho (Collaborators & Co-developers - Dr. Silvio Stanzani)**
 
 organizing_committee:
   - image_path: "/assets/images/committee/2019/mallarino.jpg"
@@ -69,14 +41,6 @@ organizing_committee:
   - image_path: "/assets/images/committee/2019/estebanh.jpg"
     excerpt: |
         **Dr. Esteban Hernández**
-
-  - image_path: "/assets/images/committee/2019/marthi.jpg"
-    excerpt: |
-        **Mrs. Martha Lucía Cepeda**
-
-  - image_path: "/assets/images/committee/2019/harol.jpg"
-    excerpt: |
-        **Dr. Harold Castro**
 
 toc: true
 toc_label: "Content" # defautl: Content
