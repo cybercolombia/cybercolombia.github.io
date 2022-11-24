@@ -86,7 +86,7 @@ toc_sticky: true     # enables sticky toc
 
 ### Introduction
 
-<p style="text-align: justify; text-justify: inter-word;">This will be the first installment in a series of international schools aimed at training students, researchers and professionals from private and public sectors in optimal parallel programing for HPC environments with heterogeneous infrastructure, thus stimulating the use of these technologies in Latin America and the world.</p>
+<p style="text-align: justify; text-justify: inter-word;">The increasingly wide availability of supercomputing equipment both in universities and companies, as well as in the cloud, has made it relatively easy today to access this type of computing power at increasingly lower costs. However, in order to take advantage of this power it is necessary to know how to use it. In this 4 and a half day workshop, the participant with a basic level of programming will develop the necessary skills to start programming in HPC (High Performance Computing) environments in architectures with shared memory, distributed memory and Nvidia accelerators. These skills allow the programmer to develop code that, once deployed on these architectures, executes in much less time than serial code.</p>
 
 <p style="text-align: justify; text-justify: inter-word;">The school uses a hands-on approach, in which the participants will learn by developing parallel applications, presenting them with the opportunity for constructive cooperation with programmers from abroad as well as other fields of interest, under the guidance of worldwide recognized experts in the field.</p>
 
