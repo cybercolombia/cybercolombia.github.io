@@ -11,6 +11,8 @@ sidebar-summers:
     children:
       - title: "Introduction"
         url: /summer_school/
+      - title: "6th Summer School (2023)"
+        url: /summer_school_5/
       - title: "5th Summer School (2022)"
         url: /summer_school_5/
       - title: "4th Summer School (2021)"
