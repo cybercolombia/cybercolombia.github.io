@@ -9,7 +9,7 @@ active_members:
     excerpt: |
         **ejhernandezb@udistrital.edu.co**
 
-        PhD on Engineering with focus on HPC for Weather Forecasting. Senior Software architect with +17 years of experience, my strengths include a deep understanding of availability, performance, security, and capacity planning. I also have a deep understanding of and experience working with Big Data environments using Data Sciences tools and techniques. He has developed generations of high availability architectures based on open source software with JBoss, Glassfish and Apache Tomcat, tuned computing platforms to achieve high processing performance and implemented scientific programs using OpenMP, MPI, CUDA, OpenCL and OpenACC, and other parallel frameworks and languages. Dr. Hernandez has  working as Senior Big Data Architect on AWS and HPC Expert.
+        PhD on Engineering with focus on HPC for Weather Forecasting. Senior Software architect with +17 years of experience, my strengths include a deep understanding of availability, performance, security, and capacity planning. I also have a deep understanding of and experience working with Big Data environments using Data Sciences tools and techniques. He has developed generations of high availability architectures based on open source software with JBoss, Glassfish and Apache Tomcat, tuned computing platforms to achieve high processing performance and implemented scientific programs using OpenMP, MPI, CUDA, OpenCL and OpenACC, and other parallel frameworks and languages. Dr. Hernandez has  working as Senior Big Data Architect on AWS and HPC,  Expert and currently Working as Senior Experto on Mercadolibre Colombia.
   
   - image_path: /assets/images/members/carlos_alvarez.jpg
     alt: "Dr. Carlos Álvarez"
