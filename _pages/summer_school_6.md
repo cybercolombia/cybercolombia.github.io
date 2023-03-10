@@ -39,9 +39,7 @@ toc_sticky: true     # enables sticky toc
 
 ### Introduction
 <p></p>
-<p style="text-align: justify; text-justify: inter-word;">This will be the sixth installment in a series of international schools, organized by Universidad de los Andes and Universidad del Rosario. It is aimed at guiding students, researchers, and professionals from private and public sectors through technical talks and training to the use of technologies supporting <b>space exploration</b>, thus stimulating the use of these technologies in Latin America and the world.</p>
-
-<p style="text-align: justify; text-justify: inter-word;"> We will have invited speakers from international space exploration agencies, such as National Aeronautics and Space Administration (NASA), European Space Agency (ESA), and United States Geological Survey (USGS); private and public organizations such as Amazon Web Services, NVIDIA, Mathworks iMMAP Dymaxion Labs, UbiHPC; and universities such as McMaster University, and Universidad del Valle. They will tell us how they are conducting space and land exploration at a large scale.</p>
+<p style="text-align: justify; text-justify: inter-word;">This will be the sixth installment in a series of international schools, organized by CyberColombia. It is aimed at guiding students, researchers, and professionals from private and public sectors through technical talks and training on the use of high-performance computing (HPC) technologies.</p>
 
 ### Registration
 
