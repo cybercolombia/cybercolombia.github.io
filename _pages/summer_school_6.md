@@ -58,7 +58,7 @@ toc_sticky: true     # enables sticky toc
 
 ### Programme
 <p></p>
-<p>To be defined soon...</p>
+<p>To be defined soon ...</p>
 
 ### Organizing Committee
 <p></p>
