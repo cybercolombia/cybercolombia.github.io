@@ -3,6 +3,8 @@ main:
     url: /summer_school/
   - title: "Mission"
     url: /mission/
+  - title: "News"
+    url: /news/
   - title: "Contact"
     url: /contact/
 

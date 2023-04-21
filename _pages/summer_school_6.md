@@ -60,6 +60,13 @@ toc_sticky: true     # enables sticky toc
 <p></p>
 <p>To be defined soon ...</p>
 
+### Partners
+<p></p>
+<center>
+<img width="100%" src="/assets/images/institutions/2023/logos.png"> 
+</center>
+
+
 ### Organizing Committee
 <p></p>
 
