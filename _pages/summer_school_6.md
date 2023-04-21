@@ -43,7 +43,7 @@ toc_sticky: true     # enables sticky toc
 
 ### Registration
 
-<p>To be defined soon...</p>
+<p>To be defined soon ...</p>
 
 ### Important dates
 <p></p>
@@ -58,7 +58,7 @@ toc_sticky: true     # enables sticky toc
 
 ### Programme
 <p></p>
-<p>To be defined soon...</p>
+<p>To be defined soon ...</p>
 
 ### Organizing Committee
 <p></p>
