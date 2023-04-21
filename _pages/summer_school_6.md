@@ -43,7 +43,7 @@ toc_sticky: true     # enables sticky toc
 
 ### Registration
 
-<p>To be defined soo...</p>
+<p>To be defined soon ...</p>
 
 ### Important dates
 <p></p>
