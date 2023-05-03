@@ -53,7 +53,7 @@ toc_sticky: true     # enables sticky toc
 |**Registration closes** |June 15, 2023                |
 |**Scholarship opens** |June 01 2023                   |
 |**Scholarship closes** |June 15, 2023                 |
-|**Format**| Hibrid virtual/in-person                  | 
+|**Format**| Hybrid virtual/in-person                  | 
 
 
 ### Programme
