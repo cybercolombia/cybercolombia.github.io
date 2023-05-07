@@ -2,9 +2,9 @@
 permalink: /summer_school_6/
 title: "Welcome to the 6th HPC Summer School"
 excerpt: |
-    This will be the sixth installment in a series of international schools, organized by Cyber Colombia. 
+    Foundations of High-Performance Computing: Parallel and Distributed Computing 
 header:
-  overlay_image: /assets/images/ss/banner_2022.jpg
+  overlay_image: /assets/images/ss/2023-ss-banner.jpeg
   overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
 
   # actions:
@@ -29,6 +29,31 @@ organizing_committee:
     excerpt: |
         **Dr. Carlos Álvarez**
 
+co_committee:
+  - image_path: /assets/images/committee/2023/clara_bermudez.jpg
+    excerpt: |
+        **Dr. Clara Bermudez**
+  - image_path: /assets/images/committee/2023/julian_rincon.png
+    excerpt: |
+        **Dr. Julian Rincon**
+  - image_path: /assets/images/committee/2023/juan_lalinde.jpg
+    excerpt: |
+        **Dr. Juan Lalinde**
+  - image_path: /assets/images/committee/2023/elvis_gaona.jpg
+    excerpt: |
+        **Dr. Elvis Gaona**
+  - image_path: /assets/images/committee/2023/david_franco.jfif
+    excerpt: |
+        **Dr. David Franco**
+
+logistics_committee:
+  - image_path: /assets/images/committee/2023/edison_valencia.jpg
+    excerpt: |
+        **Edison Valencia**
+  - image_path: /assets/images/committee/2023/ismael_gonzales.jpg
+    excerpt: |
+        **Ismael Gonzales**
+
 breadcrumbs: false
 toc: true
 toc_label: "Content" # defautl: Content
@@ -43,22 +68,33 @@ toc_sticky: true     # enables sticky toc
 
 ### Registration
 
-<p>To be defined soon ...</p>
+<p> The event will be held in-person in the different reception sites: </p>
+
+| **Site** | **Venue** |
+| **Universidad Nacional de Colombia** | Carrera 45 # 26-85, Bogotá|
+| **Universidad de Distrital** | Calle 13 # 31 -75, Bogotá |
+| **Universidad de los Andes** | Carrera 1 # 18a-12, Bogotá |
+| **Universidad EAFIT** | Carrera 49, Cl. 7 Sur #50, Medellín |
+| **Universidad de Cartagena** | Carrera 6 # 36-100, Cartagena de Indias |
 
 ### Important dates
 <p></p>
 
-|**Date and Time (COT)** |June 20 - 23, 2023           |
+|**Date and Time (COT)** |June 20 - 22, 2023           |
 |**Registration opens** |Abril 01 2023                 |
 |**Registration closes** |June 15, 2023                |
 |**Scholarship opens** |June 01 2023                   |
 |**Scholarship closes** |June 15, 2023                 |
-|**Format**| Hybrid virtual/in-person                  | 
-
+|**Format**| In-person                  | 
 
 ### Programme
 <p></p>
-<p>To be defined soon ...</p>
+
+<p>Meet the detailed program and speakers resume <a href="https://drive.google.com/file/d/1ClMM2SqCLVHmqCZ6bWjTjAoEzHYGXE5r/view?usp=sharing" target="_blank">here</a></p>
+<p></p>
+
+<iframe frameborder="0" scrolling="no" style="border:none; overflow:hidden;" height="800" width="100%" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTtughhD1QpB-a5WuTkZftOXwJX_IAayLgkouFvIqdW2hxStuZpwTzEIYu8VLn8XsHtcVco01Eex5q0/pubhtml?gid=1708604923&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 
 ### Partners
 <p></p>
@@ -66,8 +102,17 @@ toc_sticky: true     # enables sticky toc
 <img width="100%" src="/assets/images/institutions/2023/logos.png"> 
 </center>
 
-
 ### Organizing Committee
 <p></p>
 
 {% include feature_row id="organizing_committee" %}
+
+### Co-organizers
+<p></p>
+
+{% include feature_row id="co_committee" %}
+
+### Logistics
+<p></p>
+
+{% include feature_row id="logistics_committee" %}
