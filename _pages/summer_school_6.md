@@ -45,14 +45,15 @@ co_committee:
   - image_path: /assets/images/committee/2023/david_franco.jfif
     excerpt: |
         **Dr. David Franco**
-
-logistics_committee:
   - image_path: /assets/images/committee/2023/edison_valencia.jpg
     excerpt: |
-        **Edison Valencia**
+        **Dr. Edison Valencia**
   - image_path: /assets/images/committee/2023/ismael_gonzales.jpg
     excerpt: |
-        **Ismael Gonzales**
+        **Dr. Ismael Gonzales**
+  - image_path: /assets/images/committee/2023/amaury_cabarca.jpg
+    excerpt: |
+        **Dr. Amauri Cabarca**
 
 breadcrumbs: false
 toc: true
@@ -70,12 +71,21 @@ toc_sticky: true     # enables sticky toc
 
 <p> The event will be held in-person in the different reception sites: </p>
 
-| **Site** | **Venue** |
+<!-- | **Site** | **Contact** |
 | **Universidad Nacional de Colombia** | Carrera 45 # 26-85, Bogotá|
-| **Universidad de Distrital** | Calle 13 # 31 -75, Bogotá |
+| **Universidad Distrital Francisco José de Caldas** | Carrera 7 # 40B- 53, Bogotá <br />(Semisótano Edificio Administrativo – Sala de Investigadores) |
 | **Universidad de los Andes** | Carrera 1 # 18a-12, Bogotá |
 | **Universidad EAFIT** | Carrera 49, Cl. 7 Sur #50, Medellín |
-| **Universidad de Cartagena** | Carrera 6 # 36-100, Cartagena de Indias |
+| **Universidad de Cartagena** | Carrera 6 # 36-100, Cartagena de Indias | -->
+
+| **Site** | **Contact** |
+| **Universidad Nacional de Colombia** (Bogotá) |  |
+| **Universidad Distrital Francisco José de Caldas** (Bogotá) |  |
+| **Universidad de los Andes** (Bogotá)|  |
+| **Universidad EAFIT** (Medellín)|  |
+| **Universidad de Cartagena** (Cartagena)| pringsistemas@unicartagena.edu.co |
+
+<p style="font-size: 18px"> In addition, you can contact Aurelio Vivas: aa.vivas@uniandes.edu.co</p>
 
 ### Important dates
 <p></p>
@@ -111,8 +121,3 @@ toc_sticky: true     # enables sticky toc
 <p></p>
 
 {% include feature_row id="co_committee" %}
-
-### Logistics
-<p></p>
-
-{% include feature_row id="logistics_committee" %}
