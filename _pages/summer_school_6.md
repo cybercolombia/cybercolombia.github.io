@@ -80,7 +80,7 @@ toc_sticky: true     # enables sticky toc
 
 | **Site** | **Contact** |
 | **Universidad Nacional de Colombia** (Bogotá) |  |
-| **Universidad Distrital Francisco José de Caldas** (Bogotá) |  |
+| **Universidad Distrital Francisco José de Caldas** (Bogotá) |  doctoradoing@udistrital.edu.co|
 | **Universidad de los Andes** (Bogotá)|  |
 | **Universidad EAFIT** (Medellín)|  |
 | **Universidad de Cartagena** (Cartagena)| pringsistemas@unicartagena.edu.co |
