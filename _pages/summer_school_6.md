@@ -78,12 +78,12 @@ toc_sticky: true     # enables sticky toc
 | **Universidad EAFIT** | Carrera 49, Cl. 7 Sur #50, Medellín |
 | **Universidad de Cartagena** | Carrera 6 # 36-100, Cartagena de Indias | -->
 
-| **Site** | **Application form/email** |
-| **Universidad Nacional de Colombia** (Bogotá) | centroscico_nal@unal.edu.co |
-| **Universidad Distrital Francisco José de Caldas** (Bogotá) | doctoradoing@udistrital.edu.co |
-| **Universidad de los Andes** (Bogotá)| [Form](https://forms.office.com/r/U6kCGPnJsS) |
-| **Universidad EAFIT** (Medellín)| akcastror@eafit.edu.co |
-| **Universidad de Cartagena** (Cartagena)| pringsistemas@unicartagena.edu.co |
+| **Site** | **Application form** | **Contact** |
+| **Universidad Nacional de Colombia** (Bogotá) | on-site | centroscico_nal@unal.edu.co |
+| **Universidad Distrital Francisco José de Caldas** (Bogotá) | [Form](https://forms.office.com/r/bKhKwX44BN) | doctoradoing@udistrital.edu.co |
+| **Universidad de los Andes** (Bogotá)| [Form](https://forms.office.com/r/U6kCGPnJsS) | aa.vivas@uniandes.edu.co |
+| **Universidad EAFIT** (Medellín)| on-site | akcastror@eafit.edu.co |
+| **Universidad de Cartagena** (Cartagena)| on-site | pringsistemas@unicartagena.edu.co |
 
 <p style="font-size: 18px"> In addition, you can contact Aurelio Vivas: aa.vivas@uniandes.edu.co</p>
 
