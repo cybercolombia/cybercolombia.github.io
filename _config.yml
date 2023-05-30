@@ -100,3 +100,8 @@ tag_archive:
   path: /tags/
   author_profile: false
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-YEDWN6V24L"
+    anonymize_ip: false # default
