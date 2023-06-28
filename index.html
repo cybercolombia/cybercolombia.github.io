@@ -35,26 +35,38 @@ first:
 
 second:
   - title: "Consulting"
-    #image_path: "/assets/images/ss/ 2021-04-08_mt.png"
+    #image_path: "/assets/images/ss/2021-04-08_mt.png"
     excerpt: |
       Consulting on the use of high-performance computing tools and systems, as well as 
       on adjusting scientific and business workloads to take advantage of the computational 
       power of high-performance computing systems.
 
-    url: "#test-link"
+    url: "/consulting/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+third:
+  - title: "Research"
+    #image_path: "/assets/images/ss/2021-04-08_mt.png"
+    excerpt: |
+      Our research endeavors revolve around the exploration of recent trends in
+      high-performance computing (HPC) hardware and software tools. 
+      We devote our scholarly efforts to harnessing the full potential of these advancements, 
+      aiming to address the most exigent national challenges. Specifically, 
+      we channel our expertise towards domains of utmost significance, 
+      including weather forecasting, bioinformatics, and other intricate fields, 
+      where HPC applications hold promising prospects for robust problem-solving.
+  
+    url: "/research/"
     btn_label: "Read More"
     btn_class: "btn--primary" 
+  
 
 
 ---
 
 {% include feature_row id="intro" type="center" %}
-
 {% include feature_row id="summer" type="center" %}
-
 {% include feature_row id="first" type="center" %}
-
 {% include feature_row id="second" type="center" %}
-
-
-
+{% include feature_row id="third" type="center" %}
