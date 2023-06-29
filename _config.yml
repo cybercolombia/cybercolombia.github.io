@@ -22,6 +22,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   foster the development of applications supported on these technologies in Colombia.
 logo: "/assets/images/logo.png"
 twitter_username: "@hpccol"
+repository: "cybercolombia/cybercolombia.github.io"
+github: [metadata]
 github_username: cybercolombia
 linkedin_username: 76894044 
 minimal_mistakes_skin: contrast #default
