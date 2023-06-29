@@ -9,7 +9,7 @@ active_members:
     excerpt: |
         **ejhernandezb@udistrital.edu.co**
 
-        PhD on Engineering with focus on HPC for Weather Forecasting. Senior Software architect with +17 years of experience, my strengths include a deep understanding of availability, performance, security, and capacity planning. I also have a deep understanding of and experience working with Big Data environments using Data Sciences tools and techniques. He has developed generations of high availability architectures based on open source software with JBoss, Glassfish and Apache Tomcat, tuned computing platforms to achieve high processing performance and implemented scientific programs using OpenMP, MPI, CUDA, OpenCL and OpenACC, and other parallel frameworks and languages. Dr. Hernandez has  working as Senior Big Data Architect on AWS and HPC,  Expert and currently Working as Senior Experto on Mercadolibre Colombia.
+        PhD on Engineering with focus on HPC for Weather Forecasting. Senior Software architect with +17 years of experience, my strengths include a deep understanding of availability, performance, security, and capacity planning. I also have a deep understanding of and experience working with Big Data environments using Data Sciences tools and techniques. He has developed generations of high availability architectures based on open source software with JBoss, Glassfish and Apache Tomcat, tuned computing platforms to achieve high processing performance and implemented scientific programs using OpenMP, MPI, CUDA, OpenCL and OpenACC, and other parallel frameworks and languages. Dr. Hernandez has  working as Senior Big Data Architect on AWS and HPC,  Expert and currently Working as Senior Expert on Mercadolibre Colombia.
   
   - image_path: /assets/images/members/carlos_alvarez.jpg
     alt: "Dr. Carlos Álvarez"
@@ -17,7 +17,7 @@ active_members:
     excerpt: |
         **carlosedu.alvarez@urosario.edu.co**
 
-        Biologist with a Master in Physics from Universidad de los Andes. Obtained his Ph.D. in Physics from Université Paris XI developing models on ferrofluids and charged colloids via molecular simulations. He did his post-doctoral stay in the Technische Universität of Berlín, where he worked on numerical simulations of magnetic nano-rods. He has worked with several parallel computing frameworks like OpenMP, MPI and Cuda. Currently, he is a Professor of the School of Engineering, Science and Technology at Universidad del Rosario – Bogotá.
+        Biologist with a Master in Physics from Universidad de los Andes. Obtained his Ph.D. in Physics from Université Paris XI developing models on ferrofluids and charged colloids via molecular simulations. He did his post-doctoral stay in the Technische Universität of Berlín, where he worked on numerical simulations of magnetic nano-rods. He has worked with several parallel computing frameworks like OpenMP, MPI and Cuda. Currently, he was a Professor of the School of Engineering, Science and Technology at Universidad del Rosario – Bogotá and currently Professor of Tecnologico de Monterrey, Mexico.
  
   - image_path: /assets/images/members/jose_monsalve.jpeg
     alt: "Dr. Jose Monsalve"
