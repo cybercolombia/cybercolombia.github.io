@@ -5,7 +5,7 @@ title: "Consulting Services"
 excerpt: |
    Our consulting services offer comprehensive expertise in the realm of high-performance computing (HPC). With a deep understanding of industry best practices and cutting-edge technologies, we provide strategic guidance and practical solutions tailored to optimize HPC performance, scalability, and efficiency for your organization. Partner with us to unlock the full potential of HPC and achieve accelerated innovation and impactful results. 
 header:
-  overlay_image: /assets/images/ss/ss_banner.jpg
+  overlay_image: /assets/images/work.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 
 sidebar:

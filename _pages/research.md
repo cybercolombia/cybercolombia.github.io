@@ -5,7 +5,7 @@ title: "HPC Research"
 excerpt: |
     The research services in HPC and analytics at scale bring together a team of accomplished experts specializing in fluid dynamics, weather forecasting, physics, and big data processing. With a deep understanding of high-performance computing and advanced analytics techniques, tailored consulting solutions are provided across diverse domains. By harnessing the power of HPC, researchers are empowered to unlock transformative insights from large datasets, optimize fluid dynamics simulations, and drive innovative breakthroughs in their fields of study. Collaboration with this experienced team propels research endeavors forward, enabling unprecedented advancements in HPC and analytics at scale.  
 header:
-  overlay_image: /assets/images/ss/ss_banner.jpg
+  overlay_image: /assets/images/research.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 
 sidebar:
