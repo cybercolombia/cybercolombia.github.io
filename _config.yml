@@ -23,6 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 logo: "/assets/images/logo.png"
 twitter_username: "@hpccol"
 github_username: cybercolombia
+linkedin_username: 76894044 
 minimal_mistakes_skin: contrast #default
 search: false
 author_profile: false
@@ -69,6 +70,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cybercolombia"
+    - label: "Linkedin"
+      icon:  "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/company/76894044/"
 
 defaults:
   # _pages

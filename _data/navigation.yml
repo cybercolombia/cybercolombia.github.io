@@ -1,10 +1,12 @@
 main:
-  - title: "Summer School 2023"
-    url: /summer_school_6/
+  - title: "Summer"
+    url: /summer_school/
   - title: "Mission"
     url: /mission/
   - title: "News"
     url: /news/
+  - title: "Team"
+    url: /team/
   - title: "Contact"
     url: /contact/
 
