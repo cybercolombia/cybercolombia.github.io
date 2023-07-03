@@ -7,6 +7,7 @@ active_members:
     alt: "Dr. Esteban Hernández"
     title: "Dr. Esteban Hernández"
     excerpt: |
+        **esteban.hernandez@cybercolombia.org**
         **ejhernandezb@udistrital.edu.co**
 
         PhD on Engineering with focus on HPC for Weather Forecasting. Senior Software architect with +17 years of experience, my strengths include a deep understanding of availability, performance, security, and capacity planning. I also have a deep understanding of and experience working with Big Data environments using Data Sciences tools and techniques. He has developed generations of high availability architectures based on open source software with JBoss, Glassfish and Apache Tomcat, tuned computing platforms to achieve high processing performance and implemented scientific programs using OpenMP, MPI, CUDA, OpenCL and OpenACC, and other parallel frameworks and languages. Dr. Hernandez has  working as Senior Big Data Architect on AWS and HPC,  Expert and currently Working as Senior Expert on Mercadolibre Colombia.
@@ -15,7 +16,8 @@ active_members:
     alt: "Dr. Carlos Álvarez"
     title: "Dr. Carlos Álvarez"
     excerpt: |
-        **carlosedu.alvarez@urosario.edu.co**
+        **carlos.alvarez@cybercolombia.org**
+        **carlosedu.alvarezcab@gmail.com**
 
         Biologist with a Master in Physics from Universidad de los Andes. Obtained his Ph.D. in Physics from Université Paris XI developing models on ferrofluids and charged colloids via molecular simulations. He did his post-doctoral stay in the Technische Universität of Berlín, where he worked on numerical simulations of magnetic nano-rods. He has worked with several parallel computing frameworks like OpenMP, MPI and Cuda. Currently, he was a Professor of the School of Engineering, Science and Technology at Universidad del Rosario – Bogotá and currently Professor of Tecnologico de Monterrey, Mexico.
  
@@ -23,6 +25,7 @@ active_members:
     alt: "Dr. Jose Monsalve"
     title: "Dr. Jose Monsalve"
     excerpt: |
+        **jose.monsalve@cybercolombia.org**
         **josem@udel.edu.co**
 
         Jose Manuel Monsalve Diaz obtained his bachelor’s degree in Electrical Engineering from the Pontificia Universidad Javeriana in Bogotá in 2013, and his Master in Electrical and Computer Engineering from the University of Delaware in 2020.  After graduation in 2013, he continued his studies at the University of Delaware where he is currently pursuing his PhD on the area of Parallel Computing Architectures. He is also a graduate researcher in Argonne National Laboratory since 2018. Throughout the years he has worked as a research assistant of the CAPSL research group for Prof Guang. R. Gao, and the CRPL research group for Prof. Sunita Chandrasekaran. His areas of interest are parallel computer architecture design, parallel computer systems and parallel programming models. He has worked on validation and verification of OpenMP target offloading, as well as with OpenACC programming targetting CPU and heterogeneous systems based on GPGPUs.
@@ -31,6 +34,7 @@ active_members:
     alt: "M.Sc. Aurelio Vivas"
     title: "M.Sc. Aurelio Vivas"
     excerpt: |
+        **aurelio.vivas@cybercolombia.org**
         **aa.vivas@uniandes.edu.co**
 
         Aurelio Vivas, computing engineer from the Universidad del Valle. He earned a master's degree and is currently a doctoral student at Universidad de los Andes, Bogotá, Colombia. Aurelio has worked mainly in the area of parallel and distributed computing applied to climate modelling, molecular dynamics and large-scale satellite image processing. He has participated as an analyst, developer or coordinator in research projects related to earthquake analysis, urban planning and large-scale satellite image processing.
