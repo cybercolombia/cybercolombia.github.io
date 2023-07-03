@@ -7,7 +7,7 @@ members:
     alt: "Dr. Esteban Hernández"
     title: "Dr. Esteban Hernández"
     excerpt: |
-        **esteban.hernandez@cybercolombia.org**
+        **esteban.hernandez@cybercolombia.org**,
         **ejhernandezb@udistrital.edu.co**
         Working on Distributed System, Weather Forecasting, Computational Molecular Dynamics and HPC on Cloud.
   
@@ -15,7 +15,7 @@ members:
     alt: "Dr. Carlos Álvarez"
     title: "Dr. Carlos Álvarez"
     excerpt: |
-        **carlos.alvarez@cybercolombia.org**
+        **carlos.alvarez@cybercolombia.org**,
         **carlosedu.alvarez@urosario.edu.co**
 
         Working with  several parallel computing frameworks like OpenMP, MPI and Cuda. 
@@ -24,8 +24,8 @@ members:
     alt: "Dr. Jose Monsalve"
     title: "Dr. Jose Monsalve"
     excerpt: |
-        **jose.monsalve@cybercolombia.org**
-        **josem@udel.edu.co*
+        **jose.monsalve@cybercolombia.org**,
+        **josem@udel.edu.co**
 
         Working on validation and verification of OpenMP target offloading, as well as with OpenACC programming targetting CPU and heterogeneous systems based on GPGPUs.
   
@@ -33,7 +33,7 @@ members:
     alt: "M.Sc. Aurelio Vivas"
     title: "M.Sc. Aurelio Vivas"
     excerpt: |
-        **aurelio.vivas@cybercolombia.org**
+        **aurelio.vivas@cybercolombia.org**,
         **aa.vivas@uniandes.edu.co**
 
         Working on parallel and distributed computing applied to climate modelling, molecular dynamics and large-scale satellite image processing. satellite image processing.
