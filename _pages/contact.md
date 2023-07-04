@@ -9,6 +9,7 @@ members:
     excerpt: |
         **esteban.hernandez@cybercolombia.org**,
         **ejhernandezb@udistrital.edu.co**
+        
         Working on Distributed System, Weather Forecasting, Computational Molecular Dynamics and HPC on Cloud.
   
   - image_path: /assets/images/members/carlos_alvarez.jpg
