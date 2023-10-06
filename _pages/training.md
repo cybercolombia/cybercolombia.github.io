@@ -22,6 +22,8 @@ sidebar:
   }
 </style>
 
+# SUMMER SCHOOL
+  
 
 # WORKSHOPS AND SEMINARS
 
