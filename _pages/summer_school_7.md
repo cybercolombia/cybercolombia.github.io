@@ -33,27 +33,52 @@ co_committee:
   - image_path: /assets/images/committee/2023/clara_bermudez.jpg
     excerpt: |
         **Dr. Clara Bermudez**
+        *Universidad Nacional*
   - image_path: /assets/images/committee/2023/julian_rincon.png
     excerpt: |
         **Dr. Julian Rincon**
+        *Universidad de los Andes*
   - image_path: /assets/images/committee/2023/juan_lalinde.jpg
     excerpt: |
         **Dr. Juan Lalinde**
-  - image_path: /assets/images/committee/2023/elvis_gaona.jpg
-    excerpt: |
-        **Dr. Elvis Gaona**
-  - image_path: /assets/images/committee/2023/david_franco.jfif
-    excerpt: |
-        **Dr. David Franco**
+        *Universidad Eafit*
   - image_path: /assets/images/committee/2023/edison_valencia.jpg
     excerpt: |
         **Dr. Edison Valencia**
+        *Universidad Eafit*
+  - image_path: /assets/images/committee/2023/elvis_gaona.jpg
+    excerpt: |
+        **Dr. Elvis Gaona**
+        *Universidad Distrital*
+  - image_path: /assets/images/committee/2023/david_franco.jfif
+    excerpt: |
+        **Dr. David Franco**
+        *Universidad de Cartagena*
   - image_path: /assets/images/committee/2023/ismael_gonzales.jpg
     excerpt: |
         **Dr. Ismael Gonzales**
-  - image_path: /assets/images/committee/2023/amaury_cabarca.jpg
+        *Universidad de Cartagena*
+  - image_path: /assets/images/committee/2024/CarlosPINILLA_Uninorte.jpg
     excerpt: |
-        **Dr. Amauri Cabarca**
+        **Dr. Carlos Pinilla**
+        *Universidad del Norte*
+  - image_path: /assets/images/committee/2024/CamiloESPEJO_Uninorte.jpg
+    excerpt: |
+        **Dr. Camilo Espejo**
+        *Universidad del Norte*
+  - image_path: /assets/images/committee/2024/OscarMondragonUAO.jpeg
+    excerpt: |
+        **Dr. Oscar Mondragon**
+        *Universidad Autonoma de Occidente*
+  - image_path: /assets/images/committee/2024/HelmutAlexanderRubio_UAO.jpg
+    excerpt: |
+        **Msc. Helmut Rubio**
+        *Universidad Autonoma de Occidente*
+  - image_path: /assets/images/committee/2024/JuanGuillermoTorres_Javeriana.JPG
+    excerpt: |
+        **Dr. Juan Guillermo Torres**
+        *Universidad Javeriana*
+
 
 breadcrumbs: false
 toc: true
@@ -65,7 +90,7 @@ toc_sticky: true     # enables sticky toc
 
 ### Introduction
 <p></p>
-<p style="text-align: justify; text-justify: inter-word;">This will be the sevent installment in a series of international schools, organized by CyberColombia. This year our focus will be include on I.A Field.  It is aimed at guiding students, researchers, and professionals from private and public sectors through technical talks and training on the use of high-performance computing (HPC) technologies.</p>
+<p style="text-align: justify; text-justify: inter-word;">This will be the sevent installment in a series of international schools, organized by CyberColombia. This year our focus will be include on AI Field.  It is aimed at guiding students, researchers, and professionals from private and public sectors through technical talks and training on the use of high-performance computing (HPC) technologies.</p>
 
 ### Registration
 
@@ -85,17 +110,18 @@ toc_sticky: true     # enables sticky toc
 | **Universidad EAFIT** (Medellín)| [Form](https://forms.office.com/pages/responsepage.aspx?id=XrX3mb6ce0aBQ5GXgpGK--ldUSQZkcZAl9DCSkym405UOU9IN0NBNUtCWUc5VlBXRFVaSFhCVUNIVi4u) | akcastror@eafit.edu.co |
 | **Universidad de Cartagena** (Cartagena)| on-site | pringsistemas@unicartagena.edu.co |
 | **Universidad Javeriana** (Bogota)| on-site | pringsistemas@javeriana.edu.co |
+| **Universidad Autonoma de Occidente** (Cali)| on-site |ohmondragon@uao.edu.co|
 
 <p style="font-size: 18px"> In addition, you can contact Aurelio Vivas: aa.vivas@uniandes.edu.co</p>
 
 ### Important dates
 <p></p>
 
-|**Date and Time (COT)** |June 20 - 22, 2023           |
-|**Registration opens** |Abril 01 2023                 |
-|**Registration closes** |June 15, 2023                |
-|**Scholarship opens** |June 01 2023                   |
-|**Scholarship closes** |June 15, 2023                 |
+|**Date and Time (COT)** |July 17 - 19, 2024           |
+|**Registration opens** |Abril 01 2024                 |
+|**Registration closes** |June 07, 2024                |
+|**Scholarship opens** |June 01 2024                   |
+|**Scholarship closes** |June 15, 2024                 |
 |**Format**| In-person                  | 
 
 ### Programme

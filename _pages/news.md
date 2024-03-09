@@ -17,3 +17,4 @@ layout: splash
 
 -  <p style="text-align: justify; text-justify: inter-word;"> Our paper "Expanding Horizons: Advancing HPC Education in Colombia through CyberColombia’s Summer Schools" will be present on  Supercomputing Conference 2023 at  <a href="https://sighpceducation.acm.org/events/bphte23_tech_program/" target="_blank">Tenth SC Workshop on Best Practices for HPC Training and Education BPHTE23</a>.
 
+<iframe src="https://www.linkedin.com/feed/update/urn:li:activity:7110414221510627328" height="349" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
