@@ -136,7 +136,7 @@ toc_sticky: true     # enables sticky toc
 ### Partners
 <p></p>
 <center>
-<img width="100%" src="/assets/images/institutions/2023/logos.png"> 
+<img width="100%" src="/assets/images/institutions/2024/logos.png"> 
 </center>
 
 ### Organizing Committee
