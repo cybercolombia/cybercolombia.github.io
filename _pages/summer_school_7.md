@@ -109,7 +109,7 @@ toc_sticky: true     # enables sticky toc
 | **Universidad de los Andes** (Bogotá)| [Form](https://forms.office.com/r/U6kCGPnJsS) | aa.vivas@uniandes.edu.co |
 | **Universidad EAFIT** (Medellín)| [Form](https://forms.office.com/pages/responsepage.aspx?id=XrX3mb6ce0aBQ5GXgpGK--ldUSQZkcZAl9DCSkym405UOU9IN0NBNUtCWUc5VlBXRFVaSFhCVUNIVi4u) | akcastror@eafit.edu.co |
 | **Universidad de Cartagena** (Cartagena)| on-site | pringsistemas@unicartagena.edu.co |
-| **Universidad Javeriana** (Bogota)| on-site | pringsistemas@javeriana.edu.co |
+| **Universidad Javeriana** (Bogota)| on-site | zine@javeriana.edu.co |
 | **Universidad Autonoma de Occidente** (Cali)| on-site |ohmondragon@uao.edu.co|
 
 <p style="font-size: 18px"> In addition, you can contact Aurelio Vivas: aa.vivas@uniandes.edu.co</p>
