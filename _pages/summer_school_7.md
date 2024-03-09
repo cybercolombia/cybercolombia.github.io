@@ -18,7 +18,7 @@ sidebar:
 organizing_committee:
   - image_path: /assets/images/members/aurelio_vivas.png
     excerpt: |
-        **M.Sc. Aurelio Vivas**
+        **PhD(c) Aurelio Vivas**
   - image_path: /assets/images/members/esteban_hernandez.jpg
     excerpt: |
         **Dr. Esteban Hernández**
@@ -111,6 +111,10 @@ toc_sticky: true     # enables sticky toc
 | **Universidad de Cartagena** (Cartagena)| on-site | pringsistemas@unicartagena.edu.co |
 | **Universidad Javeriana** (Bogota)| on-site | zine@javeriana.edu.co |
 | **Universidad Autonoma de Occidente** (Cali)| on-site |ohmondragon@uao.edu.co|
+| **Universidad del Norte** (Barranquilla)| on-site |ccpinilla@uninorte.edu.co|
+| **Universidad del Rosario** (Bogota)| on-site |	luis.seijas@urosario.edu.co|
+
+
 
 <p style="font-size: 18px"> In addition, you can contact Aurelio Vivas: aa.vivas@uniandes.edu.co</p>
 
