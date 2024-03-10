@@ -134,7 +134,8 @@ toc_sticky: true     # enables sticky toc
 <p>Meet the detailed program and speakers resume <a href="https://drive.google.com/file/d/1ClMM2SqCLVHmqCZ6bWjTjAoEzHYGXE5r/view?usp=sharing" target="_blank">here</a></p>
 <p></p>
 
-<iframe frameborder="0" scrolling="no" style="border:none; overflow:hidden;" height="800" width="100%" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTtughhD1QpB-a5WuTkZftOXwJX_IAayLgkouFvIqdW2hxStuZpwTzEIYu8VLn8XsHtcVco01Eex5q0/pubhtml?gid=1708604923&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+<iframe  frameborder="0" scrolling="no" style="border:none; overflow:hidden;" height="800" width="100%" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSnwsHUa88c-T6EHB3IXPXvc3wWbPBGra08NcXZzu9VWv0K3mRDZxGJl9rA-YILjPlLGyrlnh3wMAlI/pubhtml?gid=345604675&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 ### Partners
