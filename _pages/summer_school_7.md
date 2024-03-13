@@ -78,6 +78,10 @@ co_committee:
     excerpt: |
         **Dr. Juan Guillermo Torres**
         *Universidad Javeriana*
+  - image_path: /assets/images/committee/2024/Juan_Pablo_Fernandez_UdeMedellin.png
+    excerpt: |
+        **Dr. Juan Pablo Fernandez**
+        *Universidad de Medellín*
 
 
 breadcrumbs: false
@@ -113,6 +117,7 @@ toc_sticky: true     # enables sticky toc
 | **Universidad Autonoma de Occidente** (Cali)| on-site |ohmondragon@uao.edu.co|
 | **Universidad del Norte** (Barranquilla)| on-site |ccpinilla@uninorte.edu.co|
 | **Universidad del Rosario** (Bogota)| on-site |	luis.seijas@urosario.edu.co|
+| **Universidad de Medellín** (Medellín)| on-site |	jpfernandez@udemedellin.edu.co|
 
 
 
