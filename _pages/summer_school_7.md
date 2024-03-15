@@ -18,16 +18,16 @@ sidebar:
 organizing_committee:
   - image_path: /assets/images/members/aurelio_vivas.png
     excerpt: |
-        **PhD(c) Aurelio Vivas**
+        **Aurelio Vivas, PhD(c)**
   - image_path: /assets/images/members/esteban_hernandez.jpg
     excerpt: |
-        **Dr. Esteban Hernández**
+        **Esteban Hernández, PhD**
   - image_path: /assets/images/members/jose_monsalve.jpeg
     excerpt: |
-        **Dr. Jose Monsalve**
+        **Jose Monsalve, PhD**
   - image_path: "/assets/images/members/carlos_alvarez.jpg"
     excerpt: |
-        **Dr. Carlos Álvarez**
+        **Carlos Álvarez, PhD**
 
 co_committee:
   - image_path: /assets/images/committee/2023/clara_bermudez.jpg
@@ -76,13 +76,16 @@ co_committee:
         *Universidad Autonoma de Occidente*
   - image_path: /assets/images/committee/2024/JuanGuillermoTorres_Javeriana.JPG
     excerpt: |
-        **Dr. Juan Guillermo Torres**
+        **Dr. Juan Torres**
         *Universidad Javeriana*
-  - image_path: /assets/images/committee/2024/Juan_Pablo_Fernandez_UdeMedellin.png
+  - image_path: /assets/images/committee/2024/Luis_Eduardo_Seijas_Universidad_del_Rosario.jpg
     excerpt: |
-        **Dr. Juan Pablo Fernandez**
+        **Dr. Luis Seijas**
+        *Universidad del Rosario*
+  - image_path: /assets/images/committee/2024/Juan_Pablo_Fernandez_UdeMedellin.jpeg
+    excerpt: |
+        **Dr. Juan Fernandez**
         *Universidad de Medellín*
-
 
 breadcrumbs: false
 toc: true
