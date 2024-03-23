@@ -129,7 +129,7 @@ toc_sticky: true     # enables sticky toc
 ### Important dates
 <p></p>
 
-|**Date and Time (COT)** |July 17 - 19, 2024           |
+|**Date and Time (COT)** |June 17 - 19, 2024           |
 |**Registration opens** |Abril 01 2024                 |
 |**Registration closes** |June 07, 2024                |
 |**Scholarship opens** |June 01 2024                   |
