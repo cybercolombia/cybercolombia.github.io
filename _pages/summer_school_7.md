@@ -139,7 +139,7 @@ toc_sticky: true     # enables sticky toc
 ### Programme
 <p></p>
 
-<p>Meet the detailed program and speakers resume <a href="https://drive.google.com/file/d/1ClMM2SqCLVHmqCZ6bWjTjAoEzHYGXE5r/view?usp=sharing" target="_blank">here</a></p>
+<p>Meet the detailed program and speakers resume <a href="https://docs.google.com/document/d/1aKNhTFUJOnQgxXDr6kucGUz0DRjoa5M2KjHckzM1WGU/edit?usp=sharing" target="_blank">here</a></p>
 <p></p>
 
 
