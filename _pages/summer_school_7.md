@@ -111,10 +111,10 @@ toc_sticky: true     # enables sticky toc
 | **Universidad de Cartagena** | Carrera 6 # 36-100, Cartagena de Indias | -->
 
 | **Site** | **Application form** | **Contact** |
-| **Universidad Nacional de Colombia** (Bogotá) | [Form](https://docs.google.com/forms/d/e/1FAIpQLSdBSzF5P1IxdvmE-04g9LQ2qtQPtIqUX23BWKufIeA_qEE75w/viewform?usp=pp_url) | centroscico_nal@unal.edu.co |
-| **Universidad Distrital Francisco José de Caldas** (Bogotá) | [Form](https://forms.office.com/r/bKhKwX44BN) | doctoradoing@udistrital.edu.co |
-| **Universidad de los Andes** (Bogotá)| [Form](https://forms.office.com/r/U6kCGPnJsS) | aa.vivas@uniandes.edu.co |
-| **Universidad EAFIT** (Medellín)| [Form](https://forms.office.com/pages/responsepage.aspx?id=XrX3mb6ce0aBQ5GXgpGK--ldUSQZkcZAl9DCSkym405UOU9IN0NBNUtCWUc5VlBXRFVaSFhCVUNIVi4u) | akcastror@eafit.edu.co |
+| **Universidad Nacional de Colombia** (Bogotá) | [Form]() | centroscico_nal@unal.edu.co |
+| **Universidad Distrital Francisco José de Caldas** (Bogotá) | [Form](https://forms.office.com/r/VZJdkKV2xV) | doctoradoing@udistrital.edu.co |
+| **Universidad de los Andes** (Bogotá)| [Form]() | aa.vivas@uniandes.edu.co |
+| **Universidad EAFIT** (Medellín)| [Form]() | akcastror@eafit.edu.co |
 | **Universidad de Cartagena** (Cartagena)| on-site | pringsistemas@unicartagena.edu.co |
 | **Universidad Javeriana** (Bogota)| on-site | zine@javeriana.edu.co |
 | **Universidad Autonoma de Occidente** (Cali)| on-site |ohmondragon@uao.edu.co|
