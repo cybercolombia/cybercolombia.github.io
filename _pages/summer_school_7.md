@@ -122,11 +122,6 @@ toc_sticky: true     # enables sticky toc
 | **Universidad del Rosario** (Bogota)| on-site |	luis.seijas@urosario.edu.co|
 | **Universidad de Medellín** (Medellín)| on-site |	jpfernandez@udemedellin.edu.co|
 
-### CyberColombia Schoolarship
-
-<p> Provide the oportunity for studets whose Universities are not hosting the summer school this year to apply for the virtual experience of the event. The virtual experience offer assistence certificate emited by cybercolombia. </p>
-
-
 <p style="font-size: 18px"> In addition, you can contact Aurelio Vivas: aa.vivas@uniandes.edu.co</p>
 
 ### Important dates
