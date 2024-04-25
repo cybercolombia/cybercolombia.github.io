@@ -111,17 +111,20 @@ toc_sticky: true     # enables sticky toc
 | **Universidad de Cartagena** | Carrera 6 # 36-100, Cartagena de Indias | -->
 
 | **Site** | **Application form** | **Contact** |
-| **Universidad Nacional de Colombia** (Bogotá) | [Form]() | centroscico_nal@unal.edu.co |
-| **Universidad Distrital Francisco José de Caldas** (Bogotá) | [Form](https://forms.office.com/r/VZJdkKV2xV) | doctoradoing@udistrital.edu.co |
+| **Universidad Nacional de Colombia** (Bogotá) | [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSfc5cexVx-Ar1xlunGnLD83uGG6bgVaeE5-LdjyE4z_il9jCw/viewform?usp=pp_url) | centroscico_nal@unal.edu.co |
+| **Universidad Distrital Francisco José de Caldas** (Bogotá) | [Application Form](https://forms.office.com/r/VZJdkKV2xV) | doctoradoing@udistrital.edu.co |
 | **Universidad de los Andes** (Bogotá)| [Form]() | aa.vivas@uniandes.edu.co |
 | **Universidad EAFIT** (Medellín)| [Form]() | akcastror@eafit.edu.co |
 | **Universidad de Cartagena** (Cartagena)| on-site | pringsistemas@unicartagena.edu.co |
 | **Universidad Javeriana** (Bogota)| on-site | zine@javeriana.edu.co |
-| **Universidad Autonoma de Occidente** (Cali)| on-site |ohmondragon@uao.edu.co|
+| **Universidad Autonoma de Occidente** (Cali)| [Application Form](https://forms.office.com/Pages/ResponsePage.aspx?id=oL48aflOVEKJd3bgXLX1VjU7q3nkY41OikU1Q4j5AK9UM0ZTUzQ1SjBPQ1U0TzlKUFRKSlIyQlJMNi4u) |ohmondragon@uao.edu.co|
 | **Universidad del Norte** (Barranquilla)| on-site |ccpinilla@uninorte.edu.co|
 | **Universidad del Rosario** (Bogota)| on-site |	luis.seijas@urosario.edu.co|
 | **Universidad de Medellín** (Medellín)| on-site |	jpfernandez@udemedellin.edu.co|
 
+### CyberColombia Schoolarship
+
+<p> Provide the oportunity for studets whose Universities are not hosting the summer school this year to apply for the virtual experience of the event. The virtual experience offer assistence certificate emited by cybercolombia. </p>
 
 
 <p style="font-size: 18px"> In addition, you can contact Aurelio Vivas: aa.vivas@uniandes.edu.co</p>
