@@ -114,7 +114,7 @@ toc_sticky: true     # enables sticky toc
 | **Universidad Nacional de Colombia** (Bogotá) | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfc5cexVx-Ar1xlunGnLD83uGG6bgVaeE5-LdjyE4z_il9jCw/viewform?usp=pp_url) | centroscico_nal@unal.edu.co |
 | **Universidad Distrital Francisco José de Caldas** (Bogotá) | [Apply](https://forms.office.com/r/VZJdkKV2xV) | doctoradoing@udistrital.edu.co |
 | **Universidad de los Andes** (Bogotá)| on-site | aa.vivas@uniandes.edu.co |
-| **Universidad EAFIT** (Medellín)| on-site | akcastror@eafit.edu.co |
+| **Universidad EAFIT** (Medellín)| [Apply](https://forms.office.com/r/j7LGECzjzy) | akcastror@eafit.edu.co |
 | **Universidad de Cartagena** (Cartagena)| on-site | pringsistemas@unicartagena.edu.co |
 | **Universidad Javeriana** (Bogota)| on-site | zine@javeriana.edu.co |
 | **Universidad Autonoma de Occidente** (Cali)| [Apply](https://forms.office.com/Pages/ResponsePage.aspx?id=oL48aflOVEKJd3bgXLX1VjU7q3nkY41OikU1Q4j5AK9UM0ZTUzQ1SjBPQ1U0TzlKUFRKSlIyQlJMNi4u) |ohmondragon@uao.edu.co|
