@@ -118,7 +118,7 @@ toc_sticky: true     # enables sticky toc
 | **Universidad de Cartagena** (Cartagena)| on-site | pringsistemas@unicartagena.edu.co |
 | **Universidad Javeriana** (Bogota)| on-site | zine@javeriana.edu.co |
 | **Universidad Autonoma de Occidente** (Cali)| [Apply](https://forms.office.com/Pages/ResponsePage.aspx?id=oL48aflOVEKJd3bgXLX1VjU7q3nkY41OikU1Q4j5AK9UM0ZTUzQ1SjBPQ1U0TzlKUFRKSlIyQlJMNi4u) |ohmondragon@uao.edu.co|
-| **Universidad del Norte** (Barranquilla)| on-site |ccpinilla@uninorte.edu.co|
+| **Universidad del Norte** (Barranquilla)| [Apply](https://forms.office.com/r/cdML4Yawud) |ccpinilla@uninorte.edu.co|
 | **Universidad del Rosario** (Bogota)| on-site |	luis.seijas@urosario.edu.co|
 | **Universidad de Medellín** (Medellín)| on-site |	jpfernandez@udemedellin.edu.co|
 
