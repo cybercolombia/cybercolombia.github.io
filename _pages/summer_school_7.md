@@ -50,13 +50,13 @@ co_committee:
     excerpt: |
         **Dr. Elvis Gaona**
         *Universidad Distrital*
-  - image_path: /assets/images/committee/2023/david_franco.jfif
+  - image_path: /assets/images/committee/2024/JavierMontolla_Ucartagena.jpeg
     excerpt: |
-        **Dr. David Franco**
+        **Dr. Javier Montoya**
         *Universidad de Cartagena*
-  - image_path: /assets/images/committee/2023/ismael_gonzales.jpg
+  - image_path: /assets/images/committee/2024/AmauryCabarcas_Ucartagena.jpeg
     excerpt: |
-        **Dr. Ismael Gonzales**
+        **M.Sc. Amaury Cabarcas**
         *Universidad de Cartagena*
   - image_path: /assets/images/committee/2024/CarlosPINILLA_Uninorte.jpg
     excerpt: |
@@ -85,6 +85,10 @@ co_committee:
   - image_path: /assets/images/committee/2024/Juan_Pablo_Fernandez_UdeMedellin.jpeg
     excerpt: |
         **Dr. Juan Fernandez**
+        *Universidad de Medellín*
+  - image_path: /assets/images/committee/2021/harol.jpg
+    excerpt: |
+        **Dr. Harold Castro**
         *Universidad de Medellín*
 
 breadcrumbs: false
