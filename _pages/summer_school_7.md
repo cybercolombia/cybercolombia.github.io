@@ -56,7 +56,7 @@ co_committee:
         *Universidad de Cartagena*
   - image_path: /assets/images/committee/2024/AmauryCabarcas_Ucartagena.jpeg
     excerpt: |
-        **M.Sc. Amaury Cabarcas**
+        **Msc. Amaury Cabarcas**
         *Universidad de Cartagena*
   - image_path: /assets/images/committee/2024/CarlosPINILLA_Uninorte.jpg
     excerpt: |
@@ -89,7 +89,7 @@ co_committee:
   - image_path: /assets/images/committee/2021/harol.jpg
     excerpt: |
         **Dr. Harold Castro**
-        *Universidad de Medellín*
+        *Universidad de Los Andes*
 
 breadcrumbs: false
 toc: true
