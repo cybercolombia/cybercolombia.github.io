@@ -3,7 +3,7 @@ permalink: /consulting/
 title: "Consulting Services"
 # layout: splash
 excerpt: |
-   Our consulting services offer comprehensive expertise in the realm of high-performance computing (HPC). With a deep understanding of industry best practices and cutting-edge technologies, we provide strategic guidance and practical solutions tailored to optimize HPC performance, scalability, and efficiency for your organization. Partner with us to unlock the full potential of HPC and achieve accelerated innovation and impactful results. 
+   Our consulting services offer comprehensive expertise in the realm of high-performance computing (HPC). With a deep understanding of industry best practices and cutting-edge technologies, we provide strategic guidance and practical solutions tailored to optimize HPC performance, scalability, and efficiency for your organization. Partner with us to unlock the full potential of HPC and achieve accelerated innovation and impactful results.  Our consulting services are provides by <a href="https://cybercomputingcg.com/>"Cybercomputing Consulting Group </a>  
 header:
   overlay_image: /assets/images/work.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
