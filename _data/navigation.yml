@@ -9,9 +9,11 @@ main:
     url: /team/
   - title: "Contact"
     url: /contact/
+  - title: "Services"
+    url: /Services/
 
 sidebar-summers:
-  - title: Archive
+  - title: Summers
     children:
       - title: "Introduction"
         url: /summer_school/
@@ -31,9 +33,12 @@ sidebar-summers:
         url: /summer_school_1/
       - title: "1 HPC Workshop (2017)"
         url: /workshop_hpc_0/
+
 sidebar-services:
-  - title: Services
+  - title: "Services"
     children:
+      - title: "Services"
+        url:  /Services/
       - title: "Education & Training"
         url: /training/
       - title: "Consulting"
