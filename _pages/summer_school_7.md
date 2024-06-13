@@ -29,6 +29,36 @@ organizing_committee:
     excerpt: |
         **Carlos Álvarez, PhD**
 
+mentors:
+  - image_path: /assets/images/committee/2023/juan_lalinde.jpg
+    excerpt: |
+        **Dr. Juan Lalinde**
+        *Universidad Eafit*
+  - image_path: "/assets/images/speakers/2024/carolina_pardo.JPG"
+    excerpt: |
+        **Carolina Pardo, MSc**
+        *Universidad de los Andes*
+  - image_path: /assets/images/committee/2023/edison_valencia.jpg
+    excerpt: |
+        **Edison Valencia, PhD**
+        *Universidad Eafit*
+  - image_path: /assets/images/members/aurelio_vivas.png
+    excerpt: |
+        **Aurelio Vivas, PhD(c)**
+        *Universidad de los Andes*
+  - image_path: /assets/images/members/esteban_hernandez.jpg
+    excerpt: |
+        **Esteban Hernández, PhD** <br />
+        *CyberColombia*
+  - image_path: /assets/images/members/jose_monsalve.jpeg
+    excerpt: |
+        **Jose Monsalve, PhD**
+        *Advanced Micro Devices (AMD)*
+  - image_path: "/assets/images/members/carlos_alvarez.jpg"
+    excerpt: |
+        **Carlos Álvarez, PhD**
+        *Tecnológico de Monterrey*
+
 co_committee:
   - image_path: /assets/images/committee/2023/clara_bermudez.jpg
     excerpt: |
@@ -107,14 +137,7 @@ toc_sticky: true     # enables sticky toc
 
 <p> The event will be held in-person in the different reception sites: </p>
 
-<!-- | **Site** | **Contact** |
-| **Universidad Nacional de Colombia** | Carrera 45 # 26-85, Bogotá|
-| **Universidad Distrital Francisco José de Caldas** | Carrera 7 # 40B- 53, Bogotá <br />(Semisótano Edificio Administrativo – Sala de Investigadores) |
-| **Universidad de los Andes** | Carrera 1 # 18a-12, Bogotá |
-| **Universidad EAFIT** | Carrera 49, Cl. 7 Sur #50, Medellín |
-| **Universidad de Cartagena** | Carrera 6 # 36-100, Cartagena de Indias | -->
-
-| **Site** | **Application form** | **Contact** |
+| **Site** | **Application** | **Contact** |
 | **Universidad Nacional de Colombia** (Bogotá) | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfc5cexVx-Ar1xlunGnLD83uGG6bgVaeE5-LdjyE4z_il9jCw/viewform?usp=pp_url) | centroscico_nal@unal.edu.co |
 | **Universidad Distrital Francisco José de Caldas** (Bogotá) | [Apply](https://forms.office.com/r/VZJdkKV2xV) | doctoradoing@udistrital.edu.co |
 | **Universidad de los Andes** (Bogotá)| [Apply](https://forms.office.com/Pages/ResponsePage.aspx?id=fAS9-kj_KkmLu4-Yufucytt16Wh3KQ1PmoKGzkKA-xNUOVpXNDlRTDRVSFRTQk5QMFBaNlhSRjNIVC4u&origin=Invitation&channel=0) | aa.vivas@uniandes.edu.co |
@@ -154,6 +177,11 @@ toc_sticky: true     # enables sticky toc
 <img width="100%" src="/assets/images/institutions/2024/logos.png"> 
 </center>
 
+### Speakers & Mentors
+<p></p>
+
+{% include feature_row id="mentors" %}
+
 ### Organizing Committee
 <p></p>
 
@@ -163,3 +191,34 @@ toc_sticky: true     # enables sticky toc
 <p></p>
 
 {% include feature_row id="co_committee" %}
+
+### Student Volunteers
+<p></p>
+
+| **Name**            | **University**                                |
+|---------------------------------|-----------------------------------------------|
+| Juan Pablo Pajaro               | Pontificia Universidad Javeriana              |
+| Andrés Díaz Hurtado             | Pontificia Universidad Javeriana              |
+| John Corredor Franco            | Pontificia Universidad Javeriana              |
+| Norman Alfredo Pabon Gallo      | Universidad Autonoma de Occidente             |
+| Darcy Vanessa Mina Carabali     | Universidad Autonoma de Occidente             |
+| Andrés Eduardo Arnedo Escalante | Universidad de Cartagena                      |
+| Luis Angel Bustamante Castro    | Universidad de Cartagena                      |
+| Cristian David Palacio Morelos  | Universidad de Cartagena                      |
+| Ferneix Caleth Bello Zuñiga     | Universidad de Cartagena                      |
+| Ferneix Bello Zuñiga            | Universidad de Cartagena                      |
+| David Tobón Molina              | Universidad de los Andes                      |
+| Andrés Julián Bolívar Castañeda | Universidad de los Andes                      |
+| David Esteban Quiroga           | Universidad de los Andes                      |
+| Santiago Alberto Quiroz Pintor  | Universidad de los Andes                      |
+| David Lopez Rivera              | Universidad de Medellin                       |
+| Ricardo Mauricio Ortega Mipaz   | Universidad de Medellin                       |
+| Luis Carlos Arenas Villamizar   | Universidad de Medellin                       |
+| Andrés Grajales Marín           | Universidad de Medellín                       |
+| Joahn Hernandez                 | Universidad del Rosario                       |
+| Juan David Castañeda Betancourt | Universidad del Rosario                       |
+| Richar Javier Chia Jiménez      | Universidad Distrital                         |
+| Manuel Romero Peña              | Universidad Distrital                         |
+| Diego Fernando Suarez Sanchez   | Universidad Distrital Fracisco José de Caldas |
+| Maria Juliana Juardo Gomez      | Universidad Javeriana                         |
+| Edgar Babativa Gomez            | Universidad Nacional de Colombia              |
