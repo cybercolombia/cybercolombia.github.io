@@ -221,7 +221,6 @@ toc_sticky: true     # enables sticky toc
 | Luis Angel Bustamante Castro    | Universidad de Cartagena                      |
 | Cristian David Palacio Morelos  | Universidad de Cartagena                      |
 | Ferneix Caleth Bello Zuñiga     | Universidad de Cartagena                      |
-| Ferneix Bello Zuñiga            | Universidad de Cartagena                      |
 | Isaac David Bermudez Lara       | Universidad de los Andes                      |
 | David Tobón Molina              | Universidad de los Andes                      |
 | Andrés Julián Bolívar Castañeda | Universidad de los Andes                      |
@@ -235,3 +234,7 @@ toc_sticky: true     # enables sticky toc
 | Richar Javier Chia Jiménez      | Universidad Distrital Fracisco José de Caldas |
 | Manuel Romero Peña              | Universidad Distrital Fracisco José de Caldas |
 | Diego Fernando Suarez Sanchez   | Universidad Distrital Fracisco José de Caldas |
+| Julian Estiven Valencia Bolaños | Universidad EAFIT                             |
+| Julián Agudelo Cifuentes        | Universidad EAFIT                             |
+| Jerónimo Restrepo               | Universidad EAFIT                             |
+| Isabella Bejarano               | Universidad EAFIT                             |
