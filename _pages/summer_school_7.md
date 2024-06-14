@@ -227,6 +227,7 @@ toc_sticky: true     # enables sticky toc
 | David Esteban Quiroga           | Universidad de los Andes                      |
 | Santiago Alberto Quiroz Pintor  | Universidad de los Andes                      |
 | Samuel Charry Tobar             | Universidad de los Andes                      |
+| Jose Alejandro Cubillos Munoz   | Universidad de los Andes                      |
 | David Lopez Rivera              | Universidad de Medellin                       |
 | Ricardo Mauricio Ortega Mipaz   | Universidad de Medellin                       |
 | Luis Carlos Arenas Villamizar   | Universidad de Medellin                       |
