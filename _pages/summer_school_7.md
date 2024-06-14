@@ -60,11 +60,11 @@ mentors:
         *Tecnológico de Monterrey*
   - image_path: "/assets/images/committee/2024/DiegoAndresRodaPerdomo.jpg"
     excerpt: |
-        **Diego Andres Roda , PhD(c)**
-        *Argonne National laboratory*
+        **Diego Roda, PhD(c)**
+        *Argonne National Laboratory*
   - image_path: "assets/images/committee/2024/RafalAndresHerrera.jpg"
     excerpt: |
-        **Rafael Andres Herrera , PhD(c)**
+        **Rafael Herrera, PhD(c)**
         *Pacific Northwest National Laboratory*
 
 co_committee:
@@ -139,7 +139,7 @@ toc_sticky: true     # enables sticky toc
 
 ### Introduction
 <p></p>
-<p style="text-align: justify; text-justify: inter-word;">This will be the sevent installment in a series of international schools, organized by CyberColombia. This year our focus will be include on AI Field.  It is aimed at guiding students, researchers, and professionals from private and public sectors through technical talks and training on the use of high-performance computing (HPC) technologies.</p>
+<p style="text-align: justify; text-justify: inter-word;">Join us for the seventh edition of CyberColombia's International School series, focusing this year on the dynamic field of Artificial Intelligence (AI). This event is designed to provide students, researchers, and professionals from both the private and public sectors with in-depth technical talks and hands-on training. Participants will gain valuable insights and practical skills in using high-performance computing (HPC) technologies.</p>
 
 ### Registration
 
@@ -203,30 +203,35 @@ toc_sticky: true     # enables sticky toc
 ### Student Volunteers
 <p></p>
 
-| **Name**            | **University**                                |
+| **Name**                        | **University**                                |
 |---------------------------------|-----------------------------------------------|
+| Edgar Babativa Gomez            | Universidad Nacional de Colombia              |
+| Giuseppe Armando Gomez Donado   | Universidad del Norte                         |
 | Juan Pablo Pajaro               | Pontificia Universidad Javeriana              |
 | Andrés Díaz Hurtado             | Pontificia Universidad Javeriana              |
 | John Corredor Franco            | Pontificia Universidad Javeriana              |
+| Maria Juliana Jurado            | Pontificia Universidad Javeriana              |
+| Hector Piragauta                | Pontificia Universidad Javeriana              |
+| Juan David Castañeda Betancur   | Universidad del Rosario                       |
+| Joahn Steve Hernandez Prieto    | Universidad del Rosario                       |
 | Norman Alfredo Pabon Gallo      | Universidad Autonoma de Occidente             |
 | Darcy Vanessa Mina Carabali     | Universidad Autonoma de Occidente             |
+| Julian David Ocampo Daza        | Universidad Autonoma de Occidente             |
 | Andrés Eduardo Arnedo Escalante | Universidad de Cartagena                      |
 | Luis Angel Bustamante Castro    | Universidad de Cartagena                      |
 | Cristian David Palacio Morelos  | Universidad de Cartagena                      |
 | Ferneix Caleth Bello Zuñiga     | Universidad de Cartagena                      |
 | Ferneix Bello Zuñiga            | Universidad de Cartagena                      |
+| Isaac David Bermudez Lara       | Universidad de los Andes                      |
 | David Tobón Molina              | Universidad de los Andes                      |
 | Andrés Julián Bolívar Castañeda | Universidad de los Andes                      |
 | David Esteban Quiroga           | Universidad de los Andes                      |
 | Santiago Alberto Quiroz Pintor  | Universidad de los Andes                      |
+| Samuel Charry Tobar             | Universidad de los Andes                      |
 | David Lopez Rivera              | Universidad de Medellin                       |
 | Ricardo Mauricio Ortega Mipaz   | Universidad de Medellin                       |
 | Luis Carlos Arenas Villamizar   | Universidad de Medellin                       |
 | Andrés Grajales Marín           | Universidad de Medellín                       |
-| Joahn Hernandez                 | Universidad del Rosario                       |
-| Juan David Castañeda Betancourt | Universidad del Rosario                       |
-| Richar Javier Chia Jiménez      | Universidad Distrital                         |
-| Manuel Romero Peña              | Universidad Distrital                         |
+| Richar Javier Chia Jiménez      | Universidad Distrital Fracisco José de Caldas |
+| Manuel Romero Peña              | Universidad Distrital Fracisco José de Caldas |
 | Diego Fernando Suarez Sanchez   | Universidad Distrital Fracisco José de Caldas |
-| Maria Juliana Juardo Gomez      | Universidad Javeriana                         |
-| Edgar Babativa Gomez            | Universidad Nacional de Colombia              |
