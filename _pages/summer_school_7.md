@@ -58,6 +58,14 @@ mentors:
     excerpt: |
         **Carlos Álvarez, PhD**
         *Tecnológico de Monterrey*
+  - image_path: "/assets/images/committee/2024/DiegoAndresRodaPerdomo.jpg"
+    excerpt: |
+        **Diego Andres Roda , PhD(c)**
+        *Argonne National laboratory*
+  - image_path: "assets/images/committee/2024/RafalAndresHerrera.jpg"
+    excerpt: |
+        **Rafael Andres Herrera , PhD(c)**
+        *Pacific Northwest National Laboratory*
 
 co_committee:
   - image_path: /assets/images/committee/2023/clara_bermudez.jpg
