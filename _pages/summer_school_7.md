@@ -206,6 +206,7 @@ toc_sticky: true     # enables sticky toc
 | **Name**                        | **University**                                |
 |---------------------------------|-----------------------------------------------|
 | Edgar Babativa Gomez            | Universidad Nacional de Colombia              |
+| Neisser Saul Villa Correa       | Universidad del Norte                         |
 | Giuseppe Armando Gomez Donado   | Universidad del Norte                         |
 | Juan Pablo Pajaro               | Pontificia Universidad Javeriana              |
 | Andrés Díaz Hurtado             | Pontificia Universidad Javeriana              |
