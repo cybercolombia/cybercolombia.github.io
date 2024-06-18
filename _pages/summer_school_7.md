@@ -60,7 +60,7 @@ mentors:
         *Tecnológico de Monterrey*
   - image_path: "/assets/images/committee/2024/DiegoAndresRodaPerdomo.jpg"
     excerpt: |
-        **Diego Roda, PhD(c)**
+        **Diego Roa, PhD(c)**
         *Argonne National Laboratory*
   - image_path: "assets/images/committee/2024/RafalAndresHerrera.jpg"
     excerpt: |
@@ -129,18 +129,18 @@ co_committee:
         **Dr. Harold Castro**
         *Universidad de Los Andes*
 
-schoolarship:
+scholarship:
   - image_path: /assets/images/schoolarship/2024/luisa_moreno.png
     excerpt: |
         **Luisa Moreno**
         *Universidad de EIA*
   - image_path: /assets/images/schoolarship/2024/cristhian_naravez.jpg
     excerpt: |
-        **Edinson Benavides**
+        **Cristhian Naravez**
         *Universidad de Nariño*
   - image_path: /assets/images/schoolarship/2024/edinson_benavides.jpg
     excerpt: |
-        **Erick Chavez**
+        **Edinson Benavides**
         *Universidad de Nariño*
   - image_path: /assets/images/schoolarship/2024/erick_chavez.jpg
     excerpt: |
@@ -221,7 +221,7 @@ toc_sticky: true     # enables sticky toc
 ### CyberColombia Scholarship Awardees
 <p></p>
 
-{% include feature_row id="schoolarship" %}
+{% include feature_row id="scholarship" %}
 
 ### Student Volunteers
 <p></p>
