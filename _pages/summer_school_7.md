@@ -248,7 +248,6 @@ toc_sticky: true     # enables sticky toc
 | Isaac David Bermudez Lara       | Universidad de los Andes                      |
 | David Tobón Molina              | Universidad de los Andes                      |
 | Andrés Julián Bolívar Castañeda | Universidad de los Andes                      |
-| David Esteban Quiroga           | Universidad de los Andes                      |
 | Santiago Alberto Quiroz Pintor  | Universidad de los Andes                      |
 | Samuel Charry Tobar             | Universidad de los Andes                      |
 | Jose Alejandro Cubillos Munoz   | Universidad de los Andes                      |
