@@ -11,6 +11,8 @@ main:
     url: /contact/
   - title: "Services"
     url: /Services/
+  - title: "CallParticipation"
+    url: /call_2025/
 
 sidebar-summers:
   - title: Summers
@@ -46,3 +48,11 @@ sidebar-services:
       - title: "Research"
         url: /research/
 
+
+sidebar-call:
+  - title: "Call for participation"
+    children:
+      - title: "Description"
+        url: /call_for_description/
+      - title: "HPC Summer 2025"
+        url: /call_2025/
