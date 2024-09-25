@@ -1,4 +1,6 @@
 main:
+  - title: "CallParticipation"
+    url: /call_2025/
   - title: "Summer"
     url: /summer_school/
   - title: "Mission"
@@ -11,14 +13,15 @@ main:
     url: /contact/
   - title: "Services"
     url: /Services/
-  - title: "CallParticipation"
-    url: /call_2025/
+ 
 
 sidebar-summers:
   - title: Summers
     children:
       - title: "Introduction"
         url: /summer_school/
+      - title: "8th Summer School (2025)"
+        url: /call_2025/
       - title: "7th Summer School (2024)"
         url: /summer_school_7/
       - title: "6th Summer School (2023)"
