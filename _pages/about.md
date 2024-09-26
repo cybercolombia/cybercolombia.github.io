@@ -28,7 +28,8 @@ The CyberColombia logo is a vital part of our brand identity. To ensure consiste
 - **Alternative Logos (Symbol Only or Monochrome Versions):**
   - The "C" symbol on its own may be used in specific contexts where the full logo is not necessary (e.g., app icons or social media profile images). This symbol should always maintain the same proportions as the full logo.
   - Monochrome (black or white) versions may be used when color printing is not available or when placed on dark or complex backgrounds to ensure clarity and legibility.
-
+![Alternatives Logo](/assets/images/logos/cybercolombia_logo.jpeg) 
+![Alternatives Logo](/assets/images/logos/CyberColombia_Logo.png)
 ---
 
 **2. Clear Space and Minimum Size**
