@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Use of Cybercolombia Logo"
+title: "Use of Cybercolombia corporate images"
 ---
 
 
