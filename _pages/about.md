@@ -12,7 +12,6 @@ title: "Use of Cybercolombia corporate images"
   }
 </style>
 
-**Guidelines for Using the CyberColombia Logo**
 
 The CyberColombia logo is a vital part of our brand identity. To ensure consistent and proper usage across all platforms and media, please adhere to the following guidelines when using the CyberColombia logo.
 
