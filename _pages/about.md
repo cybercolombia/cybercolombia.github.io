@@ -4,7 +4,6 @@ title: "Use of Cybercolombia corporate images"
 ---
 
 
-
 <style>
   .page {
     width: calc(100% - 300px);
