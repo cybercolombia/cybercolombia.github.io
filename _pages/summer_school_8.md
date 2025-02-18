@@ -134,9 +134,9 @@ toc_sticky: true     # enables sticky toc
 
 |**Date and Time (COT)**                |June 16 - 19, 2025*    |
 |**Registration (Host Sites) opens**    |Jan 20, 2025           |
-|**Registration (Host sites) closes**   |March 05, 2024         |
+|**Registration (Host sites) closes**   |March 05, 2025         |
 |**Registration (Students) opens**      |March 31 2025          |
-|**Registration (Students) closes**     |June 07, 2024          |
+|**Registration (Students) closes**     |June 07, 2025          |
 |**Scholarship opens**                  |-                      |
 |**Scholarship closes**                 |-                      |
 |**Format**                             | In-person             | 
