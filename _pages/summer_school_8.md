@@ -4,7 +4,7 @@ title: "Welcome to the 8th HPC Summer School"
 excerpt: |
     Foundations of High-Performance Computing: Parallel and Distributed Computing 
 header:
-  overlay_image: /assets/images/ss/2023-ss-banner.jpeg
+  overlay_image: /assets/images/ss/ss_2021_banner.jpg
   overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
 
   actions:
@@ -100,18 +100,21 @@ toc_sticky: true     # enables sticky toc
 # classes: wide
 ---
 
+### Call for Participation: Hosting Universities
+<p></p>
+
+<p style="text-align: justify; text-justify: inter-word;">If you represent a university, research center, lab, or group with an interest in high-performance computing (HPC) and its applications—machine learning & AI, big data, numerical analysis at scale—don’t miss the chance to become a host site for #HPCSS2025!.</p>
+
+<p style="font-size: 18px">Contact us at info@cybercolombia.org for more details.</p>
+
 ### Introduction
 <p></p>
 <p style="text-align: justify; text-justify: inter-word;">Join us for the seventh edition of CyberColombia's International School series, focusing this year on the dynamic field of Artificial Intelligence (AI). This event is designed to provide students, researchers, and professionals from both the private and public sectors with in-depth technical talks and hands-on training. Participants will gain valuable insights and practical skills in using high-performance computing (HPC) technologies.</p>
 
-### Call for Participation: Host Universities.
 
-If you represent a university, research center, lab, or group with an interest in high-performance computing (HPC) and its applications—machine learning & AI, big data, numerical analysis at scale—don’t miss the chance to become a host site for #HPCSS2025!.
-
-Contact us at info@cybercolombia.org for more details.
 
 ### Host Universities
-
+<p></p>
 <p> The event will be held in-person in the different reception sites: </p>
 
 | **Site** | **Application** | **Contact** |
@@ -138,7 +141,7 @@ Contact us at info@cybercolombia.org for more details.
 |**Scholarship closes**                 |-                      |
 |**Format**                             | In-person             | 
 
-*The content tagged with * is subject to changes.*
+<p style="font-size: 18px">The content tagged with * is subject to changes.</p>
 
 ### Programme
 <p></p>
