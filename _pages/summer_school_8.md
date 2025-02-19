@@ -118,7 +118,7 @@ toc_sticky: true     # enables sticky toc
 <p> The event will be held in-person in the different reception sites: </p>
 
 | **Site** | **Application** | **Contact** |
-| **Universidad Nacional de Colombia** (Bogotá) | [Apply]() | centroscico_nal@unal.edu.co |
+| **Universidad Nacional de Colombia** (Bogotá) | [Apply]() | wfoquendop@unal.edu.co |
 | **Universidad Distrital Francisco José de Caldas** (Bogotá) | [Apply]() | doctoradoing@udistrital.edu.co |
 | **Universidad EAFIT** (Medellín)| [Apply]() | akcastror@eafit.edu.co |
 | **Universidad Javeriana** (Bogota)| on-site | zine@javeriana.edu.co |
