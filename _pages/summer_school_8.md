@@ -62,10 +62,10 @@ co_committee:
     excerpt: |
         **Dr. Juan Torres**
         *Universidad Javeriana*
-  - image_path: /assets/images/committee/2024/Luis_Eduardo_Seijas_Universidad_del_Rosario.jpg
-    excerpt: |
-        **Dr. Luis Seijas**
-        *Universidad del Rosario*
+  # - image_path: /assets/images/committee/2024/Luis_Eduardo_Seijas_Universidad_del_Rosario.jpg
+  #   excerpt: |
+  #       **Dr. Luis Seijas**
+  #       *Universidad del Rosario*
   - image_path: /assets/images/committee/2024/Juan_Pablo_Fernandez_UdeMedellin.jpeg
     excerpt: |
         **Dr. Juan Fernandez**
@@ -118,21 +118,20 @@ toc_sticky: true     # enables sticky toc
 <p> The event will be held in-person in the different reception sites: </p>
 
 | **Site** | **Application** | **Contact** |
-| **Universidad Nacional de Colombia** (Bogotá) | [Apply]() | wfoquendop@unal.edu.co |
-| **Universidad Distrital Francisco José de Caldas** (Bogotá) | [Apply]() | doctoradoing@udistrital.edu.co |
-| **Universidad EAFIT** (Medellín)| [Apply]() | akcastror@eafit.edu.co |
+| **Universidad Nacional de Colombia** (Bogotá) | Apply | wfoquendop@unal.edu.co |
+| **Universidad Distrital Francisco José de Caldas** (Bogotá) | Apply | doctoradoing@udistrital.edu.co |
+| **Universidad EAFIT** (Medellín)| Apply | akcastror@eafit.edu.co |
 | **Universidad Javeriana** (Bogota)| on-site | zine@javeriana.edu.co |
-| **Universidad Autonoma de Occidente** (Cali)| [Apply]() |ohmondragon@uao.edu.co|
-| **Universidad del Norte** (Barranquilla)| [Apply]() |ccpinilla@uninorte.edu.co|
-| **Universidad del Rosario** (Bogota)| on-site |	luis.seijas@urosario.edu.co|
-| **Universidad de Medellín** (Medellín)| on-site |	jpfernandez@udemedellin.edu.co|
+| **Universidad Autonoma de Occidente** (Cali)| Apply |ohmondragon@uao.edu.co|
+| **Universidad del Norte** (Barranquilla)| Apply |ccpinilla@uninorte.edu.co|
+| **Universidad de Medellín** (Medellín)| on-site | jpfernandez@udemedellin.edu.co|
 
 <p style="font-size: 18px"> In addition, you can contact Aurelio Vivas: aa.vivas@uniandes.edu.co</p>
 
 ### Important dates
 <p></p>
 
-|**Date and Time (COT)**                |June 16 - 19, 2025*    |
+|**Date and Time (COT)**                |June 16 - 18, 2025     |
 |**Registration (Host Sites) opens**    |Jan 20, 2025           |
 |**Registration (Host sites) closes**   |March 05, 2025         |
 |**Registration (Students) opens**      |March 31 2025          |
@@ -141,7 +140,7 @@ toc_sticky: true     # enables sticky toc
 |**Scholarship closes**                 |-                      |
 |**Format**                             | In-person             | 
 
-<p style="font-size: 18px">The content tagged with * is subject to changes.</p>
+<!-- <p style="font-size: 18px">The content tagged with * is subject to changes.</p> -->
 
 ### Programme
 <p></p>
@@ -173,3 +172,4 @@ toc_sticky: true     # enables sticky toc
 <p></p>
 
 {% include feature_row id="co_committee" %}
+
