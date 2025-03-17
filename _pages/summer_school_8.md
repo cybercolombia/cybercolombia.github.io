@@ -34,6 +34,10 @@ co_committee:
     excerpt: |
         **Dr. Clara Bermudez**
         *Universidad Nacional*
+  - image_path: /assets/images/committee/william_oquendo.png
+    excerpt: |
+        **Dr. William Oquendo**
+        *Universidad Nacional*
   - image_path: /assets/images/committee/2023/edison_valencia.jpg
     excerpt: |
         **Dr. Edison Valencia**
@@ -74,6 +78,10 @@ co_committee:
     excerpt: |
         **Msc. Amaury Cabarcas**
         *Universidad de Cartagena*
+  - image_path: /assets/images/committee/jorge_otalora.png
+    excerpt: |
+        **Dr. Jorge Otalora**
+        *Universidad Pedagógica y Tecnológica de Colombia*
 
 mentors:
   - image_path: /assets/images/members/aurelio_vivas.png
