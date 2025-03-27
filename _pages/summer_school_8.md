@@ -82,6 +82,10 @@ co_committee:
     excerpt: |
         **Dr. Jorge Otalora**
         *Universidad Pedagógica y Tecnológica de Colombia*
+  - image_path: /assets/images/committee/2025/John-Sanabria.png
+    excerpt: |
+        **Dr. John Sanabria**
+        *Universidad del Valle*
 
 mentors:
   - image_path: /assets/images/members/aurelio_vivas.png
@@ -141,6 +145,7 @@ toc_sticky: true     # enables sticky toc
 | **Universidad Javeriana** (Bogota)| on-site | zine@javeriana.edu.co |
 | **Universidad del Norte** (Barranquilla)| Apply |ccpinilla@uninorte.edu.co|
 | **Universidad de Medellín** (Medellín)| on-site | jpfernandez@udemedellin.edu.co|
+| **Universidad de los Andes** (Bogotá)| on-site | aa.vivas@uniandes.edu.co|
 
 <p style="font-size: 18px"> In addition, you can contact Aurelio Vivas: aa.vivas@uniandes.edu.co</p>
 
