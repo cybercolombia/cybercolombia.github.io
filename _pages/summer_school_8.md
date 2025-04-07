@@ -146,7 +146,6 @@ toc_sticky: true     # enables sticky toc
 <p> The event will be held in-person in the different reception sites: </p>
 
 | **Site** | **Application** | **Contact** |
-
 | **Universidad Distrital Francisco José de Caldas** (Bogotá) | Apply | doctoradoing@udistrital.edu.co |
 | **Universidad Pedagógica y Tecnológica de Colombia** (Boyacá)| on-site | jorge.otalora@uptc.edu.co |
 | **Universidad Autonoma de Occidente** (Cali)| Apply |ohmondragon@uao.edu.co|
