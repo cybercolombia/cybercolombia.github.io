@@ -86,6 +86,18 @@ co_committee:
     excerpt: |
         **Dr. John Sanabria**
         *Universidad del Valle*
+  - image_path: /assets/images/committee/2025/Oswaldo_Solarte.jpg
+    excerpt: |
+        **Dr. Oswaldo Solarte**
+        *Universidad del Valle*
+  - image_path: /assets/images/committee/2025/andres_medaglia.png
+    excerpt: |
+        **Dr. Andres Medaglia**
+        *Universidad de Los Andes*
+  - image_path: /assets/images/committee/2025/David_Alvarez.jpeg
+    excerpt: |
+        **Dr. David Álvarez**
+        *Universidad de Los Andes*
 
 mentors:
   - image_path: /assets/images/members/aurelio_vivas.png
