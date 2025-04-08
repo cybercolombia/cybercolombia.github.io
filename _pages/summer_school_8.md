@@ -82,11 +82,11 @@ co_committee:
     excerpt: |
         **Dr. Jorge Otalora**
         *Universidad Pedagógica y Tecnológica de Colombia*
-  - image_path: /assets/images/committee/2025/John-Sanabria.png
+  - image_path: /assets/images/committee/2025/john_sanabria.png
     excerpt: |
         **Dr. John Sanabria**
         *Universidad del Valle*
-  - image_path: /assets/images/committee/2025/Oswaldo_Solarte.jpg
+  - image_path: /assets/images/committee/2025/oswaldo_solarte.jpg
     excerpt: |
         **Dr. Oswaldo Solarte**
         *Universidad del Valle*
