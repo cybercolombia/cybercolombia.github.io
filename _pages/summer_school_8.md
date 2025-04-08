@@ -1,10 +1,10 @@
 ---
 permalink: /summer_school_8/
-title: ""
-excerpt: "" 
+title: "8th Colombian HPC Summer School"
+excerpt: |
+  Foundations of High-Performance Computing: Parallel and Distributed Computing 
 header:
-  #overlay_image: /assets/images/ss/ss_2021_banner.jpg
-  overlay_image: /assets/images/ss/ss_2025_banner.png
+  overlay_image: /assets/images/ss/ss_2025_banner_plain.png
   overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
 
   # actions:
