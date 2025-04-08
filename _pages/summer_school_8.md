@@ -90,11 +90,11 @@ co_committee:
     excerpt: |
         **Dr. Oswaldo Solarte**
         *Universidad del Valle*
-  - image_path: /assets/images/committee/2025/andres_medaglia.png
+  - image_path: /assets/images/committee/2025/andres_medaglia.jpg
     excerpt: |
         **Dr. Andres Medaglia**
         *Universidad de Los Andes*
-  - image_path: /assets/images/committee/2025/David_Alvarez.jpeg
+  - image_path: /assets/images/committee/2025/david-alvarez.jpg
     excerpt: |
         **Dr. David Álvarez**
         *Universidad de Los Andes*
