@@ -1,8 +1,7 @@
 ---
 permalink: /summer_school_8/
-#title: "Welcome to the 8th HPC Summer School"
-#excerpt: |
-#    Foundations of High-Performance Computing: Parallel and Distributed Computing 
+title: ""
+excerpt: "" 
 header:
   #overlay_image: /assets/images/ss/ss_2021_banner.jpg
   overlay_image: /assets/images/ss/ss_2025_banner.png
