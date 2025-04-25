@@ -148,7 +148,7 @@ toc_sticky: true     # enables sticky toc
 | **Site** | **Application** | **Contact** |
 | **Universidad Distrital Francisco José de Caldas** (Bogotá) | Apply | doctoradoing@udistrital.edu.co |
 | **Universidad Pedagógica y Tecnológica de Colombia** (Boyacá)| on-site | jorge.otalora@uptc.edu.co |
-| **Universidad Autonoma de Occidente** (Cali)| Apply |ohmondragon@uao.edu.co|
+| **Universidad Autonoma de Occidente** (Cali)| [Apply](https://forms.office.com/r/d1T1w1p2r1) |ohmondragon@uao.edu.co|
 | **Universidad Nacional de Colombia** (Bogotá) | Apply | wfoquendop@unal.edu.co |
 | **Universidad de Cartagena** (Cartagena)| on-site | pringsistemas@unicartagena.edu.co |
 | **Universidad del Valle** (Cali)| on-site | john.sanabria@correounivalle.edu.co |
