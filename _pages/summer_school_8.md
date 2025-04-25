@@ -153,7 +153,7 @@ toc_sticky: true     # enables sticky toc
 | **Universidad de Cartagena** (Cartagena)| on-site | pringsistemas@unicartagena.edu.co |
 | **Universidad del Valle** (Cali)| on-site | john.sanabria@correounivalle.edu.co |
 | **Universidad EAFIT** (Medellín)| Apply | akcastror@eafit.edu.co |
-| **Universidad Javeriana** (Bogota)| on-site | zine@javeriana.edu.co |
+| **Universidad Javeriana** (Bogota)| [Apply](https://forms.office.com/r/Z3gw9CtE79) | zine@javeriana.edu.co |
 | **Universidad del Norte** (Barranquilla)| Apply |ccpinilla@uninorte.edu.co|
 | **Universidad de Medellín** (Medellín)| on-site | jpfernandez@udemedellin.edu.co|
 | **Universidad de los Andes** (Bogotá)| [Apply](https://forms.office.com/r/hzy9J6fhz6) | aa.vivas@uniandes.edu.co|
