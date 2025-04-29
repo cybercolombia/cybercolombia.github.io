@@ -9,7 +9,7 @@ header:
 
   actions:
    - label: "Call for hosting universities"
-     url: ""
+     url: "https://www.cybercolombia.org/summer_school_8/#call-for-participation-hosting-universities"
    - label: "Apply for Summer School - Scholarship"
      url: "https://forms.gle/pFar9coZj9BJcxaR7"
 sidebar:
