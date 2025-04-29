@@ -7,11 +7,11 @@ header:
   overlay_image: /assets/images/ss/ss_2025_banner_plain.png
   overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
 
-  # actions:
-  #  - label: "Call for hosting universities"
-  #    url: ""
-  #  - label: "Apply for Summer School - Scholarship"
-  #    url: "https://forms.gle/sm6TXpjyuSHg12TDA"
+  actions:
+   - label: "Call for hosting universities"
+     url: ""
+   - label: "Apply for Summer School - Scholarship"
+     url: "https://forms.gle/pFar9coZj9BJcxaR7"
 sidebar:
   - nav: sidebar-summers
 
@@ -139,7 +139,14 @@ toc_sticky: true     # enables sticky toc
 <p></p>
 <p style="text-align: justify; text-justify: inter-word;">Join us for the seventh edition of CyberColombia's International School series, focusing this year on the dynamic field of Artificial Intelligence (AI). This event is designed to provide students, researchers, and professionals from both the private and public sectors with in-depth technical talks and hands-on training. Participants will gain valuable insights and practical skills in using high-performance computing (HPC) technologies.</p>
 
+# Learning Objectives
 
+- Develop an understanding of the fundamentals of parallel computing, including computer architecture, race conditions, threads and processes, as well as performance metrics.
+- Gain familiarity with the basic principles of programming in C/C++, covering syntax, compilation, and tools such as Make and CMake.
+- Be introduced to parallel programming using OpenMP and multithreading concepts, aiming to leverage multiple processing cores.
+- Become acquainted with distributed programming using MPI, including point-to-point communication and collective operations in distributed memory systems.
+- Explore modern tools such as Dask for high-level parallel programming oriented toward large-scale data analysis.
+- Gain insight into how high-performance computing may integrate with artificial intelligence and machine learning.
 
 ### Host Universities
 <p></p>
@@ -180,7 +187,7 @@ toc_sticky: true     # enables sticky toc
 <p>Meet the detailed program and speakers resume <a href="https://docs.google.com/document/d/1sd-fW7uZsl8jx-xVmQS9ot7T3jsNKxkX0lRAokucRx0/edit?usp=sharing" target="_blank">here</a></p>
 <p></p>
 
-<!-- <iframe  frameborder="0" scrolling="no" style="border:none; overflow:hidden;" height="800" width="100%" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSnwsHUa88c-T6EHB3IXPXvc3wWbPBGra08NcXZzu9VWv0K3mRDZxGJl9rA-YILjPlLGyrlnh3wMAlI/pubhtml?gid=345604675&amp;single=true&amp;widget=true&amp;headers=false"></iframe> -->
+<iframe  frameborder="0" scrolling="no" style="border:none; overflow:hidden;" height="800" width="100%" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSYdo8v_LzqKTputvooIxbSsW0grFrCSMV6YRRU4-IyTq6A3UYiHFmU5dSVpS6_FYCbk9mwDrm3tlOP/pubhtml?gid=345604675&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ### Partners
 <p></p>
