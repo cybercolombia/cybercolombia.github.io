@@ -151,7 +151,7 @@ toc_sticky: true     # enables sticky toc
 <p></p>
 <p style="text-align: justify; text-justify: inter-word;">Join us for the seventh edition of CyberColombia's International School series, focusing this year on the dynamic field of Artificial Intelligence (AI). This event is designed to provide students, researchers, and professionals from both the private and public sectors with in-depth technical talks and hands-on training. Participants will gain valuable insights and practical skills in using high-performance computing (HPC) technologies.</p>
 
-# Learning Objectives
+### Learning Objectives
 
 - Develop an understanding of the fundamentals of parallel computing, including computer architecture, race conditions, threads and processes, as well as performance metrics.
 - Gain familiarity with the basic principles of programming in C/C++, covering syntax, compilation, and tools such as Make and CMake.
