@@ -100,6 +100,18 @@ co_committee:
         *Universidad de Los Andes*
 
 mentors:
+  - image_path: /assets/images/speakers/alfonso_ladino.jpg
+    excerpt: |
+        **Alfonso Ladino-Rincon, PhD**
+        *University of Illinois at Urbana-Champaign*
+  - image_path: /assets/images/speakers/javier_aula_blasco.png
+    excerpt: |
+        **Javier Aula-Blasco, PhD**
+        *Barcelona Supercomputing Center*
+  - image_path: /assets/images/speakers/sid_raskar.jpg
+    excerpt: |
+        **Siddhisanket (Sid) Raskar, PhD**
+        *Argonne National Laboratory*
   - image_path: /assets/images/members/aurelio_vivas.png
     excerpt: |
         **Aurelio Vivas, PhD(c)**
