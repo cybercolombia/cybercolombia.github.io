@@ -102,15 +102,15 @@ co_committee:
 mentors:
   - image_path: /assets/images/speakers/alfonso_ladino.jpg
     excerpt: |
-        **Alfonso Ladino-Rincon, PhD**
+        **Alfonso Ladino-Rincon, PhD** <br />
         *University of Illinois at Urbana-Champaign*
   - image_path: /assets/images/speakers/javier_aula_blasco.png
     excerpt: |
-        **Javier Aula-Blasco, PhD**
+        **Javier Aula-Blasco, PhD** <br />
         *Barcelona Supercomputing Center*
   - image_path: /assets/images/speakers/sid_raskar.jpg
     excerpt: |
-        **Siddhisanket (Sid) Raskar, PhD**
+        **Siddhisanket (Sid) Raskar, PhD** <br />
         *Argonne National Laboratory*
   - image_path: /assets/images/members/aurelio_vivas.png
     excerpt: |
