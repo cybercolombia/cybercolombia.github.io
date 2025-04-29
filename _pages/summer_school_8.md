@@ -152,7 +152,7 @@ toc_sticky: true     # enables sticky toc
 <p style="text-align: justify; text-justify: inter-word;">Join us for the seventh edition of CyberColombia's International School series, focusing this year on the dynamic field of Artificial Intelligence (AI). This event is designed to provide students, researchers, and professionals from both the private and public sectors with in-depth technical talks and hands-on training. Participants will gain valuable insights and practical skills in using high-performance computing (HPC) technologies.</p>
 <p></p>
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/IRysaQGMFM0" title="¿Qué es un Supercomputador?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/IRysaQGMFM0" title="¿Qué es un Supercomputador?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Learning Objectives
 
@@ -202,7 +202,7 @@ toc_sticky: true     # enables sticky toc
 <p>Meet the detailed program and speakers resume <a href="https://docs.google.com/document/d/1sd-fW7uZsl8jx-xVmQS9ot7T3jsNKxkX0lRAokucRx0/edit?usp=sharing" target="_blank">here</a></p>
 <p></p>
 
-<iframe  frameborder="0" scrolling="no" style="border:none; overflow:hidden;" height="612" width="100%" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSYdo8v_LzqKTputvooIxbSsW0grFrCSMV6YRRU4-IyTq6A3UYiHFmU5dSVpS6_FYCbk9mwDrm3tlOP/pubhtml?gid=345604675&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe  frameborder="0" scrolling="no" style="border:none; overflow:hidden;" height="800" width="100%" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSYdo8v_LzqKTputvooIxbSsW0grFrCSMV6YRRU4-IyTq6A3UYiHFmU5dSVpS6_FYCbk9mwDrm3tlOP/pubhtml?gid=345604675&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ### Partners
 <p></p>
