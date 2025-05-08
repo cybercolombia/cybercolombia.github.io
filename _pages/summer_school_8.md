@@ -182,7 +182,7 @@ toc_sticky: true     # enables sticky toc
 | **Universidad Nacional de Colombia** (Bogotá) | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSciwQZfsAXyk67qPZZLksTPGD-mf9nWySKBNJK4pP5HCT1UeA/viewform) | wfoquendop@unal.edu.co |
 | **Universidad de Cartagena** (Cartagena)| on-site | pringsistemas@unicartagena.edu.co |
 | **Universidad del Valle** (Cali)| on-site | john.sanabria@correounivalle.edu.co |
-| **Universidad EAFIT** (Medellín)| Apply | akcastror@eafit.edu.co |
+| **Universidad EAFIT** (Medellín)| [Apply](https://forms.cloud.microsoft/r/iHhEJ5Nvad) | akcastror@eafit.edu.co |
 | **Universidad Javeriana** (Bogota)| [Apply](https://forms.office.com/r/Z3gw9CtE79) | zine@javeriana.edu.co |
 | **Universidad del Norte** (Barranquilla)| [Apply](https://forms.office.com/r/QZ4vjtBagN) |ccpinilla@uninorte.edu.co|
 | **Universidad de Medellín** (Medellín)| on-site | jpfernandez@udemedellin.edu.co|
