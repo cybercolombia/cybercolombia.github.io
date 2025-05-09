@@ -7,9 +7,9 @@ header:
   overlay_image: /assets/images/ss/ss_2025_banner_plain.png
   overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
 
-  actions:
-   - label: "Call for hosting universities"
-     url: "https://www.cybercolombia.org/summer_school_8/#call-for-participation-hosting-universities"
+  #actions:
+  # - label: "Call for hosting universities"
+  #   url: "https://www.cybercolombia.org/summer_school_8/#call-for-participation-hosting-universities"
    - label: "Apply for Summer School - Scholarship"
      url: "https://forms.gle/pFar9coZj9BJcxaR7"
 sidebar:
@@ -139,13 +139,14 @@ toc_icon: "book"     # corresponding Font Awesome icon name without the "fa" pre
 toc_sticky: true     # enables sticky toc
 # classes: wide
 ---
-
+<!--
 ### Call for Participation: Hosting Universities
 <p></p>
 
 <p style="text-align: justify; text-justify: inter-word;">If you represent a university, research center, lab, or group with an interest in high-performance computing (HPC) and its applications—machine learning & AI, big data, numerical analysis at scale—don’t miss the chance to become a host site for #HPCSS2025!.</p>
 
 <p style="font-size: 18px">Contact us at info@cybercolombia.org for more details.</p>
+-->
 
 ### Introduction
 <p></p>
