@@ -96,6 +96,10 @@ co_committee:
     excerpt: |
         **Dr. David Álvarez**
         *Universidad de Los Andes*
+  - image_path: "/assets/images/committee/2021/harol.jpg"
+    excerpt: |
+        **Dr. Harold Castro**
+        *Universidad de Los Andes*
 
 mentors:
   - image_path: /assets/images/speakers/alfonso_ladino.jpg
