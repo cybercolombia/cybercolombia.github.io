@@ -139,15 +139,6 @@ toc_icon: "book"     # corresponding Font Awesome icon name without the "fa" pre
 toc_sticky: true     # enables sticky toc
 # classes: wide
 ---
-<!--
-### Call for Participation: Hosting Universities
-<p></p>
-
-<p style="text-align: justify; text-justify: inter-word;">If you represent a university, research center, lab, or group with an interest in high-performance computing (HPC) and its applications—machine learning & AI, big data, numerical analysis at scale—don’t miss the chance to become a host site for #HPCSS2025!.</p>
-
-<p style="font-size: 18px">Contact us at info@cybercolombia.org for more details.</p>
--->
-
 ### Introduction
 <p></p>
 <p style="text-align: justify; text-justify: inter-word;">Join us for the seventh edition of CyberColombia's International School series, focusing this year on the dynamic field of Artificial Intelligence (AI). This event is designed to provide students, researchers, and professionals from both the private and public sectors with in-depth technical talks and hands-on training. Participants will gain valuable insights and practical skills in using high-performance computing (HPC) technologies.</p>
