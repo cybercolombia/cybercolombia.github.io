@@ -188,9 +188,9 @@ toc_sticky: true     # enables sticky toc
 |**Registration (Host sites) closes**   |March 05, 2025         |
 |**Registration (Students) opens**      |March 31 2025          |
 |**Registration (Students) closes**     |June 07, 2025          |
-|**Scholarship opens**                  |-                      |
-|**Scholarship closes**                 |-                      |
-|**Format**                             | In-person             | 
+|**Scholarship opens**                  |May 09, 2025           |
+|**Scholarship closes**                 |June 07, 2025          |
+|**Format**                             |In-person              | 
 
 <!-- <p style="font-size: 18px">The content tagged with * is subject to changes.</p> -->
 
