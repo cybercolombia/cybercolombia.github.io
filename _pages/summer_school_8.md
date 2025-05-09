@@ -7,9 +7,7 @@ header:
   overlay_image: /assets/images/ss/ss_2025_banner_plain.png
   overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
 
-  #actions:
-  # - label: "Call for hosting universities"
-  #   url: "https://www.cybercolombia.org/summer_school_8/#call-for-participation-hosting-universities"
+  actions:
    - label: "Apply for Summer School - Scholarship"
      url: "https://forms.gle/pFar9coZj9BJcxaR7"
 sidebar:
