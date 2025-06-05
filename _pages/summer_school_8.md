@@ -80,14 +80,6 @@ co_committee:
     excerpt: |
         **Dr. Jorge Otalora**
         *Universidad Pedagógica y Tecnológica de Colombia*
-  - image_path: /assets/images/committee/2025/john_sanabria.png
-    excerpt: |
-        **Dr. John Sanabria**
-        *Universidad del Valle*
-  - image_path: /assets/images/committee/2025/oswaldo_solarte.jpg
-    excerpt: |
-        **Dr. Oswaldo Solarte**
-        *Universidad del Valle*
   - image_path: /assets/images/committee/2025/andres_medaglia.jpg
     excerpt: |
         **Dr. Andres Medaglia**
@@ -175,7 +167,6 @@ toc_sticky: true     # enables sticky toc
 | **Universidad Autonoma de Occidente** (Cali)| [Apply](https://forms.office.com/r/d1T1w1p2r1) |ohmondragon@uao.edu.co|
 | **Universidad Nacional de Colombia** (Bogotá) | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSciwQZfsAXyk67qPZZLksTPGD-mf9nWySKBNJK4pP5HCT1UeA/viewform) | wfoquendop@unal.edu.co |
 | **Universidad de Cartagena** (Cartagena)| on-site | pringsistemas@unicartagena.edu.co |
-| **Universidad del Valle** (Cali)| on-site | john.sanabria@correounivalle.edu.co |
 | **Universidad EAFIT** (Medellín)| [Apply](https://forms.cloud.microsoft/r/iHhEJ5Nvad) | akcastror@eafit.edu.co |
 | **Universidad Javeriana** (Bogota)| [Apply](https://forms.office.com/r/Z3gw9CtE79) | zine@javeriana.edu.co |
 | **Universidad del Norte** (Barranquilla)| [Apply](https://forms.office.com/r/QZ4vjtBagN) |ccpinilla@uninorte.edu.co|
