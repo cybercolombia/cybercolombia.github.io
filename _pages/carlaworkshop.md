@@ -12,7 +12,7 @@ header:
 organizing_committee: 
   - image_path: "/assets/images/speakers/2025/Kate.jpg"
     excerpt: |
-        **M.A. Katherine Rasmusse, Berkeley Lab**
+        **M.A. Katherine Rasmussen, Berkeley Lab**
   - image_path: "/assets/images/speakers/2025/MichaelDuda.jpg"
     excerpt: |
         **M.S. Michael Duda, NCAR**
@@ -32,7 +32,7 @@ toc_icon: "book"     # corresponding Font Awesome icon name without the "fa" pre
 toc_sticky: true     # enables sticky toc           
 ---
 
-## This workshop is part of [Carla 2025 conference](https://carlaconference.org/)
+## This workshop is part of [CARLA 2025 conference](https://carlaconference.org/)
 
 ### Introduction
 
@@ -51,16 +51,19 @@ In the meantime, the international community is moving from current-generation m
 
 | Time          | Activity                      |
 |---------------|-------------------------------|
-| 08:00 - 08:30 | Registration & Welcome        |
-| 08:30 - 09:30 | Tutorial 1                    |
+|Morning       | KeyNote and Technical Sessions |
+|Lunch         | Provides by main conference |
+|Afternoon     | Ligh Talks, Discussions and Panel |
+
+<!-- | 08:00 - 08:30 | Registration & Welcome        |
+| 08:30 - 09:30 | MPAS Tutorial                 |
 | 09:30 - 10:00 | ☕ Coffee Break                |
-| 10:00 - 11:30 | Session 2                     |
+| 10:00 - 11:30 | MONAN project                 |
 | 11:30 - 12:00 | Session 3                     |
 | 12:00 - 13:30 | 🍽️ Lunch Break                |
 | 13:30 - 15:30 | Session 4/Presentation                  |
 | 15:30 - 16:00 | ☕ Coffee Break                |
-| 16:00 - 17:00 | Session 5 / Panel Discussion  |
-
+| 16:00 - 17:00 | Session 5 / Panel Discussion  | -->
 
 ### Important Dates
 
