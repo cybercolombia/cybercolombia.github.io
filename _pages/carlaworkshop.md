@@ -90,7 +90,7 @@ Here is a refined "Topics" section in formal English, aligned with your thematic
 |---------------|-------------------------------|
 |Morning       | KeyNote and Technical Sessions |
 |Lunch         | Provides by main conference |
-|Afternoon     | Ligh Talks, Discussions and Panel |
+|Afternoon     | Lightning talks, Discussions and Panel |
 
 <!-- | 08:00 - 08:30 | Registration & Welcome        |
 | 08:30 - 09:30 | MPAS Tutorial                 |
