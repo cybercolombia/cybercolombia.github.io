@@ -47,10 +47,6 @@ In the meantime, the international community is moving from current-generation m
 <p style="text-align: justify; text-justify: inter-word;"> This workshop seeks to establish a collaborative platform for the LAC weather and climate community to address these gaps. It will bring together the community to discuss the strategic and technical future of weather forecasting. We will include presentations by invited speakers and peer-reviewed papers that will showcase advances in regional modeling, model adaptations and development, use or creation of new models, and the fostering of partnerships. An emphasis will be placed on integrating local climatic characteristics, such as ENSO-related variability, into predictive frameworks.
 </p>
 
-### Topics
-Here is a refined "Topics" section in formal English, aligned with your thematic focus on advances in weather forecasting for Latin America:
-
----
 
 ## Topics
 
