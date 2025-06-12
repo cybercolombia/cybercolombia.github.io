@@ -47,6 +47,43 @@ In the meantime, the international community is moving from current-generation m
 <p style="text-align: justify; text-justify: inter-word;"> This workshop seeks to establish a collaborative platform for the LAC weather and climate community to address these gaps. It will bring together the community to discuss the strategic and technical future of weather forecasting. We will include presentations by invited speakers and peer-reviewed papers that will showcase advances in regional modeling, model adaptations and development, use or creation of new models, and the fostering of partnerships. An emphasis will be placed on integrating local climatic characteristics, such as ENSO-related variability, into predictive frameworks.
 </p>
 
+### Topics
+Here is a refined "Topics" section in formal English, aligned with your thematic focus on advances in weather forecasting for Latin America:
+
+---
+
+## Topics
+
+1. **Advances in Regional Numerical Weather Prediction (NWP) for LAC**
+   Development and adaptation of high‑resolution regional models (e.g., WRF, MPAS‑A) suited to Latin American climatic and topographic diversity
+
+2. **Next‑Generation High‑Performance Computing in Forecasting Models**
+   Strategies to leverage modern HPC architectures—such as GPU clusters and exascale systems—to run scalable, multi‑scale atmospheric simulations
+
+3. **Multiresolution and Multimodel Integration**
+   Methods to fuse outputs from nested-resolution and ensemble modeling systems, enhancing reliability while optimizing computational cost.
+
+4. **Data Models & Assimilation Schemes for a Fragmented Observational Network**
+   Innovative assimilation techniques that incorporate heterogeneous datasets: remote sensors, regional weather stations, satellite data, and IoT‑enabled platforms.
+
+5. **Modeling ENSO and Other Regional Climate Drivers**
+   Incorporation of ENSO phases, Amazon variability, Andean climatic influences, and teleconnection patterns into forecasting systems tailored to LAC.
+
+6. **AI/ML‑Enhanced Forecasting: Convergence with NWP**
+   Integration of machine learning with classical models—hybrid architectures, surrogate modeling, downscaling, and bias correction approaches
+
+7. **End‑to‑End Operational Pipelines: From Research to Production**
+   Deploying research-grade models into operational forecasting platforms, including tools for visualization, dissemination, and stakeholder integration.
+
+8. **Cross‑Institutional & Regional Collaboration Frameworks**
+   Design of shared platforms and partnerships for model code:
+
+   * Standardization of datasets and metadata
+   * Interoperability across national meteorological institutions
+   * Best practices for model version control and joint development.
+
+
+
 ### Agenda 
 
 | Time          | Activity                      |
