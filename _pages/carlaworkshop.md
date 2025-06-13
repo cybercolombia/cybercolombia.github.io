@@ -2,7 +2,7 @@
 permalink: /workshops/
 title: "Workshop on Weather Forecasting"
 excerpt: |
-   "Latin America and Caribbean Advances on Weather Forecasting"
+   "Latin America and Caribbean Advances on Weather Forecasting. September 22-26, Kingston (Jamaica)"
   
 header:
   overlay_image: /assets/images/backgrounds/Hurricanes.jpg
@@ -32,7 +32,8 @@ toc_icon: "book"     # corresponding Font Awesome icon name without the "fa" pre
 toc_sticky: true     # enables sticky toc           
 ---
 
-## This workshop is part of [CARLA 2025 conference](https://carlaconference.org/)
+## This workshop is part of [CARLA 2025 conference](https://carlaconference.org/) 
+ 
 
 ### Introduction
 
