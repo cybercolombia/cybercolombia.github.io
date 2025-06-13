@@ -80,7 +80,7 @@ In the meantime, the international community is moving from current-generation m
 
 
 
-### Agenda 
+### Agenda  (Initial schedule) 
 
 | Time          | Activity                      |
 |---------------|-------------------------------|
@@ -99,10 +99,10 @@ In the meantime, the international community is moving from current-generation m
 | 16:00 - 17:00 | Session 5 / Panel Discussion  | -->
 
 ### Important Dates
-
-- Paper submission deadline: June 30, 2025.
-- Paper author notification: July 30, 2025.
-- Camera-ready version: September 1, 2025.
+- Open call for Papers/Participation: June 25, 2025.
+- Paper submission deadline: July 30, 2025.
+- Paper author notification: Aug 20, 2025.
+- Camera-ready version: September 10, 2025.
 
 
 ### Organizing Committee
