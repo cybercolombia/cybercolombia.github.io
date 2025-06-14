@@ -152,11 +152,11 @@ scholarship:
     excerpt: |
         **Sergio Rojas**
         *Universidad Iberoamericana*
-  - image_path: /assets/assets/images/placeholder.png
+  - image_path: /assets/images/placeholder.png
     excerpt: |
         **Jhonathan Guerrero**
         *Universidad Universidad Nacional Abierta y a Distancia*
-  - image_path: /assets/assets/images/placeholder.png
+  - image_path: /assets/images/placeholder.png
     excerpt: |
         **Santiago Olave**
         *Universidad del Valle*
