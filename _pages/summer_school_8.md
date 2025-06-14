@@ -124,7 +124,42 @@ mentors:
         *Tecnológico de Monterrey*
 
 scholarship:
-
+  - image_path: /assets/images/scholarship/2025/angela_perdomo_lambertinez.jpeg
+    excerpt: |
+        **Angela Perdomo**
+        *Universidad Industrial de Santander*
+  - image_path: /assets/images/scholarship/2025/cristian_pacheco._torres.jpg
+    excerpt: |
+        **Cristian Pacheco**
+        *Universidad del Valle*
+  - image_path: /assets/images/scholarship/2025/diego_reina_arevalo.jpg
+    excerpt: |
+        **Diego Reina**
+        *Independiente*
+  - image_path: /assets/images/scholarship/2025/juan_gonzales_arboleda.jpg
+    excerpt: |
+        **Juan Gonzales**
+        *Universidad Tecnológica de Pereira*
+  - image_path: /assets/images/scholarship/2025/karen_castaneda_castro.png
+    excerpt: |
+        **Karen Castañeda**
+        *Universidad Sergio Arboleda*
+  - image_path: /assets/images/scholarship/2025/natalia_remolona_rodriguez.jpg
+    excerpt: |
+        **Natalia Remolina**
+        *Independiente*
+  - image_path: /assets/images/scholarship/2025/sergio_rojas_velasquez.jpg
+    excerpt: |
+        **Sergio Rojas**
+        *Universidad Iberoamericana*
+  - image_path: /assets/assets/images/placeholder.png
+    excerpt: |
+        **Jhonathan Guerrero**
+        *Universidad Universidad Nacional Abierta y a Distancia*
+  - image_path: /assets/assets/images/placeholder.png
+    excerpt: |
+        **Santiago Olave**
+        *Universidad del Valle*
 
 breadcrumbs: false
 toc: true
@@ -217,4 +252,40 @@ toc_sticky: true     # enables sticky toc
 <p></p>
 
 {% include feature_row id="co_committee" %}
+
+### CyberColombia Scholarship Awardees
+<p></p>
+
+{% include feature_row id="scholarship" %}
+
+### Student Volunteers
+<p></p>
+
+| **Name**                                | **University**                                      |
+|-----------------------------------------|-----------------------------------------------------|
+| Alan Escamilla                          | Universidad de Cartagena                            |
+| Sebastian Abdala                        | Universidad de Cartagena                            |
+| Andrés Arnedo                           | Universidad de Cartagena                            |
+| Jaime Navarro                           | Universidad de Cartagena                            |
+| Kevin Martínez                          | Universidad de Cartagena                            |
+| Cristian Palacio                        | Universidad de Cartagena                            |
+| Cristian Camilo Castro Castellanos      | Universidad Distrital                               |
+| Richar Javier Chia Jiménez              | Universidad Distrital                               |
+| Laura Milena Perez Herrera              | Universidad Javeriana                               |
+| Karem Ruiz Araujo                       | Universidad Javeriana                               |
+| Hernán David de la Torre Castro         | Universidad del Norte                               |
+| Juan Esteban Pérez Cardozo              | Universidad del Norte                               |
+| Darcy Vanessa Mina Carabalí             | Universidad Autónoma                                |
+| Miguel Angel Rojas Garreta              | Universidad Autónoma                                |
+| Cristian Celis                          | Universidad Pedagógica y Tecnológica de Colombia    |
+| Luis Rodriguez                          | Universidad Pedagógica y Tecnológica de Colombia    |
+| Harold Alvarado                         | Universidad Pedagógica y Tecnológica de Colombia    |
+| Jhojan Stiven Zea Fernández             | Universidad de Medellín                             |
+| Luis Carlos Arenas Villamizar           | Universidad de Medellín                             |
+| David López Rivera                      | Universidad de Medellín                             |
+| Santiago Rodriguez Mojica               | Universidad EAFIT                                   |
+| Sebastian Adair Amaya Ceballos          | Universidad EAFIT                                   |
+| Juan Manuel Gomez Piedrahita            | Universidad EAFIT                                   |
+| Sebastian Andres Uribe Ruiz             | Universidad EAFIT                                   |
+| Julian Estiven Valencia Bolaños         | Universidad EAFIT                                   |
 
