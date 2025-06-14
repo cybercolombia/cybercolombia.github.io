@@ -288,4 +288,5 @@ toc_sticky: true     # enables sticky toc
 | Juan Manuel Gomez Piedrahita            | Universidad EAFIT                                   |
 | Sebastian Andres Uribe Ruiz             | Universidad EAFIT                                   |
 | Julian Estiven Valencia Bolaños         | Universidad EAFIT                                   |
-
+| Jose Alejandro Cubillos Munoz           | Universidad de los Andes                            |
+| Isaac David Bermudez Lara               | Universidad de los Andes                            |
