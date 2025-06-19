@@ -6,7 +6,7 @@ excerpt: |
     Introduce advanced students, researchers, faculty members, and professionals to parallel programming models and parallel computer architectures. The focus is on computing platforms (GPUs and NPUs) relevant to artificial intelligence (AI) applications.
 
 header:
-  overlay_image: /assets/images/ss/amd_day_banner.jpg
+  overlay_image: /assets/images/ss/amd_day_banner.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 
 ---
@@ -20,7 +20,7 @@ header:
 
 # AMD DAY 2025: Parallel Computing Architectures and Programming Models for AI Applications
 
-**Collocated with the 8th Colombian HPC Summer School** 
+**Collocated with the [8th Colombian HPC Summer School](/summer_school_8/)** 
 
 ## Objective
 <p style="text-align: justify; text-justify: inter-word;">
@@ -29,7 +29,8 @@ The objective of this program is to introduce advanced students (ideally at the 
 
 ## Date/Time
 <p style="text-align: justify; text-justify: inter-word;">
-June 19, 2025\. 8:30 AM (COT) \- 5:00 PM (COT)
+June 19, 2025. <br/>
+8:30 AM (COT) - 5:00 PM (COT)
 </p>
 
 ## Program Structure
