@@ -3,7 +3,7 @@ permalink: /amd_day/
 title: "AMD Day 2025"
 # layout: splash
 excerpt: |
-    Introduce advanced students, researchers, faculty members, and professionals to parallel programming models and parallel computer architectures. The focus is on computing platforms (GPUs and NPUs) relevant to artificial intelligence (AI) applications.
+    Parallel Computing Architectures and Programming Models for AI Applications.
 
 header:
   overlay_image: /assets/images/ss/amd_day_banner.png
@@ -17,8 +17,6 @@ header:
     padding-right: 0px;
   }
 </style>
-
-# AMD DAY 2025: Parallel Computing Architectures and Programming Models for AI Applications
 
 **Collocated with the [8th Colombian HPC Summer School](/summer_school_8/)** 
 
