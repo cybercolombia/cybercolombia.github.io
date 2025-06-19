@@ -218,6 +218,18 @@ In-Person
 
 <iframe  frameborder="0" scrolling="no" style="border:none; overflow:hidden;" height="800" width="100%" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSYdo8v_LzqKTputvooIxbSsW0grFrCSMV6YRRU4-IyTq6A3UYiHFmU5dSVpS6_FYCbk9mwDrm3tlOP/pubhtml?gid=345604675&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
+### Data and Materials
+<p></p>
+
+1. [Cloud-Native Scientific Data at Scale: Efficient Access and Analysis with Zarr in HPC Environments](https://github.com/cybercolombia/hpcsummer2025/blob/main/material/Slides/ARCO-ZARR-CyberColombia.pdf) - Alfonso Ladino-Rincon (University of Illinois at Urbana-Champaign)
+2. [Building and Evolving a Multilingual LLM from Scratch](https://github.com/cybercolombia/hpcsummer2025/blob/main/material/Slides/ARCO-ZARR-CyberColombia.pdf) - Javier Aula-Blasco (Barcelona Supercomputing Center)
+3. [Parallel Computing Fundamentals (Tutorial)](https://github.com/cybercolombia/hpcsummer2025/tree/main/material/Track0) - Carlos Alvarez (Tecnológico de Monterrey)
+4. [C++ Fundamentals (Tutorial)](https://github.com/cybercolombia/hpcsummer2025/tree/main/material/Track1) - Carlos Alvarez (Tecnológico de Monterrey)
+5. [Parallel Programming with OpenMP (Tutorial)](https://github.com/josemonsalve2/openmp_tutorial) - Jose Monsalve (Advanced Micro Devices)
+6. [Convergencia HPC & IA (Tutorial)](https://github.com/cybercolombia/hpcsummer2025/tree/main/material/proyecto_integrador) - Carlos Alvarez (Tecnológico de Monterrey)
+7. [Distributed Programming with MPI (Tutorial)](https://github.com/cybercolombia/hpcsummer2025/tree/main/material/Track3) - Esteban Hernadez (CyberColombia)
+8. [Parallel and Distributed Programming with Python (Tutorial)](https://github.com/DonAurelio/dask-tutorial-hpc) - Aurelio Vivas (Universidad de los Andes), Alfonso Ladino (University of Illinois at Urbana-Champaign)
+
 ### Partners
 <p></p>
 <center>
@@ -276,16 +288,4 @@ In-Person
 | Julian Estiven Valencia Bolaños         | Universidad EAFIT                                   |
 | Jose Alejandro Cubillos Munoz           | Universidad de los Andes                            |
 | Isaac David Bermudez Lara               | Universidad de los Andes                            |
-
-### Data and Materials
-<p></p>
-
-1. [Cloud-Native Scientific Data at Scale: Efficient Access and Analysis with Zarr in HPC Environments](https://github.com/cybercolombia/hpcsummer2025/blob/main/material/Slides/ARCO-ZARR-CyberColombia.pdf) - Alfonso Ladino-Rincon (University of Illinois at Urbana-Champaign)
-2. [Building and Evolving a Multilingual LLM from Scratch](https://github.com/cybercolombia/hpcsummer2025/blob/main/material/Slides/ARCO-ZARR-CyberColombia.pdf) - Javier Aula-Blasco (Barcelona Supercomputing Center)
-3. [Parallel Computing Fundamentals (Tutorial)](https://github.com/cybercolombia/hpcsummer2025/tree/main/material/Track0) - Carlos Alvarez (Tecnológico de Monterrey)
-4. [C++ Fundamentals (Tutorial)](https://github.com/cybercolombia/hpcsummer2025/tree/main/material/Track1) - Carlos Alvarez (Tecnológico de Monterrey)
-5. [Parallel Programming with OpenMP (Tutorial)](https://github.com/josemonsalve2/openmp_tutorial) - Jose Monsalve (Advanced Micro Devices)
-6. [Convergencia HPC & IA (Tutorial)](https://github.com/cybercolombia/hpcsummer2025/tree/main/material/proyecto_integrador) - Carlos Alvarez (Tecnológico de Monterrey)
-7. [Distributed Programming with MPI (Tutorial)](https://github.com/cybercolombia/hpcsummer2025/tree/main/material/Track3) - Esteban Hernadez (CyberColombia)
-8. [Parallel and Distributed Programming with Python (Tutorial)](https://github.com/DonAurelio/dask-tutorial-hpc) - Aurelio Vivas (Universidad de los Andes), Alfonso Ladino (University of Illinois at Urbana-Champaign)
 
