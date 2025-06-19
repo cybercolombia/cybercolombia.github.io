@@ -289,6 +289,7 @@ In-Person
 | Jose Alejandro Cubillos Munoz           | Universidad de los Andes                            |
 | Isaac David Bermudez Lara               | Universidad de los Andes                            |
 
+
 ### AMD Day 2025
 AMD Day is a co-located event we're organizing with AMD to discuss topics related to parallel computing architectures and Programming Models for AI Applications.
 
