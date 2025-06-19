@@ -1,5 +1,5 @@
 ---
-permalink: /amd_day/
+permalink: /amd_day_2025/
 title: "AMD Day 2025"
 # layout: splash
 excerpt: |
