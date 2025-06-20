@@ -227,8 +227,10 @@ In-Person
 4. [C++ Fundamentals (Tutorial)](https://github.com/cybercolombia/hpcsummer2025/tree/main/material/Track1) - Carlos Alvarez (Tecnológico de Monterrey)
 5. [Parallel Programming with OpenMP (Tutorial)](https://github.com/josemonsalve2/openmp_tutorial) - Jose Monsalve (Advanced Micro Devices)
 6. [Convergencia HPC & IA (Tutorial)](https://github.com/cybercolombia/hpcsummer2025/tree/main/material/proyecto_integrador) - Carlos Alvarez (Tecnológico de Monterrey)
-7. [Distributed Programming with MPI (Tutorial)](https://github.com/cybercolombia/hpcsummer2025/tree/main/material/Track3) - Esteban Hernadez (CyberColombia)
-8. [Parallel and Distributed Programming with Python (Tutorial)](https://github.com/DonAurelio/dask-tutorial-hpc) - Aurelio Vivas (Universidad de los Andes), Alfonso Ladino (University of Illinois at Urbana-Champaign)
+7. [State of IA Accelerators](https://github.com/cybercolombia/hpcsummer2025/blob/main/material/Slides/StateofAIAcceleratorsJune25Revised.pdf) - Sid Raskar (Argonne National Laboratory)
+8. [Distributed Programming with MPI (Tutorial)](https://github.com/cybercolombia/hpcsummer2025/tree/main/material/Track3) - Esteban Hernadez (CyberColombia)
+9. [Parallel and Distributed Programming with Python (Tutorial)](https://github.com/DonAurelio/dask-tutorial-hpc) - Aurelio Vivas (Universidad de los Andes), Alfonso Ladino (University of Illinois at Urbana-Champaign)
+
 
 ### Partners
 <p></p>
