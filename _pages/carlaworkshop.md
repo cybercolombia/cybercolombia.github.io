@@ -32,9 +32,8 @@ toc_icon: "book"     # corresponding Font Awesome icon name without the "fa" pre
 toc_sticky: true     # enables sticky toc           
 ---
 
-## This workshop is part of [CARLA 2025 conference](https://carlaconference.org/) 
+### This workshop is part of [CARLA 2025 conference](https://carlaconference.org/workshops-events-2025/) 
  
-
 ### Introduction
 
 <p style="text-align: justify; text-justify: inter-word;">Extreme weather and climate hazard forecasting plays a fundamental role in mitigating climate risks across Latin America and the Caribbean (LAC), a region disproportionately affected by climate change. Increasingly frequent hydrometeorological hazards—including extreme temperatures, droughts, storms, hurricanes, and floods, confirm the urgency of accurate information and predictive tools. However, historical challenges such as fragmented observational networks and limited regional collaboration have hampered progress in developing tailored forecasting models and leveraging high-performance computing (HPC) solutions for climate and atmospheric research.
