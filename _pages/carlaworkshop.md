@@ -1,9 +1,10 @@
 ---
 permalink: /workshops/
 title: "Workshop on Weather Forecasting"
+layout: splash
+type: center
 excerpt: |
    "Latin America and Caribbean Advances on Weather Forecasting. September 22-26, Kingston (Jamaica)"
-  
 header:
   overlay_image: /assets/images/backgrounds/Hurricanes.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -32,10 +33,9 @@ toc_icon: "book"     # corresponding Font Awesome icon name without the "fa" pre
 toc_sticky: true     # enables sticky toc           
 ---
 
-### This workshop is part of [CARLA 2025 conference](https://carlaconference.org/workshops-events-2025/) 
- 
 ### Introduction
 
+This workshop is part of [CARLA 2025 conference](https://carlaconference.org/workshops-events-2025/) 
 <p style="text-align: justify; text-justify: inter-word;">Extreme weather and climate hazard forecasting plays a fundamental role in mitigating climate risks across Latin America and the Caribbean (LAC), a region disproportionately affected by climate change. Increasingly frequent hydrometeorological hazards—including extreme temperatures, droughts, storms, hurricanes, and floods, confirm the urgency of accurate information and predictive tools. However, historical challenges such as fragmented observational networks and limited regional collaboration have hampered progress in developing tailored forecasting models and leveraging high-performance computing (HPC) solutions for climate and atmospheric research.
 
 In the meantime, the international community is moving from current-generation modeling tools (e.g., the Weather Research and Forecasting (WRF) model) to next-generation models that can take advantage of modern HPC systems (e.g., the Model for Prediction Across Scales - Atmosphere (MPAS-A). Furthermore, as AI and ML advance their capabilities and are increasingly adopted, questions remain regarding the convergence between weather forecasting and these technologies.
@@ -78,7 +78,28 @@ In the meantime, the international community is moving from current-generation m
    * Interoperability across national meteorological institutions
    * Best practices for model version control and joint development.
 
+### Submission Guidelines
+Authors must follow the Springer LNCS style for paper formatting. You can find templates and more information here.
 
+#### Full Papers
+Language: English (official conference language)
+Maximum Length:  8-15 pages
+Peer Review: Single-blind, reviewed by at least two experts
+
+#### Technical Talks
+These require a 500-1,000 word abstract. Additional supporting materials may be submitted as a single pdf document. The final presentation slides are required to be provided to the organisers at the workshop.
+
+#### Panel Discussions
+These require a 500-1,000 word abstract, to include session leader information, details of any other speakers, and clearly stating the goal(s), topic, relevance to the expected audience, the expected outcome and how you plan to organize the session.
+
+#### Originality: 
+Submissions must be unpublished and not under review elsewhere 
+
+### Submission Process
+To begin the submission process, please register an account in the [submission site](https://meteor.springer.com/carla2025) and submit your paper, following the instructions. For additional guidance with the paper submission, please reference the Help Guides under the **“Author Guidelines”** page on the Project Home Page of the submission site under the track **Workshop: Latin America and Caribbean Advances on Weather Forecasting** 
+
+#### Submission Site
+[https://meteor.springer.com/carla2025](https://meteor.springer.com/carla2025)
 
 ### Agenda  (Initial schedule) 
 
@@ -88,22 +109,10 @@ In the meantime, the international community is moving from current-generation m
 |Lunch         | Provides by main conference |
 |Afternoon     | Lightning talks, Discussions and Panel |
 
-<!-- | 08:00 - 08:30 | Registration & Welcome        |
-| 08:30 - 09:30 | MPAS Tutorial                 |
-| 09:30 - 10:00 | ☕ Coffee Break                |
-| 10:00 - 11:30 | MONAN project                 |
-| 11:30 - 12:00 | Session 3                     |
-| 12:00 - 13:30 | 🍽️ Lunch Break                |
-| 13:30 - 15:30 | Session 4/Presentation                  |
-| 15:30 - 16:00 | ☕ Coffee Break                |
-| 16:00 - 17:00 | Session 5 / Panel Discussion  | -->
-
 ### Important Dates
-- Open call for Papers/Participation: June 25, 2025.
 - Paper submission deadline: July 30, 2025.
 - Paper author notification: Aug 20, 2025.
 - Camera-ready version: September 10, 2025.
-
 
 ### Organizing Committee
 <br>
