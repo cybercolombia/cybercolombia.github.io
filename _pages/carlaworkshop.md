@@ -87,10 +87,7 @@ Maximum Length:  8-15 pages
 Peer Review: Single-blind, reviewed by at least two experts
 
 #### Technical Talks
-These require a 500-1,000 word abstract. Additional supporting materials may be submitted as a single pdf document. The final presentation slides are required to be provided to the organisers at the workshop.
-
-#### Panel Discussions
-These require a 500-1,000 word abstract, to include session leader information, details of any other speakers, and clearly stating the goal(s), topic, relevance to the expected audience, the expected outcome and how you plan to organize the session.
+These require a 500-1,000 word abstract. Final document max 8 pages. Additional supporting materials may be submitted as a single pdf document. The final presentation slides are required to be provided to the organisers at the workshop.
 
 #### Originality: 
 Submissions must be unpublished and not under review elsewhere 
