@@ -103,13 +103,14 @@ To begin the submission process, please register an account in the [submission s
 
 
 ### Proceedings and Template
-Workshop papers selected will be published in the Latin American journal Avances en Ciencias e Ingeniería (ACI). Submission guidelines (in Spanish) are available here: [journal Avances en Ciencias e Ingeniería (ACI)]https://revistas.usfq.edu.ec/index.php/avances/about/submissions)
+Workshop papers selected will be published in the Latin American journal [Avances en Ciencias e Ingeniería (ACI)](https://revistas.usfq.edu.ec). Submission guidelines (in Spanish) are available on [Avances en Ciencias e Ingeniería (ACI)](https://revistas.usfq.edu.ec/index.php/avances/about/submissions)
 You may use your browser’s translation feature if needed.
 
 Please note that the journal provides its official template only in Microsoft Word format. We have created an [initial LaTeX version](../assets/templates/workshoop_template.tex)  that aims to match the original as closely as possible, and it is attached for your convenience, if consider you would develop an improved version of it.
 
 
 ### Agenda  (Initial schedule) 
+
 | Time          | Activity                      |
 |---------------|-------------------------------|
 |Morning       | KeyNote and Technical Sessions |
