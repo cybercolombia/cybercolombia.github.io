@@ -1,0 +1,106 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{newtxtext} % Times New Roman style
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{float}
+\usepackage{setspace}
+\usepackage{authblk}
+\usepackage[hidelinks]{hyperref}
+\usepackage{titlesec}
+\usepackage{parskip}
+\usepackage{enumitem}
+\usepackage{lipsum}
+
+\setstretch{1.0} % Single spacing
+\setlength{\parindent}{0pt} % No indent
+\raggedright % Left-align everything (not justified)
+
+% Section formatting: sentence case, no bold
+\titleformat{\section}
+  {\normalfont\normalsize}
+  {\thesection.}{1em}{}
+
+% Title styling
+\newcommand{\papertitle}[1]{
+  \begin{center}
+    {\normalsize #1}
+  \end{center}
+}
+
+\newcommand{\papersubtitle}[1]{
+  \begin{center}
+    {\normalsize \textit{#1}}
+  \end{center}
+}
+
+\title{}
+\date{}
+
+% Begin document
+\begin{document}
+
+\papertitle{Full Title of the Article in Sentence Case (max 300 characters)}
+\papersubtitle{Optional Subtitle (max 100 characters)}
+
+\vspace{1em}
+
+\textbf{First Author Firstname M. Lastname*}, Second Author Firstname M. Lastname, Third Author Firstname M. Lastname
+
+\textit{1Department, Faculty, University, City, Country. ORCID: \url{https://orcid.org/0000-0000-0000-0000}}
+
+\textit{2Department, Faculty, University, City, Country. ORCID: \url{https://orcid.org/0000-0000-0000-0000}}
+
+\textit{*Corresponding author: email@example.com}
+
+\vspace{1em}
+
+\textbf{Resumen:} Spanish abstract text here. Max 400 words, no references or abbreviations.
+
+\vspace{1em}
+
+\textbf{Palabras clave:} keyword1; keyword2; keyword3
+
+\vspace{1em}
+
+\textbf{Title in English:} English version of the title.
+
+\vspace{1em}
+
+\textbf{Abstract:} English abstract. Same content as Resumen, translated.
+
+\vspace{1em}
+
+\textbf{Keywords:} keyword1; keyword2; keyword3
+
+\section{Introduction}
+Your introduction text here.
+
+\section{Materials and Methods}
+Details about materials and methods.
+
+\section{Results}
+Results content here.
+
+\section{Discussion}
+Discussion section content.
+
+\section{Summary and Conclusions}
+Final summary and major conclusions.
+
+\section{Acknowledgements}
+Funding, permissions, and credits.
+
+\section{Author Contributions}
+Use CRediT taxonomy here.
+
+\section{Conflict of Interest}
+The authors declare no conflict of interest.
+
+\section{References}
+\begin{enumerate}[label={[{\arabic*}]}]
+  \item Getachew, G., Putnam, D. H., De Ben, C. M., \& De Peters, E. J. (2016). Potencial del sorgo como alternativa al forraje de maíz. \textit{American Journal of Plant Sciences, 7}, 1106–1121. \url{https://doi.org/10.4236/ajps.2016.77106}
+  \item Sharma, A. K., Bhandari, R., Aherwar, A., \& Rimašauskiene, R. (2020). Matrix materials used in composites: A comprehensive study. \textit{Materials Today: Proceedings, 21}(3), 1559–1562. \url{https://doi.org/10.1016/j.matpr.2019.11.086}
+\end{enumerate}
+
+\end{document}
