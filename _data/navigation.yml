@@ -43,16 +43,12 @@ sidebar-summers:
 sidebar-services:
   - title: "Services"
     children:
-      - title: "Services"
-        url:  /Services/
       - title: "Education & Training"
         url: /training/
       - title: "Consulting"
         url: /consulting/
       - title: "Research"
         url: /research/
-
-
 
 sidebar-call:
   - title: "Call for participation"
