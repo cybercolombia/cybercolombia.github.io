@@ -31,8 +31,8 @@ members:
         Working on validation and verification of OpenMP target offloading, as well as with OpenACC programming targetting CPU and heterogeneous systems based on GPGPUs.
   
   - image_path: /assets/images/members/aurelio_vivas.png
-    alt: "M.Sc. Aurelio Vivas"
-    title: "M.Sc. Aurelio Vivas"
+    alt: "PhD(c) Aurelio Vivas"
+    title: "PhD(c) Aurelio Vivas"
     excerpt: |
         **aurelio.vivas@cybercolombia.org**,
         **aa.vivas@uniandes.edu.co**
