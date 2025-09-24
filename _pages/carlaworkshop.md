@@ -45,13 +45,13 @@ In the meantime, the international community is moving from current-generation m
 | **Session** | **Time (Jamaica Local Time)** |
 |-------------|-------------------------------|
 | Opening Remarks – Evan G. Thompson (President, Regional Association IV, World Meteorological Organization and Principal Director of Meteorological Service of Jamaica) | 9:00 AM – 9:10 AM |
-| Integrating Climate Change into Mesoscale Modeling for Jamaica – Jacqueline Spence-Hemmings and Rohan Brown (Meteorological Service of Jamaica) | 9:10 AM – 9:30 AM |
-| Weather and Climate Modeling by Ideam – Instituto de Hidrología, Meteorología y Estudios Ambientales (Colombia) | 9:30 AM – 9:50 AM |
-| Applying AI Weather Models with NVIDIA Earth-2 – Pablo Mário Cruz e Silva (NVIDIA) | 9:50 AM – 10:20 AM |
+| [Integrating Climate Change into Mesoscale Modeling for Jamaica](https://drive.google.com/file/d/1iuW4QyhlY99dQznMZcZ5IRXAX1P-AKgH/view?usp=drive_link) – Jacqueline Spence-Hemmings and Rohan Brown (Meteorological Service of Jamaica) | 9:10 AM – 9:30 AM |
+| [Weather and Climate Modeling by Ideam – Instituto de Hidrología, Meteorología y Estudios Ambientales](https://drive.google.com/file/d/1WfPZpHcbTCg2td7HDbzDaQHyr9QYp6wW/view?usp=drive_link)  (Colombia)] | 9:30 AM – 9:50 AM |
+| [Applying AI Weather Models with NVIDIA Earth-2](https://drive.google.com/file/d/1KlnxacNAKMzwdGzCP5_aFyZwON17w8Fc/view?usp=drive_link) – Pablo Mário Cruz e Silva (NVIDIA) | 9:50 AM – 10:20 AM |
 | **Keynote Presentation:** Predictions of tropical cyclones with NWP and machine-learning based forecasts at ECMWF – Linus Magnusson (ECMWF) | 10:20 AM – 11:00 AM |
 | **Morning Coffee Break** | 11:00 AM – 11:30 AM |
 | [Utilizing numerical modeling in operational forecasting in the Caribbean – Arlene Laing (CMO) and Emmanuel Cloppet (Meteo-France)](https://drive.google.com/file/d/1GZTfzknIRUklwUyHgFLxhbd_FsAlcJUY/view?usp=drive_link)  | 11:30 AM – 12:00 PM |
-| AI Roadmap for WMO Integrated Processing and Prediction System (WIPPS) and WIPPS Pilot Projects – Ken Mylne (WMO/INFCOM/ET-OWFS; UKMO) and Yuki Honda (WMO) | 12:00 PM – 12:20 PM |
+| [AI Roadmap for WMO Integrated Processing and Prediction System (WIPPS) and WIPPS Pilot Projects](https://drive.google.com/file/d/1YIksIbCn19-_DnfPP3dJoi4jQFdylr30/view?usp=drive_link) – Ken Mylne (WMO/INFCOM/ET-OWFS; UKMO) and Yuki Honda (WMO) | 12:00 PM – 12:20 PM |
 | **Keynote Presentation:** [WRF and MPAS-Atmosphere: Looking to the Future – Michael Duda (NSF NCAR)](https://drive.google.com/file/d/17QJwUCWRCZEP4A6WR04u76IYX5tXtxtm/view?usp=drive_link) | 12:20 PM – 1:00 PM |
 | **Lunch Break** | 1:00 PM – 2:00 PM |
 | [Tomorrow.io Resilience Platform – A New Paradigm for Weather Forecasting in Latin America and the Caribbean](https://drive.google.com/file/d/1AwYxVhcYh5V_sM0wHsK2i5qPKlUzZ24l/view?usp=drive_link) – Cesar Beneti | 2:00 PM – 2:20 PM |
@@ -59,7 +59,7 @@ In the meantime, the international community is moving from current-generation m
 | Adaptive Mesh Generation for MPAS-A: Focus on Tropical Weather Systems in the Caribbean – Ashford Reyes (CIMH) | 2:40 PM – 3:10 PM |
 | **Keynote Presentation:** [The pressing climate emergency and the imperative to advance climate modeling – Saulo R. Freitas (INPE)](https://drive.google.com/file/d/1GlPaGzfDZ2d5ZNNNp5lCK8u9zZ0bLs6K/view?usp=drive_link) | 3:10 PM – 4:00 PM |
 | **Afternoon Coffee Break** | 4:00 PM – 4:30 PM |
-| Analysis-Ready, Cloud-Optimized Data Formats for Scalable Weather and Climate Science – Alfonso Ladino (University Of Illinois) | 4:30 PM – 4:50 PM |
+| [Analysis-Ready, Cloud-Optimized Data Formats for Scalable Weather and Climate Science](https://drive.google.com/file/d/1tQp4xfYezF-szDXZLPYosKI8hx93t5j9/view?usp=drive_link)  – Alfonso Ladino (University Of Illinois) | 4:30 PM – 4:50 PM |
 | **Strategic Forum:** Challenges and Opportunities for Latin America in Climate and Atmospheric Forecasting in Turbulent Times – Moderated by Esteban Hernández (CyberColombia) <br> – Saulo Freitas (INPE) <br> – Michael Duda (NSF NCAR) <br> – Arlene Laing (CMO) | 4:50 PM – 5:50 PM |
 | Closing Remarks and Conclusions | 5:50 PM – 6:00 PM |
 
