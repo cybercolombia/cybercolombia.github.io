@@ -1,7 +1,3 @@
-{% comment %}
-Usage:
-{% include linkedin.html id="7379513852033396737" type="activity" height="820" %}
-{% endcomment %}
 <div class="linkedin-embed">
   <iframe
     src="https://www.linkedin.com/embed/feed/update/urn:li:{{ include.type }}:{{ include.id }}"
@@ -11,4 +7,3 @@ Usage:
     loading="lazy"
     title="LinkedIn post"></iframe>
 </div>
-<br>
