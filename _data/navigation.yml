@@ -6,7 +6,7 @@ main:
   - title: "Mission"
     url: /mission/
   - title: "News"
-    url: /news/
+    url: /linkedin/
   - title: "Team"
     url: /team/
   - title: "Contact"
@@ -57,3 +57,17 @@ sidebar-call:
         url: /call_for_description/
       - title: "HPC Summer 2025"
         url: /call_2025/
+
+sidebar-social:
+  - title: "Social Media"
+    children:
+      - title: "Linkedin"
+        url: https://www.linkedin.com/company/cybercolombia/ 
+      - title: "GitHub"
+        url: https://github.com/cybercolombia/
+      - title: "YouTube"
+        url: https://www.youtube.com/@cybercolombia1056
+      - title: "Twitter"
+        url: https://twitter.com/hpccol
+      - title: "Instagram"
+

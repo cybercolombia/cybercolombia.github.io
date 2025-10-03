@@ -88,4 +88,6 @@ Dr. Arlene Laing is the Coordinating Director of the Caribbean Meteorological Or
 
 ## Stay connected
 
-If you would like to stay connected with this community, feel free to contact us at workshops@cybercolombia.org
+If you would like to stay connected with this community, feel free to contact us at [workshops@cybercolombia.org](mailto:workshops@cybercolombia.org)
+
+## Workshop Pictures 

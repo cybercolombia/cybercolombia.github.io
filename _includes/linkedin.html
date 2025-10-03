@@ -1,0 +1,14 @@
+{% comment %}
+Usage:
+{% include linkedin.html id="7379513852033396737" type="activity" height="820" %}
+{% endcomment %}
+<div class="linkedin-embed">
+  <iframe
+    src="https://www.linkedin.com/embed/feed/update/urn:li:{{ include.type }}:{{ include.id }}"
+    width="100%"
+    {% if include.height %}height="{{ include.height }}"{% else %}height="700"{% endif %}
+    frameborder="0"
+    loading="lazy"
+    title="LinkedIn post"></iframe>
+</div>
+<br>
