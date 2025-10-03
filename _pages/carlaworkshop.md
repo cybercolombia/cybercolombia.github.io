@@ -91,3 +91,30 @@ Dr. Arlene Laing is the Coordinating Director of the Caribbean Meteorological Or
 If you would like to stay connected with this community, feel free to contact us at [workshops@cybercolombia.org](mailto:workshops@cybercolombia.org)
 
 ## Workshop Pictures 
+
+
+{% assign folder = '/assets/images/carla2025/workshop/' %}
+
+{%- comment -%} First, keep only files inside the folder {%- endcomment -%}
+{% assign files = site.static_files | where_exp: "f", "f.path contains folder" %}
+
+{%- comment -%} Then filter by extension (one where per ext) {%- endcomment -%}
+{% assign jpg  = files | where: "extname", ".jpg"  %}
+{% assign jpeg = files | where: "extname", ".jpeg" %}
+{% assign png  = files | where: "extname", ".png"  %}
+{% assign gif  = files | where: "extname", ".gif"  %}
+{% assign webp = files | where: "extname", ".webp" %}
+
+{%- comment -%} Merge them and sort {%- endcomment -%}
+{% assign imgs = jpg | concat: jpeg | concat: png | concat: gif | concat: webp | sort: "path" %}
+
+<div class="grid__wrapper">
+  {% for f in imgs %}
+  <figure class="grid__item">
+    <a href="{{ f.path | relative_url }}" title="{{ f.name }}" data-fancybox="gallery">
+      <img src="{{ f.path | relative_url }}" alt="{{ f.name | split:'.' | first | replace:'-',' ' }}">
+    </a>
+  </figure>
+  {% endfor %}
+</div>
+
