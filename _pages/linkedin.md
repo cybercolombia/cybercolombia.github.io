@@ -12,7 +12,8 @@ sidebar:
     padding-right: 0px;
   }
 </style>
-
+{% include linkedin.html id="7387076687248662529" type="activity" height="400" %}
+{% include linkedin.html id="7380035981585838080" type="activity" height="400" %}
 {% include linkedin.html id="7379513852033396737" type="activity" height="400" %}
 {% include linkedin.html id="7378936204077191168" type="activity" height="400" %}
 {% include linkedin.html id="7378122923573932033" type="activity" height="400" %}
