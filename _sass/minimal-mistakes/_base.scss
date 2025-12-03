@@ -359,8 +359,9 @@ input[type="submit"],
 /* LinkedIn Embed Styles */
 .linkedin-embed iframe {
   display: block;
-  border: none;
-  margin: 0;
-  padding: 0;
+  border: 2px solid #ddd;
+  margin: 1;
+  padding: 2;
   width: 100%;
+  margin-bottom: 1.5cm;
 }
