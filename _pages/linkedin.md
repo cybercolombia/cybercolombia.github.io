@@ -8,10 +8,19 @@ sidebar:
 
 <style>
   .page {
-    width: calc(100% - 300px);
-    padding-right: 0px;
+    width: calc(100% - 250px);
+    padding-right: 2px;
   }
 </style>
+
+
+{% include linkedin.html id="7398804678148247552" type="activity" height="400" %}
+{% include linkedin.html id="7396938139593822209" type="activity" height="400" %}
+{% include linkedin.html id="7397775350690390016" type="activity" height="400" %}
+
+{% include linkedin.html id="7394503073517162497" type="activity" height="400" %}
+{% include linkedin.html id="7391622828141412352" type="activity" height="400" %}
+{% include linkedin.html id="7386032518635986944" type="activity" height="400" %}
 {% include linkedin.html id="7387076687248662529" type="activity" height="400" %}
 {% include linkedin.html id="7380035981585838080" type="activity" height="400" %}
 {% include linkedin.html id="7379513852033396737" type="activity" height="400" %}
