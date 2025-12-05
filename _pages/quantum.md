@@ -129,3 +129,6 @@ Individual nations in the region lack the scale for full self-sufficiency. Rathe
     *   "Andean Quantum Stack" becomes fully operational.
 *   **Key Action:** Exporting curriculum and software tools to neighboring nations (Peru, Ecuador) through the Quantum Latino network.
 *   **Target Metric:** 500+ Specialized Workforce; 5+ Sovereign Patents granted.
+
+
+Become part of the alliance. Contact us today at quantum@cybercolombia.org.
