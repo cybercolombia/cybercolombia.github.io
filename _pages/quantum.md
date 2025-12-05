@@ -131,4 +131,4 @@ Individual nations in the region lack the scale for full self-sufficiency. Rathe
 *   **Target Metric:** 500+ Specialized Workforce; 5+ Sovereign Patents granted.
 
 
-Become part of the alliance. Contact us today at quantum@cybercolombia.org.
+Become part of the alliance. Contact us today at [quantum@cybercolombia.org](mailto:quantum@cybercolombia.org)
