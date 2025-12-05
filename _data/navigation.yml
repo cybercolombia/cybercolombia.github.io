@@ -1,10 +1,13 @@
 main:
+  
   - title: "Workshops"
-    url: /workshops/
+    url: /workshop_weather/
+  - title: "Blog"
+    url: /blog/
+  - title: "About"
+    url: /mission/
   - title: "Summer"
     url: /summer_school/
-  - title: "Mission"
-    url: /mission/
   - title: "News"
     url: /linkedin/
   - title: "Team"
@@ -15,6 +18,7 @@ main:
     url: /Services/
   - title: "Branding & Logos"
     url: /about/
+ 
 
 sidebar-summers:
   - title: Summers
@@ -70,4 +74,21 @@ sidebar-social:
       - title: "Twitter"
         url: https://twitter.com/hpccol
       - title: "Instagram"
+
+sidebar-workshops:
+  - title: "Workshops"
+    children:
+      - title: "Introduction"
+        url: /workshop_weather/
+      - title: "1 HPC Workshop (Jamaica 2025)"
+        url: /workshop_carla2025/
+      - title: "Workshops Colombia (2026)"
+        url: /workshops_colombia_2026/
+
+sidebar-quantum:
+  - title: "Colombian Quantum Alliance"
+    children:
+      - title: "Introduction"
+        url: /quantum/
+  
 
