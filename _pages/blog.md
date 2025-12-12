@@ -12,3 +12,5 @@ header:
 
 
 [The Paradox of Openness: When Ancestral Knowledge Feeds the Machine](https://www.linkedin.com/pulse/paradox-openness-when-ancestral-knowledge-feeds-esteban-hernandez-ip7ie/)
+
+[Building Enduring Data Institutions. Infrastructure Beyond Politics](https://www.linkedin.com/pulse/building-enduring-data-institutions-infrastructure-beyond-hernandez-do9je/)
