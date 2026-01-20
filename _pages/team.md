@@ -31,13 +31,13 @@ active_members:
         Jose Manuel Monsalve Diaz obtained his bachelor’s degree in Electrical Engineering from the Pontificia Universidad Javeriana in Bogotá in 2013, and his Master in Electrical and Computer Engineering from the University of Delaware in 2020.  After graduation in 2013, he continued his studies at the University of Delaware where he is currently pursuing his PhD on the area of Parallel Computing Architectures. He is also a graduate researcher in Argonne National Laboratory since 2018. Throughout the years he has worked as a research assistant of the CAPSL research group for Prof Guang. R. Gao, and the CRPL research group for Prof. Sunita Chandrasekaran. His areas of interest are parallel computer architecture design, parallel computer systems and parallel programming models. He has worked on validation and verification of OpenMP target offloading, as well as with OpenACC programming targetting CPU and heterogeneous systems based on GPGPUs.
   
   - image_path: /assets/images/members/aurelio_vivas.png
-    alt: "M.Sc. Aurelio Vivas"
-    title: "M.Sc. Aurelio Vivas"
+    alt: "Dr.. Aurelio Vivas"
+    title: "Dr. Aurelio Vivas"
     excerpt: |
         **aurelio.vivas@cybercolombia.org**,
         **aa.vivas@uniandes.edu.co**
 
-        Aurelio Vivas, computing engineer from the Universidad del Valle. He earned a master's degree and is currently a doctoral student at Universidad de los Andes, Bogotá, Colombia. Aurelio has worked mainly in the area of parallel and distributed computing applied to climate modelling, molecular dynamics and large-scale satellite image processing. He has participated as an analyst, developer or coordinator in research projects related to earthquake analysis, urban planning and large-scale satellite image processing.
+        Aurelio Vivas, computing engineer from the Universidad del Valle. He earned a master's and PhD  degree at Universidad de los Andes, Bogotá, Colombia. Aurelio has worked mainly in the area of parallel and distributed computing applied to climate modelling, molecular dynamics and large-scale satellite image processing. He has participated as an analyst, developer or coordinator in research projects related to Scientific Workflows, urban planning and large-scale satellite image processing. Scie
 
 non_active_members:
   - image_path: /assets/images/members/juan_mallarino.jpg
