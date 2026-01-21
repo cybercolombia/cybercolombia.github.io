@@ -1,7 +1,7 @@
 main:
   
   - title: "Events"
-    url: /events/workshop_carla2025/
+    url: /events/workshops/
   - title: "Blog"
     url: /blog/
   - title: "About"
@@ -79,11 +79,11 @@ sidebar-events:
   - title: "Events"
     children:
       - title: "Introduction"
-        url: /workshop_weather/
+        url: /events/workshops/
       - title: "1 HPC Workshop (Jamaica 2025)"
-        url: /workshop_carla2025/
-      - title: "Workshops Colombia (2026)"
-        url: /workshops_colombia_2026/
+        url: /events/workshop_carla2025/
+      - title: "Weather Forecasting Workshop 2026"
+        url: /events/workshop_weather2026/
 
 sidebar-quantum:
   - title: "Colombian Quantum Alliance"
