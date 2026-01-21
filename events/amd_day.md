@@ -1,7 +1,7 @@
 ---
 permalink: /events/amd_day_2025/
 title: "AMD Day 2025"
-# layout: splash
+layout: splash
 excerpt: |
     Parallel Computing Architectures and Programming Models for AI Applications.
 
