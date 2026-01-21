@@ -32,13 +32,6 @@ To ensure a productive environment, participants are expected to meet the follow
 * **Linux/Unix Environment:** Intermediate command-line skills (shell scripting, navigation, text editing with vi/nano).
 * **Programming (Recommended):** Basic reading knowledge of Fortran 90 and C is helpful for understanding code structure.
 
-### Technical Requirements (BYOD: Bring Your Own Device)
-* **Laptop:** 64-bit architecture CPU (4+ cores recommended).
-* **OS:** Linux (Ubuntu/CentOS), macOS, or Windows with WSL2.
-* **Storage:** Minimum 50 GB free space.
-* **Memory:** Minimum 8 GB RAM (16 GB recommended).
-* **Software:** Pre-installed compilers (gfortran, gcc) and libraries (NetCDF, MPI, HDF5).
-
 ---
 
 ## Agenda
