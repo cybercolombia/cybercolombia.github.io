@@ -2,35 +2,30 @@
 permalink: /events/workshops/
 title: "Introduction to Workshops Series"
 layout: splash
-type: center
 excerpt: |
-   " HPC Workshop series"
+   HPC  & Weather Workshop series
 header:
   overlay_image: /assets/images/backgrounds/Hurricanes.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+
 sidebar:
   - nav: sidebar-events
 
-
-organizing_committee: 
-  - image_path: "/assets/images/members/jose_monsalve.jpeg"
-    excerpt: |
-        **PhD. Jose Monsalve, AMD**
-  - image_path: "/assets/images/members/esteban_hernandez.jpg"
-    excerpt: |
-        **PhD. Esteban Hernández, CyberColombia**
-
-toc: true
-toc_label: "Content" # defautl: Content
-toc_icon: "book"     # corresponding Font Awesome icon name without the "fa" prefix
-toc_sticky: true     # enables sticky toc           
 ---
+
+<style>
+  .page {
+    width: calc(100% - 300px);
+    padding-right: 0px;
+  }
+</style>
 
 ## Vision and Context
 
-CyberColombia was created to strengthen regional capabilities in **scientific computing, high-performance computing (HPC), and artificial intelligence**, fostering effective collaboration between academia, industry, and the public sector. Our vision is direct and pragmatic: **to narrow the gap between scientific ambition and actual computational capability** by developing human capital that understands both the scientific problem and the constraints of modern computational infrastructures.
+**CyberColombia** was created to strengthen regional capabilities in **scientific computing, high-performance computing (HPC), and artificial intelligence**, fostering effective collaboration between academia, industry, and the public sector. Our vision is direct and pragmatic: **to narrow the gap between scientific ambition and actual computational capability** by developing human capital that understands both the scientific problem and the constraints of modern computational infrastructures.
 
 Technology, in our approach, is not an end in itself but an enabler. For this reason, all CyberColombia training activities are designed to deliver **practical, transferable capabilities**, grounded in real systems and real workloads, and to promote a critical and sustainable adoption of advanced technologies.
+
 
 ## Track Record and Prior Experience
 
@@ -59,12 +54,10 @@ The series covers topics spanning HPC, numerical modeling, data science, AI for 
 
 At CyberColombia, workshops are conceived as **entry points to an active technical community**, where learning extends beyond the event itself and evolves into collaboration, shared projects, and sustained capacity building.
 
-</p>
-
-----
 
 
 ## Stay connected
 
 If you would like to stay connected with this community, feel free to contact us at [workshops@cybercolombia.org](mailto:workshops@cybercolombia.org)
+
 

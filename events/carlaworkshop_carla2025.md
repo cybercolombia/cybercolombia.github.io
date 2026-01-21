@@ -8,7 +8,8 @@ excerpt: |
 header:
   overlay_image: /assets/images/backgrounds/Hurricanes.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-
+sidebar:
+  - nav: sidebar-events
 
 organizing_committee: 
   - image_path: "/assets/images/speakers/2025/Kate.jpg"
