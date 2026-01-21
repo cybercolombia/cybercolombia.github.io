@@ -1,7 +1,7 @@
 main:
   
-  - title: "Workshops"
-    url: /workshop_carla2025/
+  - title: "Events"
+    url: /events/workshop_carla2025/
   - title: "Blog"
     url: /blog/
   - title: "About"
@@ -75,8 +75,8 @@ sidebar-social:
         url: https://twitter.com/hpccol
       - title: "Instagram"
 
-sidebar-workshops:
-  - title: "Workshops"
+sidebar-events:
+  - title: "Events"
     children:
       - title: "Introduction"
         url: /workshop_weather/
