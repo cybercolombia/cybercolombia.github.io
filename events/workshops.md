@@ -1,5 +1,5 @@
 ---
-permalink: /workshops/
+permalink: /events/workshops/
 title: "Introduction to Workshops Series"
 layout: splash
 type: center
@@ -25,17 +25,6 @@ toc_label: "Content" # defautl: Content
 toc_icon: "book"     # corresponding Font Awesome icon name without the "fa" prefix
 toc_sticky: true     # enables sticky toc           
 ---
-
-### Introduction
-![Image](https://www.nist.gov/sites/default/files/styles/social/public/images/2025/01/14/5th%20High%20Perf%20Workshop.png?itok=kXCluoJw)
-
-![Image](https://upload.wikimedia.org/wikipedia/commons/8/8b/Typhoon_Mawar_2005_computer_simulation_thumbnail.gif)
-
-![Image](https://www.hpc.lsu.edu/images/slides/2019_training_1.jpg)
-
-![Image](https://www.psc.edu/wp-content/uploads/2025/09/adobe-image-hpc-workshops-2.png)
-
-![Image](https://www.hpc.lsu.edu/images/slides/2014_linux_trn4.jpg)
 
 ## Vision and Context
 
