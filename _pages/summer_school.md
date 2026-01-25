@@ -1,7 +1,7 @@
 ---
 permalink: /summer_school/
 title: "Summer School Series"
-# layout: splash
+#layout: splash
 excerpt: |
     Summer School provides a unique opportunity to attend state-of-the-art training delivered by world-leading academics and industry partners from around the globe  
 header:

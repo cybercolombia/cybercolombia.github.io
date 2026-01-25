@@ -20,7 +20,7 @@ sidebar:
   }
 </style>
 
-## Vision and Context
+# Vision and Context
 
 **CyberColombia** was created to strengthen regional capabilities in **scientific computing, high-performance computing (HPC), and artificial intelligence**, fostering effective collaboration between academia, industry, and the public sector. Our vision is direct and pragmatic: **to narrow the gap between scientific ambition and actual computational capability** by developing human capital that understands both the scientific problem and the constraints of modern computational infrastructures.
 
@@ -59,5 +59,3 @@ At CyberColombia, workshops are conceived as **entry points to an active technic
 ## Stay connected
 
 If you would like to stay connected with this community, feel free to contact us at [workshops@cybercolombia.org](mailto:workshops@cybercolombia.org)
-
-
