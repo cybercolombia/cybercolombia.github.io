@@ -1,8 +1,9 @@
 ---
-layout: splash
-title: "Weather Forecasting School: Focus on MPAS and WRF"
 permalink: /events/weather_2026/
-description: "A 4-day intensive on-site training on MPAS and WRF modeling systems led by Michael Duda (NCAR)."
+#layout: splash
+title: "Weather Forecasting School: Focus on MPAS and WRF"
+excerpt: |
+    A 4-day intensive on-site training on MPAS and WRF modeling systems led by Michael Duda (NCAR). 
 sidebar:
   - nav: sidebar-events
 ---
