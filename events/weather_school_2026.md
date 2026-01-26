@@ -20,7 +20,7 @@ sidebar:
 ---
 
 ## About the Event
-CyberColombia is proud to present an intensive 4-day training school focused on the next generation of weather prediction models. This event bridges the gap between traditional forecasting (WRF) and the future of multi-scale unstructured mesh modeling (MPAS).
+CyberColombia and Colombia Air Force are proud to present an intensive 4-day training school focused on the next generation of weather prediction models. This event bridges the gap between traditional forecasting (WRF) and the future of multi-scale unstructured mesh modeling (MPAS).
 
 Designed for researchers, meteorologists, and HPC engineers, this course will cover the complete workflow from installation to advanced post-processing, with a strong emphasis on the interoperability between WRF and MPAS.
 
