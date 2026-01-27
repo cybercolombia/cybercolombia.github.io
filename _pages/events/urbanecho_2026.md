@@ -38,7 +38,7 @@ In the second half, participants organized in mixed groups (academia, transport,
 
 
 ## Date & Time
-February  18, 2026
+February  18, 2026 <br>
 2:00-6:00 P.M COT
 
 ## Location
