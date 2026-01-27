@@ -36,8 +36,22 @@ This first block introduces the fundamentals of agent-based modeling and digital
 ### Part 2 – Guided brainstorming and research design (approx. 2 hours)
 In the second half, participants organized in mixed groups (academia, transport, water, security, planning), will bring concrete urban issues or research questions they are interested in addressing. With guidance from the UrbanEcho team, each group will work on translating those issues into modelable research problems: defining agents, data needs, scenarios, and outcome metrics. The session closes with a plenary discussion to identify promising ideas and possible next steps toward pilot studies or applied research projects.
 
+
+## Date
+February  28, 2026
+
+## Location
+Bogota, Colombia <br>
+Distrital University<br> 
+[Aduanilla de Paiba](https://maps.app.goo.gl/K3QpDdoadHPF1qUq6)
+
+## Important
+**Register required**
+
 ## Organization Comitee 
 {% include feature_row id="organizing_committee" %}
+
+
 
 
 ### The KeyNote
