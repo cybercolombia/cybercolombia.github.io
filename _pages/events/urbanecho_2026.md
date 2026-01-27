@@ -16,7 +16,7 @@ organizing_committee:
         **Dr. Grace Orowo Kagho, Urban Echo**
   - image_path: "/assets/images/members/esteban_hernandez.jpg"
     excerpt: |
-        **PhD. Esteban Hernández, CyberColombia**
+        **Dr. Esteban Hernández, CyberColombia**
 
 toc: true
 toc_label: "Content" # defautl: Content
