@@ -45,6 +45,9 @@ Bogota, Colombia <br>
 Distrital University<br> 
 [Aduanilla de Paiba](https://maps.app.goo.gl/K3QpDdoadHPF1qUq6)
 
+## Language
+This workshop will be taught in English.
+
 ## Important
 **Register required**
 
