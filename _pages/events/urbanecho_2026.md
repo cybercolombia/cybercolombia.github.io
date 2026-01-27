@@ -37,8 +37,9 @@ This first block introduces the fundamentals of agent-based modeling and digital
 In the second half, participants organized in mixed groups (academia, transport, water, security, planning), will bring concrete urban issues or research questions they are interested in addressing. With guidance from the UrbanEcho team, each group will work on translating those issues into modelable research problems: defining agents, data needs, scenarios, and outcome metrics. The session closes with a plenary discussion to identify promising ideas and possible next steps toward pilot studies or applied research projects.
 
 
-## Date
-February  28, 2026
+## Date & Time
+February  18, 2026
+2:00-6:00 P.M COT
 
 ## Location
 Bogota, Colombia <br>
