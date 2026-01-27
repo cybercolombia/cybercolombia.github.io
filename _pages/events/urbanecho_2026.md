@@ -57,11 +57,13 @@ This workshop will be taught in English.
 
 
 
-
 ### The KeyNote
 
+Dr. Grace Kagho is the founder of UrbanEcho, an ETH spin‑off delivering AI‑powered digital twin solutions for cities in emerging economies. UrbanEcho develops virtual urban replicas that integrate transport networks, housing, infrastructure, and mobility patterns, enabling planners and policymakers to tackle congestion, safety, and sustainability through actionable, data‑driven insights.
 
-Dr. Grace Orowo Kagho  is  Lecturer at the Department of Civil, Environmental and Geomatic Engineering of ETH Zuric
+Grace holds a doctorate in Civil, Environmental, and Geomatic Engineering from ETH Zurich, specializing in computational modeling, urban mobility, and urban science. Her research on agent‑based mobility simulations and travel demand modeling across seven global cities laid the foundation for UrbanEcho's platform.
+
+Originally from Nigeria, she earned her bachelor's degree at Covenant University and her master's degree at the Tokyo Institute of Technology as a Japanese Government MEXT scholar, before completing her PhD at ETH Zurich. She has contributed to major international mobility and infrastructure projects across Europe, the US, Asia, and Africa.
 
 
 ## Stay connected
