@@ -1,15 +1,12 @@
 ---
-layout: page
 title: Events & Activities
 permalink: /events/
-description: "Recent participation in SC25, CARLA 2025, and International Data Events."
+description: "Current event leading by CyberColombia"
 ---
 
 ## Advancing Science through HPC, AI & Quantum Computing
 
 2025 has been a landmark year for CyberColombia. From the Caribbean to St. Louis, our team has been active on the global stage, presenting research, organizing workshops, and fostering the next generation of HPC talent in Latin America.
-
----
 
 ### Recent Highlights (Late 2025)
 

@@ -1,10 +1,9 @@
 ---
-permalink: /events/urban_workshop/
-title: "Urban Artificial Intelligence"
-layout: splash
+permalink: /events/workshop_carla2025/
+title: "Advances Weather Forecasting 2025"
 type: center
 excerpt: |
-   "Workshop on Urban Artificial Intelligence"
+   "1th Latin America and Caribbean Advances on Weather Forecasting. September 22-26, Kingston (Jamaica)"
 header:
   overlay_image: /assets/images/backgrounds/Hurricanes.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background

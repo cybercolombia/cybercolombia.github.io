@@ -1,23 +1,22 @@
 ---
 permalink: /events/weather_2026/
-layout: splash
 title: "Weather Forecasting School: Focus on MPAS and WRF"
 excerpt: |
     A 4-day intensive on-site training on MPAS and WRF modeling systems led by Michael Duda (NCAR). 
+
+header:
+  overlay_image: /assets/images/backgrounds/Hurricanes.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 sidebar:
   - nav: sidebar-events
 ---
 
 # Weather Forecasting School: Focus on MPAS and WRF
-**High-Performance Computing & Atmospheric Science**
-
 <div class="alert alert-info" role="alert">
   <strong>Date:</strong> March 16 – 19, 2026 <br>
   <strong>Location:</strong> Bogotá, Colombia. Air Force NCO Club<br>
   <strong>Instructor:</strong> Michael Duda (NCAR/MMM)
 </div>
-
----
 
 ## About the Event
 CyberColombia and Colombia Air Force are proud to present an intensive 4-day training school focused on the next generation of weather prediction models. This event bridges the gap between traditional forecasting (WRF) and the future of multi-scale unstructured mesh modeling (MPAS).

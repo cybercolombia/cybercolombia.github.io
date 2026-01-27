@@ -1,7 +1,7 @@
 ---
 permalink: /events/workshops/
 title: "Introduction to Workshops Series"
-layout: splash
+#layout: splash
 excerpt: |
    HPC  & Weather Workshop series
 header:
