@@ -2,7 +2,7 @@
 permalink: /events/weather_2026/
 title: "Weather Forecasting School: Focus on MPAS and WRF"
 excerpt: |
-    A 4-day intensive on-site training on MPAS and WRF modeling systems led by Michael Duda (NCAR). 
+    A 4-day intensive on-site training on MPAS and WRF modeling systems. 
 
 header:
   overlay_image: /assets/images/backgrounds/Hurricanes.jpg
@@ -15,7 +15,7 @@ sidebar:
 <div class="alert alert-info" role="alert">
   <strong>Date:</strong> March 16 – 19, 2026 <br>
   <strong>Location:</strong> Bogotá, Colombia. Air Force NCO Club<br>
-  <strong>Instructor:</strong> Michael Duda (NCAR/MMM)
+  <strong>Instructor:</strong> TBD
 </div>
 
 ## About the Event
@@ -70,7 +70,7 @@ To ensure a productive environment, participants are expected to meet the follow
 * **13:30:** **Final Lab:** Comparative study (Side-by-side analysis of WRF and MPAS output).
 * **15:30:** Closing Remarks & Certification.
 
----
+<!-- ---
 
 ## Meet the Instructor
 
@@ -79,7 +79,7 @@ To ensure a productive environment, participants are expected to meet the follow
 
 Michael Duda is a principal developer of the WRF Pre-processing System (WPS) and one of the primary architects of the Model for Prediction Across Scales (MPAS) software framework. With over a decade of experience at the National Center for Atmospheric Research (NCAR), his work focuses on the computational performance of atmospheric components, extensible software design, and unstructured grid generation.
 
----
+--- -->
 
 ## Sponsors & Partners
 
