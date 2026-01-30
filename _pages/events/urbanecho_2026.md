@@ -50,7 +50,7 @@ Distrital University<br>
 This workshop will be taught in English.
 
 ## Important
-**Register required**
+**[Register required here](https://forms.office.com/r/DXNM7gMycd)**
 
 ## Organization Comitee 
 {% include feature_row id="organizing_committee" %}
