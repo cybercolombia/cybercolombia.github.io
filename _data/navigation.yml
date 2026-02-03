@@ -2,20 +2,20 @@ main:
   
   - title: "Events"
     url: /events/workshops/
-  - title: "Blog"
-    url: /blog/
-  - title: "About"
-    url: /mission/
+  - title: "Quantum"
+    url: /quantum/
   - title: "Summer"
     url: /summer_school/
+  - title: "About"
+    url: /mission/
   - title: "News"
     url: /linkedin/
   - title: "Team"
     url: /team/
+  - title: "Blog"
+    url: /blog/
   - title: "Contact"
     url: /contact/
-  - title: "Services"
-    url: /Services/
   - title: "Branding & Logos"
     url: /about/
  

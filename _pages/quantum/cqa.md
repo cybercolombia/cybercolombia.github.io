@@ -8,7 +8,8 @@ excerpt: |
 header:
   overlay_image: /assets/images/logos/cqa_header.png
   overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background
-
+sidebar:
+  - nav: sidebar-quantum
 ---
 
 <style>
