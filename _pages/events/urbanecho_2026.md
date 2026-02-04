@@ -26,7 +26,7 @@ toc_sticky: true     # enables sticky toc
 
 ### Introduction
 
-The workshop is designed to bridge academic research and real-world urban decision-making. It combines a structured technical introduction with a guided co-creation session, allowing participants to move from urban challenges to concrete research and prototyping ideas.
+Cybercolombia in collaboration with [Distrital University](https://www.udistrital.edu.co/inicio) and [UrbanEcho](https://www.urbanecho.io/)  hosting this workshop designed to bridge academic research and real-world urban decision-making. It combines a structured technical introduction with a guided co-creation session, allowing participants to move from urban challenges to concrete research and prototyping ideas.
 
 ### Workshop structure (4 hours): 
 
