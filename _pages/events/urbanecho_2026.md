@@ -52,8 +52,6 @@ This workshop will be taught in English.
 ## Organization Comitee 
 {% include feature_row id="organizing_committee" %}
 
-
-
 ### The KeyNote
 
 Dr. Grace Kagho is the founder of UrbanEcho, an ETH spin‑off delivering AI‑powered digital twin solutions for cities in emerging economies. UrbanEcho develops virtual urban replicas that integrate transport networks, housing, infrastructure, and mobility patterns, enabling planners and policymakers to tackle congestion, safety, and sustainability through actionable, data‑driven insights.
@@ -67,20 +65,17 @@ Originally from Nigeria, she earned her bachelor's degree at Covenant University
 
 If you would like to stay connected with this community, feel free to contact us at [workshops@cybercolombia.org](mailto:workshops@cybercolombia.org)
 
-
-
 ## Supporting and Participating Organizations
 
 Universidad Distrital Francisco Jose de Caldas, Pontificia Universidad Javeriana, Universidad Central, Universidad Militar, Secretaria Distrital de Planeacion, Instituto Nacional de Medicina Legal y Ciencias Forenses, Transmilenio, DatosCol, Fluvia S.A.S, AGATA, xtrategia, Fasecolda, Inversiones Gutierrez Garcia
 
-## Workshop Results. 
+## Workshop Results
 
 The workshop established a clear methodological and technological foundation for advancing Urban Artificial Intelligence through the implementation of a Digital Twin paradigm. Participants structured four priority domains—urban flood resilience, electromobility transition, road safety, and urban security—into coherent analytical frameworks defined by problems, research questions, key variables, data requirements, scenarios, and measurable performance indicators. Rather than approaching these challenges as isolated policy discussions, the groups reframed them as simulation-ready systems that can be modeled, tested, and evaluated in a dynamic digital environment. This marks a transition from static urban analysis toward computationally driven, scenario-based decision support.
 
 The Digital Twin concept was positioned not as a visualization tool, but as the operational core of Urban Artificial Intelligence: a continuously updated, data-integrated, agent-based representation of the city capable of simulating behavioral, infrastructural, and spatial dynamics before real-world implementation. By combining multi-source data fusion, synthetic population modeling, and policy-oriented KPI evaluation, the workshop demonstrated that urban systems can be stress-tested, optimized, and redesigned in a controlled digital sandbox. The conclusion is direct: the technical architecture and institutional ecosystem required to deploy an Urban Digital Twin are within reach. The next step is coordinated implementation—transforming structured research designs into an operational platform that supports resilient, evidence-based, and performance-driven urban governance.
 
 ## Workshop Pictures Event
-
 
 {% assign folder = '/assets/images/events/2026/urbanEcho/' %}
 
