@@ -67,7 +67,7 @@ organizing_committee:
 
 ### Important dates
 
-|**Event** |June 16 - 18, 2025 (GMT-5)    |
+|**Event** |June 16 - 18, 2026 (GMT-5)    |
 | Registration (Host Sites) opens | March 09, 2026|
 | Registration (Host sites) closes | March 30, 2026|
 | Registration (Students) opens | March 31 2026 |
