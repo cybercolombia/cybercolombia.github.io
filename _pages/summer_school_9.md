@@ -37,11 +37,9 @@ organizing_committee:
   - image_path: "/assets/images/speakers/2024/carolina_pardo.JPG"
     excerpt: |
         **Carolina Pardo, MSc**
-        *Universidad de los Andes*
   - image_path: /assets/images/committee/2023/edison_valencia.jpg
     excerpt: |
         **Edison Valencia, PhD**
-        *Universidad Eafit*
   - image_path: "/assets/images/committee/2024/DiegoAndresRodaPerdomo.jpg"
     excerpt: |
         **Diego Roa, PhD(c)**
