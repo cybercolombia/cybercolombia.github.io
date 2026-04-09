@@ -82,8 +82,10 @@ sidebar-events:
     children:
       - title: "Introduction"
         url: /events/workshops/
-      - title: "1 HPC Workshop (Jamaica 2025)"
+      - title: "1st Weather Workshop (Jamaica 2025)"
         url: /events/workshop_carla2025/
+      - title: "2do Weather Workshop (Argentina 2026)"
+        url: /events/workshop_carla2026/
       - title: "Urban AI with UrbanEcho"
         url: /events/urbanecho_2026/
 
