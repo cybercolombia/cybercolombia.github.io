@@ -29,8 +29,6 @@ toc_icon: "book"     # corresponding Font Awesome icon name without the "fa" pre
 toc_sticky: true     # enables sticky toc           
 ---
 
-### Organization Comitee
-{% include feature_row id="organizing_committee" %}
 
 ### Introduction
 
@@ -62,6 +60,26 @@ Michael Duda
 Talk Description to come
 
 Speaker Bio: Michael Duda is a Software Engineer in the Mesoscale and Microscale Meteorology Laboratory at the U.S. National Science Foundation National Center for Atmospheric Research (NSF NCAR). He has over a decade of experience working with the Weather Research and Forecasting (WRF) model software, and he is one of the principal developers of the WRF Pre-processing System, which he also maintains and supports to the user community. Michael is one of the primary architects of the Model for Prediction Across Scales (MPAS) software framework and infrastructure, and more recently, his work has focused on the computational performance of the atmosphere component of MPAS. He is particularly interested in extensible software design and algorithms of all sorts. Michael holds an M.S. in Computer Science from the University of Colorado.
+
+
+### Organization Comitee
+
+<style>
+  .organizing-committee .feature__item-teaser {
+    height: 200px;
+    overflow: hidden;
+  }
+  .organizing-committee .feature__item-teaser img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center top;
+  }
+</style>
+
+<div class="organizing-committee">
+{% include feature_row id="organizing_committee" %}
+</div>
 
 ## Stay connected
 
