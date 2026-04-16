@@ -163,3 +163,9 @@ In-Person
 <p></p>
 
 {% include feature_row id="co_committee" %}
+
+### Partners
+<p></p>
+<center>
+<img width="100%" src="/assets/images/institutions/2026/partners.png"> 
+</center>
