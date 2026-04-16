@@ -47,6 +47,63 @@ organizing_committee:
     excerpt: |
         **Rafael Herrera, PhD(c)**
 
+co_committee:
+  - image_path: /assets/images/committee/2024/Luis_Eduardo_Seijas_Universidad_del_Rosario.jpg
+    excerpt: |
+        **Dr. Luis Seijas**
+        *Universidad del Rosario*
+  - image_path: /assets/images/committee/idanis_diaz.png
+    excerpt: |
+        **Dra. Idanis Díaz**
+        *Universidad del Magdalena*
+  - image_path: /assets/images/committee/2024/JavierMontolla_Ucartagena.jpeg
+    excerpt: |
+        **Dr. Javier Montoya**
+        *Universidad de Cartagena*
+  - image_path: /assets/images/committee/2024/AmauryCabarcas_Ucartagena.jpeg
+    excerpt: |
+        **Msc. Amaury Cabarcas**
+        *Universidad de Cartagena*
+  - image_path: /assets/images/committee/2023/clara_bermudez.jpg
+    excerpt: |
+        **Dra. Clara Bermudez**
+        *Universidad Nacional*
+  - image_path: /assets/images/committee/william_oquendo.png
+    excerpt: |
+        **Dr. William Oquendo**
+        *Universidad Nacional*
+  - image_path: /assets/images/committee/2023/edison_valencia.jpg
+    excerpt: |
+        **Dr. Edison Valencia**
+        *Universidad Eafit*
+  - image_path: /assets/images/committee/2023/elvis_gaona.jpg
+    excerpt: |
+        **Dr. Elvis Gaona**
+        *Universidad Distrital*
+  - image_path: /assets/images/committee/richar_chia.png
+    excerpt: |
+        **Ing. Richar Chía**
+        *Universidad Distrital*
+  - image_path: /assets/images/committee/erick_orozco.png
+    excerpt: |
+        **Dr. Erick Orozco**
+        *Universidad Simón Bolivar*
+  - image_path: /assets/images/committee/john_sanabria.png
+    excerpt: |
+        **Dr. John Sanabria**
+        *Universidad del Valle*
+  - image_path: /assets/images/committee/2024/CamiloESPEJO_Uninorte.jpg
+    excerpt: |
+        **Dr. Camilo Espejo**
+        *Universidad del Norte*
+  - image_path: /assets/images/committee/duvan_gomez.png
+    excerpt: |
+        **Dr. Duvan Gomez**
+        *Universidad EIA*
+  - image_path: /assets/images/committee/2023/julian_rincon.png
+    excerpt: |
+        **Dr. Julian Rincon**
+        *Universidad de los Andes*
 ---
 ### Introduction
 <p style="text-align: justify; text-justify: inter-word;">Join us for the <strong>ninth edition</strong> of the <strong>CyberColombia International School</strong> series. This year, the program focuses on <strong>state-of-the-art topics</strong> in <strong>High-Performance Computing, AI/ML, and Quantum Computing</strong>. The event is designed to provide students, researchers, and professionals from both the private and public sectors with <strong>in-depth technical talks and hands-on training</strong>. Participants will gain valuable insights and practical skills in the use of <strong>high-performance computing (HPC) technologies</strong>.</p>
@@ -87,7 +144,22 @@ organizing_committee:
 | Scholarship (Students) opens | May 11, 2026 |
 | Scholarship (Students) closes | June 01, 2026 |
 
+### Format
+In-Person
+
+<!-- <p style="font-size: 18px">The content tagged with * is subject to changes.</p> -->
+
+### Programme
+<p></p>
+
+<iframe  frameborder="0" scrolling="no" style="border:none; overflow:hidden;" height="800" width="100%" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTSl6GbMAiF3lQK9Z7WTnot3G4izeRdDrq4RTlbWt9ir_Ri53C5ohIeIXUmIXjFSCvkdtKUnZxoQLbY/pubhtml?gid=345604675&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 ### Organizing Committee
 <p></p>
 
 {% include feature_row id="organizing_committee" %}
+
+### Co-organizers
+<p></p>
+
+{% include feature_row id="co_committee" %}
