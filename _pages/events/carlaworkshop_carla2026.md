@@ -19,7 +19,7 @@ organizing_committee:
         **PhD. Saulo R. Freitas, INPE**
   - image_path: "/assets/images/speakers/2025/MichaelDuda.jpg"
     excerpt: |
-        **M.S. Michael Duda, NCAR**
+        **Msc. Michael Duda, NCAR**
  
 
 
@@ -51,16 +51,34 @@ As we move away from total reliance on specific governmental  institutions, we w
 
 ### Workshop Keynote Talks
 
-Keynote: The pressing climate emergency and the imperative to advance climate modeling
+**Keynote**: The pressing climate emergency and the imperative to advance climate modeling
 Saulo R. Freitas
 Talk Description: This talk introduces the MONAN program (Model for Ocean-laNd-Atmosphere predictioN), a Brazilian community program led by the National Institute for Space Research (INPE) that proposes a new paradigm in focus and organization for modeling the Earth System, bringing the country to the state-of-the-art in weather, climate, and environmental forecasting.
 
-Keynote: WRF and MPAS-Atmosphere: Looking to the Future and current challenges for LAC
+**Speaker Bio**: Saulo R. Freitas is a researcher specializing in meteorology and atmospheric sciences. He holds a D. Sc. in Applied Physics from the University of São Paulo. Additionally, he conducted postdoctoral research at the NASA Ames Research Center and served as a Visiting Researcher at the Earth System Laboratory Research (NOAA). Currently, he is a Senior Researcher and Professor in the Graduate Program in Meteorology at the Brazilian Institute for Space Research (INPE). His research focuses on air pollution and atmospheric chemistry associated with wildfires, convection parameterization, and numerical weather forecasting integrated with atmospheric chemistry and aerosols.
+
+**Keynote**: WRF and MPAS-Atmosphere: Looking to the Future and current challenges for LAC
 Michael Duda
 Talk Description to come
 
-Speaker Bio: Michael Duda is a Software Engineer in the Mesoscale and Microscale Meteorology Laboratory at the U.S. National Science Foundation National Center for Atmospheric Research (NSF NCAR). He has over a decade of experience working with the Weather Research and Forecasting (WRF) model software, and he is one of the principal developers of the WRF Pre-processing System, which he also maintains and supports to the user community. Michael is one of the primary architects of the Model for Prediction Across Scales (MPAS) software framework and infrastructure, and more recently, his work has focused on the computational performance of the atmosphere component of MPAS. He is particularly interested in extensible software design and algorithms of all sorts. Michael holds an M.S. in Computer Science from the University of Colorado.
+**Speaker Bio**: Michael Duda is a Software Engineer in the Mesoscale and Microscale Meteorology Laboratory at the U.S. National Science Foundation National Center for Atmospheric Research (NSF NCAR). He has over a decade of experience working with the Weather Research and Forecasting (WRF) model software, and he is one of the principal developers of the WRF Pre-processing System, which he also maintains and supports to the user community. Michael is one of the primary architects of the Model for Prediction Across Scales (MPAS) software framework and infrastructure, and more recently, his work has focused on the computational performance of the atmosphere component of MPAS. He is particularly interested in extensible software design and algorithms of all sorts. Michael holds an M.S. in Computer Science from the University of Colorado.
 
+### Call for Participation: Papers and Technical Use Cases ###
+
+The 2nd Latin American and Caribbean Workshop on Advances in Weather Forecasting invites researchers, technologists, and practitioners to submit original work, ongoing research, or technical use cases.
+
+In light of the shifting landscape of global atmospheric centers, we specifically encourage submissions that explore alternatives for regional sustainability and showcase efforts currently running within LAC.
+
+Themes of Interest
+* Transitioning Models: Practical experiences migrating from WRF/MPAS to next-generation frameworks or European alternatives (ECMWF/IFS).
+
+* Regional Autonomy & MONAN: Use cases involving the Model for Ocean-laNd-Atmosphere predictioN and other South-South collaborative efforts.
+
+* AI/ML for Weather Sovereignty: Implementation of low-cost, high-performance AI models (e.g., GraphCast, FourCastNet) that reduce reliance on external massive HPC centers.
+
+*  Infrastructure & Data: Leveraging regional HPC clusters or cloud-native architectures for hyper-local climate hazard forecasting.
+
+* Institutional Cooperation: Success stories of cross-border partnerships between LAC organizations (e.g., INPE, SMN, SCALAC) and international entities.
 
 ### Organization Comitee
 
