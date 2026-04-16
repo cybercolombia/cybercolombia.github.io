@@ -141,6 +141,24 @@ co_committee:
 <p> The event will be held in-person in the different reception sites: <a href="https://calendly.com/aa-vivas/reuniones">Apply to Become a Host Site</a> </p>
 
 <p style="font-size: 18px"> In addition, you can contact Aurelio Vivas: aa.vivas@uniandes.edu.co</p>
+<p></p>
+
+### Host Universities
+<p> The event will be held in-person in the different reception sites: </p>
+
+| **Site** | **Application** | **Contact** |
+| **Universidad Autónoma de Occidente** (Cali) | [Apply](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=oL48aflOVEKJd3bgXLX1VjU7q3nkY41OikU1Q4j5AK9UN0hOUkRTNFUwTTUwWU9JSzdFUTBPQVNNWS4u) | ohmondragon@uao.edu.co |
+| **Universidad de Rosario** (Bogotá)| on-site | luis.seijas@urosario.edu.co |
+| **Universidad del Magdalena** (Santa Marta)| on-site | idiaz@unimagdalena.edu.co |
+| **Universidad de Cartagena** (Cartagena)| on-site | pringsistemas@unicartagena.edu.co |
+| **Universidad Nacional de Colombia** (Bogotá) | on-site | wfoquendop@unal.edu.co |
+| **Universidad EAFIT** (Medellín)| on-site | akcastror@eafit.edu.co |
+| **Universidad Distrital Francisco José de Caldas** (Bogotá) | on-site | doctoradoing@udistrital.edu.co |
+| **Universidad Simón Bolivar** (Barranquilla)| on-site | erick.orozco@unisimon.edu.co |
+| **Universidad del Valle** (Cali)| on-site | john.sanabria@correounivalle.edu.co |
+| **Universidad del Norte** (Barranquilla)| on-site |ccpinilla@uninorte.edu.co|
+| **Universidad de EIA** (Medellín)| on-site | duvan.gomez36@eia.edu.co |
+| **Universidad de los Andes** (Bogotá)| on-site | aa.vivas@uniandes.edu.co |
 
 ### Important dates
 
