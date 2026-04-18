@@ -143,9 +143,6 @@ co_committee:
 <p style="font-size: 18px"> In addition, you can contact Aurelio Vivas: aa.vivas@uniandes.edu.co</p>
 <p></p>
 
-### Host Universities
-<p> The event will be held in-person in the different reception sites: </p>
-
 | **Site** | **Application** | **Contact** |
 | **Universidad Autónoma de Occidente** (Cali) | [Apply](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=oL48aflOVEKJd3bgXLX1VjU7q3nkY41OikU1Q4j5AK9UN0hOUkRTNFUwTTUwWU9JSzdFUTBPQVNNWS4u) | ohmondragon@uao.edu.co |
 | **Universidad de Rosario** (Bogotá)| on-site | luis.seijas@urosario.edu.co |
