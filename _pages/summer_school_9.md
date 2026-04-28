@@ -87,7 +87,7 @@ co_committee:
   - image_path: /assets/images/committee/erick_orozco.png
     excerpt: |
         **Dr. Erick Orozco**
-        *Universidad Simón Bolivar*
+        *Universidad Simón Bolívar*
   - image_path: /assets/images/committee/john_sanabria.png
     excerpt: |
         **Dr. John Sanabria**
@@ -145,11 +145,11 @@ co_committee:
 
 | **Site** | **Application** | **Contact** |
 | **Universidad Autónoma de Occidente** (Cali) | [Apply](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=oL48aflOVEKJd3bgXLX1VjU7q3nkY41OikU1Q4j5AK9UN0hOUkRTNFUwTTUwWU9JSzdFUTBPQVNNWS4u) | ohmondragon@uao.edu.co |
-| **Universidad de Rosario** (Bogotá)| on-site | luis.seijas@urosario.edu.co |
+| **Universidad de Rosario** (Bogotá)| [Apply](https://urosario.edu.co/summer-school/high-performance-computing-novena-version) | luis.seijas@urosario.edu.co |
 | **Universidad del Magdalena** (Santa Marta)| on-site | idiaz@unimagdalena.edu.co |
 | **Universidad de Cartagena** (Cartagena)| on-site | pringsistemas@unicartagena.edu.co |
 | **Universidad Nacional de Colombia** (Bogotá) | on-site | wfoquendop@unal.edu.co |
-| **Universidad EAFIT** (Medellín)| on-site | akcastror@eafit.edu.co |
+| **Universidad EAFIT** (Medellín)| [Apply](https://forms.office.com/Pages/ResponsePage.aspx?id=XrX3mb6ce0aBQ5GXgpGK--ldUSQZkcZAl9DCSkym405UREU4SFdHSVc0S1JBNlVWNlNFRk1DOTFZRi4u) | akcastror@eafit.edu.co |
 | **Universidad Distrital Francisco José de Caldas** (Bogotá) | on-site | doctoradoing@udistrital.edu.co |
 | **Universidad Simón Bolivar** (Barranquilla)| on-site | erick.orozco@unisimon.edu.co |
 | **Universidad del Valle** (Cali)| on-site | john.sanabria@correounivalle.edu.co |
