@@ -112,6 +112,14 @@ co_committee:
     excerpt: |
         **Msc. Helmut Rubio**
         *Universidad Autonoma de Occidente*
+  - image_path: /assets/images/committee/jorge_jaramillo.png
+    excerpt: |
+        **Msc. Jorge Jaramillo**
+        *Universidad Pedagógica y Tecnológica de Colombia*
+  - image_path: /assets/images/committee/jorge_otalora.png
+    excerpt: |
+        **Dr. Jorge Otalora**
+        *Universidad Pedagógica y Tecnológica de Colombia*
 ---
 ### Introduction
 <p style="text-align: justify; text-justify: inter-word;">Join us for the <strong>ninth edition</strong> of the <strong>CyberColombia International School</strong> series. This year, the program focuses on <strong>state-of-the-art topics</strong> in <strong>High-Performance Computing, AI/ML, and Quantum Computing</strong>. The event is designed to provide students, researchers, and professionals from both the private and public sectors with <strong>in-depth technical talks and hands-on training</strong>. Participants will gain valuable insights and practical skills in the use of <strong>high-performance computing (HPC) technologies</strong>.</p>
