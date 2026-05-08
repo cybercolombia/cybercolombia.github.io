@@ -148,7 +148,7 @@ co_committee:
 | **Universidad de Rosario** (Bogotá)| [Apply](https://urosario.edu.co/summer-school/high-performance-computing-novena-version) | luis.seijas@urosario.edu.co |
 | **Universidad del Magdalena** (Santa Marta)| on-site | idiaz@unimagdalena.edu.co |
 | **Universidad de Cartagena** (Cartagena)| on-site | pringsistemas@unicartagena.edu.co |
-| **Universidad Nacional de Colombia** (Bogotá) | on-site | wfoquendop@unal.edu.co |
+| **Universidad Nacional de Colombia** (Bogotá) | [Apply](https://forms.gle/bQAhDwGUrskpqETc6) | wfoquendop@unal.edu.co |
 | **Universidad EAFIT** (Medellín)| [Apply](https://forms.office.com/Pages/ResponsePage.aspx?id=XrX3mb6ce0aBQ5GXgpGK--ldUSQZkcZAl9DCSkym405UREU4SFdHSVc0S1JBNlVWNlNFRk1DOTFZRi4u) | akcastror@eafit.edu.co |
 | **Universidad Distrital Francisco José de Caldas** (Bogotá) | on-site | doctoradoing@udistrital.edu.co |
 | **Universidad Simón Bolivar** (Barranquilla)| on-site | erick.orozco@unisimon.edu.co |
