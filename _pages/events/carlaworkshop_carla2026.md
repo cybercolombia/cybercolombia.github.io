@@ -80,6 +80,26 @@ Themes of Interest
 
 * Institutional Cooperation: Success stories of cross-border partnerships between LAC organizations (e.g., INPE, SMN, SCALAC) and international entities.
 
+
+## Submission Types
+- Full Papers
+Submissions for full papers must be unpublished and not under review elsewhere.
+Length: 8-15 pages
+Language: English (Official language of the CARLA Conference)
+Peer Review: Single-blind, reviewed by at least two experts
+Proceedings: The selected papers will be published in the Latin American journal Avances en Ciencias e Ingeniería (ACI). Submission guidelines (in Spanish) are available on Avances en Ciencias e Ingeniería (ACI) You may use your browser’s translation feature if needed.
+
+## Technical/User Experience Talks
+Language: English (Official language of the CARLA Conference)
+
+Submissions should include a title and a 1 – 2 page abstract describing the experiences that will be presented in a short talk during the workshop, if selected. Please submit the abstract in PDF or Word Document form at the submission website linked below. There are no additional formatting requirements for the abstract.
+If selected to give a talk, the final presentation slides shall be provided to the organizers nearer to the workshop date.
+
+Submission Guidelines
+To begin the submission process for either a full paper or a technical/user experience talk, please register an account in the submission site and add your submission, ensuring that you have followed the details given above regarding your submission type.
+Submission Website: https://meteor.springer.com/carla2026
+
+Important Note: In order to attend the workshop, you must register for the CARLA2026 conference. Please see registration details here.
 ### Organization Comitee
 
 <style>
