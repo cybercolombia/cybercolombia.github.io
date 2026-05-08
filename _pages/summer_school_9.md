@@ -107,11 +107,19 @@ co_committee:
   - image_path: /assets/images/committee/2024/OscarMondragonUAO.jpeg
     excerpt: |
         **Dr. Oscar Mondragon**
-        *Universidad Autonoma de Occidente*
+        *Universidad Autónoma de Occidente*
   - image_path: /assets/images/committee/2024/HelmutAlexanderRubio_UAO.jpg
     excerpt: |
         **Msc. Helmut Rubio**
-        *Universidad Autonoma de Occidente*
+        *Universidad Autónoma de Occidente*
+  - image_path: /assets/images/committee/miguel_mendoza.png
+    excerpt: |
+        **Dr. Miguel Mendoza**
+        *Universidad Pedagógica y Tecnológica de Colombia*
+  - image_path: /assets/images/committee/jorge_otalora.png
+    excerpt: |
+        **Dr. Jorge Otalora**
+        *Universidad Pedagógica y Tecnológica de Colombia*
 ---
 ### Introduction
 <p style="text-align: justify; text-justify: inter-word;">Join us for the <strong>ninth edition</strong> of the <strong>CyberColombia International School</strong> series. This year, the program focuses on <strong>state-of-the-art topics</strong> in <strong>High-Performance Computing, AI/ML, and Quantum Computing</strong>. The event is designed to provide students, researchers, and professionals from both the private and public sectors with <strong>in-depth technical talks and hands-on training</strong>. Participants will gain valuable insights and practical skills in the use of <strong>high-performance computing (HPC) technologies</strong>.</p>
@@ -148,7 +156,7 @@ co_committee:
 | **Universidad de Rosario** (Bogotá)| [Apply](https://urosario.edu.co/summer-school/high-performance-computing-novena-version) | luis.seijas@urosario.edu.co |
 | **Universidad del Magdalena** (Santa Marta)| on-site | idiaz@unimagdalena.edu.co |
 | **Universidad de Cartagena** (Cartagena)| on-site | pringsistemas@unicartagena.edu.co |
-| **Universidad Nacional de Colombia** (Bogotá) | on-site | wfoquendop@unal.edu.co |
+| **Universidad Nacional de Colombia** (Bogotá) | [Apply](https://ciencias.bogota.unal.edu.co/educacion_continua/cursos_diplomados_eventos/hpc_summer_school/) | wfoquendop@unal.edu.co |
 | **Universidad EAFIT** (Medellín)| [Apply](https://forms.office.com/Pages/ResponsePage.aspx?id=XrX3mb6ce0aBQ5GXgpGK--ldUSQZkcZAl9DCSkym405UREU4SFdHSVc0S1JBNlVWNlNFRk1DOTFZRi4u) | akcastror@eafit.edu.co |
 | **Universidad Distrital Francisco José de Caldas** (Bogotá) | on-site | doctoradoing@udistrital.edu.co |
 | **Universidad Simón Bolivar** (Barranquilla)| on-site | erick.orozco@unisimon.edu.co |
@@ -156,6 +164,7 @@ co_committee:
 | **Universidad del Norte** (Barranquilla)| [Apply](https://forms.cloud.microsoft/pages/responsepage.aspx?id=ebawul-96E-1Fsa4sxfHgqmfnvIw289Jo4TCTV_j-ExUNlhHV0lWSVFJNFYzREpESzZOU0FETjE2Ui4u&origin=lprLink&route=shorturl) |ccpinilla@uninorte.edu.co|
 | **Universidad de EIA** (Medellín)| on-site | duvan.gomez36@eia.edu.co |
 | **Universidad de los Andes** (Bogotá)| [Apply](https://forms.cloud.microsoft/r/1L784pHn2e?origin=lprLink) | aa.vivas@uniandes.edu.co |
+| **Universidad Pedagógica y Tecnológica de Colombia** (Boyacá)| on-site | miguel.mendoza@uptc.edu.co  |
 
 ### Important dates
 
