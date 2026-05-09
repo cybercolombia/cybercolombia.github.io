@@ -97,7 +97,7 @@ If selected to give a talk, the final presentation slides shall be provided to t
 
 Submission Guidelines
 To begin the submission process for either a full paper or a technical/user experience talk, please register an account in the submission site and add your submission, ensuring that you have followed the details given above regarding your submission type.
-Submission Website: https://meteor.springer.com/carla2026
+Submission Website: [https://meteor.springer.com/carla2026](https://meteor.springer.com/carla2026)
 
 Important Note: In order to attend the workshop, you must register for the CARLA2026 conference. Please see registration details here.
 ### Organization Comitee
