@@ -157,7 +157,7 @@ co_committee:
 | **Universidad del Magdalena** (Santa Marta)| on-site | idiaz@unimagdalena.edu.co |
 | **Universidad de Cartagena** (Cartagena)| on-site | pringsistemas@unicartagena.edu.co |
 | **Universidad Nacional de Colombia** (Bogotá) | [Apply](https://ciencias.bogota.unal.edu.co/educacion_continua/cursos_diplomados_eventos/hpc_summer_school/) | wfoquendop@unal.edu.co |
-| **Universidad EAFIT** (Medellín)| [Apply](https://forms.office.com/Pages/ResponsePage.aspx?id=XrX3mb6ce0aBQ5GXgpGK--ldUSQZkcZAl9DCSkym405UREU4SFdHSVc0S1JBNlVWNlNFRk1DOTFZRi4u) | akcastror@eafit.edu.co |
+| **Universidad EAFIT** (Medellín)| Closed | akcastror@eafit.edu.co |
 | **Universidad Distrital Francisco José de Caldas** (Bogotá) | on-site | doctoradoing@udistrital.edu.co |
 | **Universidad Simón Bolivar** (Barranquilla)| on-site | erick.orozco@unisimon.edu.co |
 | **Universidad del Valle** (Cali)| on-site | john.sanabria@correounivalle.edu.co |
