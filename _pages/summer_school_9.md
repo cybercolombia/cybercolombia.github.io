@@ -154,7 +154,7 @@ co_committee:
 
 ### Host Universities
 
-<p> The event will be held in-person in the different reception sites: <a href="https://calendly.com/aa-vivas/reuniones">Apply to Become a Host Site</a> </p>
+<p> The event will be held in-person in the different reception sites: </p>
 
 <p style="font-size: 18px"> In addition, you can contact Aurelio Vivas: aa.vivas@uniandes.edu.co</p>
 <p></p>
@@ -181,8 +181,8 @@ co_committee:
 | Registration (Host sites) closes | March 30, 2026|
 | Registration (Students) opens | March 31 2026 |
 | Registration (Students) closes | June 07, 2026 |
-| Scholarship (Students) opens | May 11, 2026 |
-| Scholarship (Students) closes | June 01, 2026 |
+| Scholarship (Students) opens | May 26, 2026 |
+| Scholarship (Students) closes | June 07, 2026 |
 
 ### Format
 In-Person
