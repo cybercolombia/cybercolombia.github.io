@@ -7,10 +7,8 @@ header:
   overlay_image: /assets/images/ss/ss_2025_banner_plain.png
   overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
   actions:
-    - label: "Apply to Become a Host Site"
-      url: "https://calendly.com/aa-vivas/reuniones"
-  #  - label: "Apply for Summer School - Scholarship"
-  #    url: "https://forms.gle/sm6TXpjyuSHg12TDA"
+    - label: "Apply for a Scholarship"
+      url: "https://forms.gle/xafYsk3Sdpg64AATA"
 sidebar:
   - nav: sidebar-summers
 
