@@ -168,7 +168,7 @@ co_committee:
 | **Universidad EAFIT** (Medellín)| Closed | akcastror@eafit.edu.co |
 | **Universidad Distrital Francisco José de Caldas** (Bogotá) | on-site | doctoradoing@udistrital.edu.co |
 | **Universidad Simón Bolivar** (Barranquilla)| on-site | erick.orozco@unisimon.edu.co |
-| **Universidad del Valle** (Cali)| on-site | john.sanabria@correounivalle.edu.co |
+| **Universidad del Valle** (Cali)| [Apply](https://forms.cloud.microsoft/r/hVX7GUCHqV) | john.sanabria@correounivalle.edu.co |
 | **Universidad del Norte** (Barranquilla)| [Apply](https://forms.cloud.microsoft/pages/responsepage.aspx?id=ebawul-96E-1Fsa4sxfHgqmfnvIw289Jo4TCTV_j-ExUNlhHV0lWSVFJNFYzREpESzZOU0FETjE2Ui4u&origin=lprLink&route=shorturl) |ccpinilla@uninorte.edu.co|
 | **Universidad de EIA** (Medellín)| on-site | duvan.gomez36@eia.edu.co |
 | **Universidad de los Andes** (Bogotá)| [Apply](https://forms.cloud.microsoft/r/1L784pHn2e?origin=lprLink) | aa.vivas@uniandes.edu.co |
