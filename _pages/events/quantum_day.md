@@ -1,14 +1,15 @@
 ---
 permalink: /events/quantum_day_2026/
 title: "Quantum Day 2026"
-layout: splash
+#layout: splash
 excerpt: |
     Introduction with real companies to Quantum Computing.
 
 header:
   overlay_image: /assets/images/quantum/QuantumDay2026.png
   overlay_filter: 0.7 # same as adding an opacity of 0.5 to a black background
-
+sidebar:
+  - nav: sidebar-quantum
 ---
 
 <style>
@@ -36,7 +37,7 @@ June 19, 2025. <br/>
 The program consists of two technical sessions that blend platform vision, hardware insight, and hands-on experimentation:
 </p>
 
-### Session 1: Quantum Computing with Amazon Braket
+## Session 1: Quantum Computing with Amazon Braket
 <p style="text-align: justify; text-justify: inter-word;">
 An overview of the current quantum ecosystem with a focus on Amazon Braket and the provider landscape. Participants will learn how leading hardware suppliers deliver superconducting, trapped-ion, and photonic access through cloud platforms, and how real quantum experiments are executed today.
 </p>
@@ -55,7 +56,15 @@ An overview of the current quantum ecosystem with a focus on Amazon Braket and t
 | 11:45 AM - 12:00 PM | Review and open discussion | Consolidation of key concepts and participant questions |
 | 12:00 PM | Session 1 wrap-up | Closing remarks for the first session |
 
-### Session 2: Quantum Software with Xanadu and PennyLane
+ 
+### Instructor
+Mateo Laguna G. is a Solutions Architect at Amazon Web Services for the Public Sector in Latin America. He is part of AWS’s quantum computing enthusiast team. As both a physicist and an engineer, his primary interest lies in quantum computing, where his two professions converge.
+[LinkedIn](https://www.linkedin.com/in/mateo-laguna-guantiva-67803517b/)
+
+
+
+
+## Session 2: Quantum Software with Xanadu and PennyLane
 <p style="text-align: justify; text-justify: inter-word;">
 A practical introduction to quantum programming using Team Xanadu’s PennyLane library and hybrid quantum-classical workflows. Attendees will learn how to write, optimize, and execute quantum circuits with real platform integration.
 </p>
@@ -69,6 +78,12 @@ A practical introduction to quantum programming using Team Xanadu’s PennyLane 
 | 3:30 PM - 4:10 PM | High-Performance Quantum Programming | Theory and practice of efficient quantum-classical workflows |
 | 4:10 PM - 4:40 PM | Frontiers of Research | Emerging trends in quantum software and hybrid algorithms |
 | 4:40 PM - 5:00 PM | Conclusion and next steps | Key takeaways and further learning pathways |
+
+ 
+### Instructor
+
+Catalina Albornoz Anzola holds dual degrees in Mechanical and Electronic Engineering from Universidad de Los Andes. She also holds two Master’s degrees: one in Control Engineering and Information Technologies, and another in Control and Industrial Informatics from French institutions. In addition, she earned a Master’s degree in Electronic and Computer Engineering from Universidad de Los Andes [LinkedIn](https://www.linkedin.com/in/catalinaalbornoz/).
+
 
 ## Official Language
 
