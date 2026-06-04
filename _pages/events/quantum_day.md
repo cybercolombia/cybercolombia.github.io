@@ -6,8 +6,8 @@ excerpt: |
     Introduction with real companies to Quantum Computing.
 
 header:
-  overlay_image: /assets/images/ss/amd_day_banner.png
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_image: /assets/images/quantum/QuantumDay2026.png
+  overlay_filter: 0.7 # same as adding an opacity of 0.5 to a black background
 
 ---
 
