@@ -94,8 +94,11 @@ sidebar-quantum:
     children:
       - title: "Introduction"
         url: /quantum/
+      - title: "Quantum activities"
+        url: /quantum/quantum_activities/
       - title: "Quantum Day 2026"
         url: /events/quantum_day_2026/
+
 
   
 
