@@ -25,19 +25,20 @@ sidebar:
 
 ## The Colombian Quantum Alliance working Group 
 ### Members
-[Esteban Hernandez](https://www.linkedin.com/in/hpccol/)
-[Juan Guillermo Ladinde](https://www.eafit.edu.co/nuestros-profesores/juan-guillermo-lalinde-pulido)
-[Camilo Espejo](https://www.uninorte.edu.co/web/departamento-de-fisica/profesores)
-[Jhon Dario Medina](https://www.linkedin.com/in/jhon-dario-medina-rios-6590a696/)
-[Luis Eduardo Seijas](https://research-hub.urosario.edu.co/display/luis-eduardo-seijas-ruiz)
-[Nicolas Avilan](https://research-hub.urosario.edu.co/display/nicolas-guillermo-avilan-vargas)
-[Nelson Vera](https://facingenieria.udistrital.edu.co/maestria-ciencias-informacion/index.php/docentes/nelson-enrique-vera-parra)
+[Esteban Hernandez](https://www.linkedin.com/in/hpccol/) <br>
+[Juan Guillermo Ladinde](https://www.eafit.edu.co/nuestros-profesores/juan-guillermo-lalinde-pulido)<br>
+[Camilo Espejo](https://www.uninorte.edu.co/web/departamento-de-fisica/profesores)<br>
+[Jhon Dario Medina](https://www.linkedin.com/in/jhon-dario-medina-rios-6590a696/)<br>
+[Luis Eduardo Seijas](https://research-hub.urosario.edu.co/display/luis-eduardo-seijas-ruiz)<br>
+[Nicolas Avilan](https://research-hub.urosario.edu.co/display/nicolas-guillermo-avilan-vargas)<br>
+[Nelson Vera](https://facingenieria.udistrital.edu.co/maestria-ciencias-informacion/index.php/docentes/nelson-enrique-vera-parra)<br>
 
 ### Activities 
-Meeting with NCSA Team 
-Meeting with IQM
-Meeting with Xanadu 
-Meeting with Amazon Braket
+Meeting with NCSA Team <br>
+Meeting with IQM <br>
+Meeting with Xanadu <br>
+Meeting with Amazon Braket<br>
+
 
 
 Become part of the alliance. Contact us today at [quantum@cybercolombia.org](mailto:quantum@cybercolombia.org)
