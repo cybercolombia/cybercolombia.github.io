@@ -171,7 +171,7 @@ co_committee:
 | **Universidad del Valle** (Cali)| [Apply](https://forms.cloud.microsoft/r/hVX7GUCHqV) | john.sanabria@correounivalle.edu.co |
 | **Universidad del Norte** (Barranquilla)| [Apply](https://forms.cloud.microsoft/pages/responsepage.aspx?id=ebawul-96E-1Fsa4sxfHgqmfnvIw289Jo4TCTV_j-ExUNlhHV0lWSVFJNFYzREpESzZOU0FETjE2Ui4u&origin=lprLink&route=shorturl) |ccpinilla@uninorte.edu.co|
 | **Universidad de EIA** (Medellín)| on-site | duvan.gomez36@eia.edu.co |
-| **Universidad de los Andes** (Bogotá)| [Apply](https://forms.cloud.microsoft/r/1L784pHn2e?origin=lprLink) | aa.vivas@uniandes.edu.co |
+| **Universidad de los Andes** (Bogotá)| Closed | aa.vivas@uniandes.edu.co |
 | **Universidad Pedagógica y Tecnológica de Colombia** (Boyacá)| on-site | miguel.mendoza@uptc.edu.co  |
 
 ### Important dates
