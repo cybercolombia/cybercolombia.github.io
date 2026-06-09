@@ -74,18 +74,6 @@ co_committee:
     excerpt: |
         **Dr. Edison Valencia**
         *Universidad Eafit*
-  - image_path: /assets/images/committee/2023/elvis_gaona.jpg
-    excerpt: |
-        **Dr. Elvis Gaona**
-        *Universidad Distrital*
-  - image_path: /assets/images/committee/richar_chia.png
-    excerpt: |
-        **Ing. Richar Chía**
-        *Universidad Distrital*
-  - image_path: /assets/images/committee/octavio_salcedo.png
-    excerpt: |
-        **Dr. Octavio Salcedo**
-        *Universidad Distrital*
   - image_path: /assets/images/committee/erick_orozco.png
     excerpt: |
         **Dr. Erick Orozco**
@@ -166,7 +154,6 @@ co_committee:
 | **Universidad de Cartagena** (Cartagena)| on-site | pringsistemas@unicartagena.edu.co |
 | **Universidad Nacional de Colombia** (Bogotá) | [Apply](https://ciencias.bogota.unal.edu.co/educacion_continua/cursos_diplomados_eventos/hpc_summer_school/) | wfoquendop@unal.edu.co |
 | **Universidad EAFIT** (Medellín)| Closed | akcastror@eafit.edu.co |
-| **Universidad Distrital Francisco José de Caldas** (Bogotá) | on-site | doctoradoing@udistrital.edu.co |
 | **Universidad Simón Bolivar** (Barranquilla)| on-site | erick.orozco@unisimon.edu.co |
 | **Universidad del Valle** (Cali)| [Apply](https://forms.cloud.microsoft/r/hVX7GUCHqV) | john.sanabria@correounivalle.edu.co |
 | **Universidad del Norte** (Barranquilla)| [Apply](https://forms.cloud.microsoft/pages/responsepage.aspx?id=ebawul-96E-1Fsa4sxfHgqmfnvIw289Jo4TCTV_j-ExUNlhHV0lWSVFJNFYzREpESzZOU0FETjE2Ui4u&origin=lprLink&route=shorturl) |ccpinilla@uninorte.edu.co|
