@@ -6,9 +6,9 @@ excerpt: |
 header:
   overlay_image: /assets/images/ss/ss_2025_banner_plain.png
   overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
-  actions:
-    - label: "Apply for a Scholarship"
-      url: "https://forms.gle/xafYsk3Sdpg64AATA"
+  # actions:
+  #  - label: "Apply for a Scholarship"
+  #    url: "https://forms.gle/xafYsk3Sdpg64AATA"
 sidebar:
   - nav: sidebar-summers
 
