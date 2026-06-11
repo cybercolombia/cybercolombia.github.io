@@ -33,12 +33,16 @@ sidebar:
 [Nicolas Avilan](https://research-hub.urosario.edu.co/display/nicolas-guillermo-avilan-vargas)<br>
 [Nelson Vera](https://facingenieria.udistrital.edu.co/maestria-ciencias-informacion/index.php/docentes/nelson-enrique-vera-parra)<br>
 
-### Activities 
+### Meeting with Quantum Providers 
 Meeting with NCSA Team <br>
 Meeting with IQM <br>
 Meeting with Xanadu <br>
 Meeting with Amazon Braket<br>
 
+### Colombia Activities 
+
+Quantum Day<br>
+Quantum Latino<br>
 
 
 Become part of the alliance. Contact us today at [quantum@cybercolombia.org](mailto:quantum@cybercolombia.org)

@@ -90,11 +90,13 @@ sidebar-events:
         url: /events/urbanecho_2026/
 
 sidebar-quantum:
-  - title: "Colombian Quantum Alliance"
+  - title: "Quantum Alliance"
     children:
       - title: "Introduction"
         url: /quantum/
-      - title: "Quantum activities"
+      - title: "Members"
+        url: /quantum/quantum_members/
+      - title: "Ongoing work"
         url: /quantum/quantum_activities/
       - title: "Quantum Day 2026"
         url: /events/quantum_day_2026/
