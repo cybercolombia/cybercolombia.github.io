@@ -62,6 +62,16 @@ active_members:
       He has more than twenty years of university teaching experience, particularly in Newtonian mechanics, electromagnetism, modeling, and computational simulation. Over the last decade, he has taught graduate-level courses and training activities in computational materials science and HPC-related topics, while also contributing to the organization of academic events and advanced summer schools. He currently serves as Associate Professor in the Departamento de Física y Geociencias at Universidad del Norte, where he combines teaching, research, and student supervision as part of a coherent academic vocation grounded in the close relationship between research and education.
       [LinkedIn](https://www.linkedin.com/in/camilo-espejo-357ab8143/)
 
+ - image_path: "/assets/images/quantum/members/NicolasAvilan.jpg"
+    title: "Dr. Nicolas Avilan"
+    excerpt: |
+      Nicolás Avilán Vargas holds a Ph.D. in Physics and is a Professor at the School of Sciences and Engineering of Universidad del Rosario, Bogotá, Colombia, where he serves as Director of the Applied Mathematics and Computer Science undergraduate program. He is a researcher whose work lies at the intersection of Applied Mathematics, Artificial Intelligence, and Quantum Computing. His research focuses on computational geometry, machine learning, quantum information science, and the mathematical foundations of intelligent systems.
+      He is actively involved in interdisciplinary research and educational initiatives that integrate mathematics, computing, and emerging quantum technologies. Through research, teaching, and international collaborations, he contributes to the advancement of quantum education and the development of new generations of researchers in this field. His work promotes the integration of mathematical rigor, computational thinking, and innovative technologies to address contemporary scientific and technological challenges.
+      [LinkedIn](https://www.linkedin.com/in/nicoavilanv/)
+
+
+
+
 ---
 
 <style>
@@ -83,8 +93,6 @@ active_members:
 
 --
 [Juan Guillermo Ladinde](https://www.eafit.edu.co/nuestros-profesores/juan-guillermo-lalinde-pulido)<br>
---
-[Nicolas Avilan](https://research-hub.urosario.edu.co/display/nicolas-guillermo-avilan-vargas)<br>
 
 
 Become part of the alliance. Contact us today at [quantum@cybercolombia.org](mailto:quantum@cybercolombia.org)
