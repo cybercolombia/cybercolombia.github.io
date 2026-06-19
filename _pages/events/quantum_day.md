@@ -58,7 +58,7 @@ An overview of the current quantum ecosystem with a focus on Amazon Braket and t
 
  
 ### Instructor
-Mateo Laguna G. is a Solutions Architect at Amazon Web Services for the Public Sector in Latin America. He is part of AWS’s quantum computing enthusiast team. As both a physicist and an engineer, his primary interest lies in quantum computing, where his two professions converge.
+**Mateo Laguna G**. is a Solutions Architect at Amazon Web Services for the Public Sector in Latin America. He is part of AWS’s quantum computing enthusiast team. As both a physicist and an engineer, his primary interest lies in quantum computing, where his two professions converge.
 [LinkedIn](https://www.linkedin.com/in/mateo-laguna-guantiva-67803517b/)
 
 
