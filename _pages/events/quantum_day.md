@@ -69,20 +69,22 @@ Mateo Laguna G. is a Solutions Architect at Amazon Web Services for the Public S
 A practical introduction to quantum programming using Team Xanadu’s PennyLane library and hybrid quantum-classical workflows. Attendees will learn how to write, optimize, and execute quantum circuits with real platform integration.
 </p>
 
-| Time | Topic |  |
-| :---: | :---: | :---: |
-| 1:30 PM - 2:00 PM | Introduction to Xanadu | Overview of Xanadu’s technology and ecosystem |
-| 2:00 PM - 2:30 PM | Introduction to PennyLane | Foundations of the PennyLane library and programming model |
-| 2:30 PM - 3:00 PM | PennyLane “Hello World” (practical session) | Build and execute a basic variational circuit |
+| Time | Session | Description |
+|------|---------|-------------|
+| 1:30 PM - 2:00 PM | Introduction to Xanadu | Overview of Xanadu’s technology and work |
+| 2:00 PM - 2:30 PM | Introduction to PennyLane | Foundations of the PennyLane ecosystem |
+| 2:30 PM - 3:00 PM | PennyLane “Hello World” (practical session) | PennyLane circuits, templates, and built-in resource tracking tools |
 | 3:00 PM - 3:30 PM | Break | Informal networking and rest |
-| 3:30 PM - 4:10 PM | High-Performance Quantum Programming | Theory and practice of efficient quantum-classical workflows |
-| 4:10 PM - 4:40 PM | Frontiers of Research | Emerging trends in quantum software and hybrid algorithms |
-| 4:40 PM - 5:00 PM | Conclusion and next steps | Key takeaways and further learning pathways |
+| 3:30 PM - 4:10 PM | High-Performance Quantum Programming | Theory and practice |
+| 4:10 PM - 4:40 PM | Frontiers of Research | Emerging trends in quantum computing |
+| 4:40 PM - 5:00 PM | Conclusion and Next Steps | Key takeaways and further learning pathways |
 
  
-### Instructor
+### Instructors
 
-Catalina Albornoz Anzola holds dual degrees in Mechanical and Electronic Engineering from Universidad de Los Andes. She also holds two Master’s degrees: one in Control Engineering and Information Technologies, and another in Control and Industrial Informatics from French institutions. In addition, she earned a Master’s degree in Electronic and Computer Engineering from Universidad de Los Andes [LinkedIn](https://www.linkedin.com/in/catalinaalbornoz/).
+CCatalina Albornoz is Senior Research Engagement Manager at Xanadu. She works closely with researchers from around the world, helping them leverage PennyLane to achieve breakthroughs and ensuring it remains the premier software tool for quantum computing. She often gives talks and workshops, and she has led the efforts for using PennyLane in education, as well as organizing events such as QHack and the Quantum Software 2.x workshops. Before joining Xanadu, Catalina worked at IBM, where she was an IBM Quantum Ambassador. She earned her MSc in Electronics from Los Andes University and an Engineering Diploma from IMT Atlantique in France, specializing in autonomous systems and control systems. [LinkedIn](https://www.linkedin.com/in/catalinaalbornoz/)
+
+Daniel is a Research Engagement Lead at Xanadu, where he leads academic engagements, hardware commercialization initiatives, and manages academic and hardware partnerships and collaborations. He holds a MSc. in Physics from the University of Toronto, with a research focus on ultracold atomic physics. He also holds a PhD from the University of Toronto specializing in single-molecule biophysics.  After a brief postdoc, Daniel taught physics and engineering in various departments at the University of Toronto before joining Xanadu in 2023. [LinkedIn](https://www.linkedin.com/in/daniel-felipe-nino/)
 
 
 ## Official Language
