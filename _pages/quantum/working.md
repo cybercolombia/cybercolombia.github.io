@@ -28,6 +28,8 @@ Meeting with NCSA Team <br>
 Meeting with IQM <br>
 Meeting with Xanadu <br>
 Meeting with Amazon Braket<br>
+Meeting with Nvidia<br>
+
 
 ### Colombia Activities 
 
