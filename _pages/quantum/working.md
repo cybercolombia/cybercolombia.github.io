@@ -31,8 +31,10 @@ Meeting with Amazon Braket<br>
 
 ### Colombia Activities 
 
-[Quantum Day](https://www.cybercolombia.org/events/quantum_day_2026/) June 19, 2026<br>
-[Quantum Latino](https://www.quantum-latino.com/) This year in Medellin, Colombia<br>
+- [Quantum Day](https://www.cybercolombia.org/events/quantum_day_2026/) June 19, 2026<br>
+- [XLVII Ibero-Latin American Congress on Computational Methods in Engineering](https://cilamce.com.br/) is being organized by Universidad del Rosario. Within the framework of this congress, a Quantum Computing symposium is being held for the first time. The name of the mini-symposium is: Methods in Quantum Computation and Quantum Information Processing.
+
+- [Quantum Latino](https://www.quantum-latino.com/) This year in Medellin, Colombia<br>
 
 
 Become part of the alliance. Contact us today at [quantum@cybercolombia.org](mailto:quantum@cybercolombia.org)

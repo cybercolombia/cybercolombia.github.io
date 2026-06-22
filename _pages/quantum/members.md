@@ -69,6 +69,21 @@ active_members:
       He is actively involved in interdisciplinary research and educational initiatives that integrate mathematics, computing, and emerging quantum technologies. Through research, teaching, and international collaborations, he contributes to the advancement of quantum education and the development of new generations of researchers in this field. His work promotes the integration of mathematical rigor, computational thinking, and innovative technologies to address contemporary scientific and technological challenges.
       [LinkedIn](https://www.linkedin.com/in/nicoavilanv/)
 
+  - image_path: "/assets/images/quantum/members/JuanLadinde.png"
+    title: "Dr. Nicolas Avilan"
+    excerpt: |
+      Juan Guillermo Lalinde Pulido holds a degree in Computer Science from Universidad EAFIT, a degree in Mathematics from Universidad Nacional de Colombia, and a PhD in Telecommunications from the Polytechnic University of Valencia, Spain. He is a Research Professor at Universidad EAFIT in the area of Fundamental Sciences, with more than 30 years of experience.
+
+      He served as Head of the Department of Computer Science and Director of the Computer Science program. He was also Coordinator of the Master’s Program in Informatics Engineering and a member of the Doctoral Committee in Engineering. He has been a Visiting Researcher at the Institute for Human and Machine Cognition (IHMC) in Pensacola, Florida, United States, and at Purdue University in Indiana, United States.
+
+      He served as advisor to Colciencias’ Electronics, Telecommunications, and Informatics (ETI) program. He participated as a researcher at the Center of Excellence and Appropriation in Big Data and Analytics — CAOBA — and was Coordinator of the Master’s Program in Data Science and Analytics from 2019 to 2022. He was the founder and scientific director of Universidad EAFIT’s APOLO Scientific Computing Center from 2011 to 2025.
+
+      With more than 20 years of experience in the field of information security, he has taught courses in computer security, information security, network security, and cyberwar. He has conducted research on multiple topics, including WiMAX technology security, applied cryptography, quantum cryptography, and intrusion detection systems. He has also worked as a consultant supporting the Colombian Ministry of National Education on information security matters and in the creation of the CSIRT for the education sector.
+
+      He is a professor of the courses Quantum Computing I and Quantum Machine Learning. He was a member of the organizing committee of Latincrypt 2025, creator of the flexible track in Blockchain for the engineering programs at Universidad EAFIT, professor of the track’s courses Fundamentals of Blockchain and Smart Contracts, and instructor of blockchain fundamentals in different continuing education courses offered by Universidad EAFIT.
+
+      In addition, he holds the following certifications: Enterprise Design Thinking Practitioner, IBM Quantum Practitioner - Instructor, IBM Cybersecurity Practitioner - Instructor Certificate, and Qiskit Global Summer School 2023 - Quantum Excellence.
+
 ---
 
 <style>
