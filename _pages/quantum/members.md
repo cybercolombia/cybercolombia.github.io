@@ -104,7 +104,6 @@ active_members:
 {% include feature_row type="left" id="active_members" %}
 
 --
-[Juan Guillermo Ladinde](https://www.eafit.edu.co/nuestros-profesores/juan-guillermo-lalinde-pulido)<br>
 
 
 Become part of the alliance. Contact us today at [quantum@cybercolombia.org](mailto:quantum@cybercolombia.org)
