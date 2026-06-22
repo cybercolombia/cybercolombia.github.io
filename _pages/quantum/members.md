@@ -70,7 +70,7 @@ active_members:
       [LinkedIn](https://www.linkedin.com/in/nicoavilanv/)
 
   - image_path: "/assets/images/quantum/members/JuanLadinde.png"
-    title: "Dr. Nicolas Avilan"
+    title: "Dr. Juan Guillermo Lalinde"
     excerpt: |
       Juan Guillermo Lalinde Pulido holds a degree in Computer Science from Universidad EAFIT, a degree in Mathematics from Universidad Nacional de Colombia, and a PhD in Telecommunications from the Polytechnic University of Valencia, Spain. He is a Research Professor at Universidad EAFIT in the area of Fundamental Sciences, with more than 30 years of experience.
 
