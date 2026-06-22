@@ -26,7 +26,7 @@ active_members:
       Engineer Jhon Dario Medina is a Systems Engineer with 42 years of professional experience most of them working for EPM -  Empresas Públicas de Medellín - (“The best company of the Colombia Country during the XX Century”, Portafolio award), from where he retired in October 2024.
       During his last years with EPM, Engineer Medina worked in the IT Strategy and Architecture area, helping to implement de major enterprise packages such as CRM and in the adoption of Microsoft Azure cloud computing, being the principal architect of the “Azure Integration Services” platform, wich has specialized cloud tools for integration and interoperability between systems.
       At EPM, he was the first leader of the quantum computing research group until the time of his retirement and has continued in this field of research.
-      Currently, he teaches an introductory course on quantum computing aimed at large companies, and the first of his clients in this course was WPM itself.
+      Currently, he teaches an introductory course on quantum computing aimed at large companies, and the first of his clients in this course was EPM itself.
       One of the research fields is dedicated to Microsoft’s strategy in Quantum Computing and its quantum software platforms, such as Microsoft Quantum Development Kit -MKDK.
 
       He has also been a university professor and an entrepreneur in the field of software package development, mainly for the garment sector.
