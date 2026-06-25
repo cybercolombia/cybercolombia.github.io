@@ -3,7 +3,10 @@ permalink: /research/
 title: "HPC Research"
 # layout: splash
 excerpt: |
-    The research services in HPC and analytics at scale bring together a team of accomplished experts specializing in fluid dynamics, weather forecasting, physics, and big data processing. With a deep understanding of high-performance computing and advanced analytics techniques, tailored consulting solutions are provided across diverse domains. By harnessing the power of HPC, researchers are empowered to unlock transformative insights from large datasets, optimize fluid dynamics simulations, and drive innovative breakthroughs in their fields of study. Collaboration with this experienced team propels research endeavors forward, enabling unprecedented advancements in HPC and analytics at scale.  
+    Cybercolombia researches high-performance computing, AI infrastructure, and quantum science across Colombia and the region.
+    We document local university and research center efforts, map active research groups, and assess current capabilities.
+    Our work highlights practical HPC applications, scalable AI systems, and emerging quantum computing initiatives.
+    This page offers a concise view of regional computational science activity and strategic research progress.
 header:
   overlay_image: /assets/images/research.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background

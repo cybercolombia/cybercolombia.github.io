@@ -8,6 +8,9 @@ main:
     url: /summer_school/
   - title: "About"
     url: /mission/
+  - title: "Research"
+    url: /research/
+  - title: "About"
   - title: "News"
     url: /linkedin/
   - title: "Team"
