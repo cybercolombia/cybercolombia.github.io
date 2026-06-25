@@ -37,7 +37,7 @@ sidebar:
 
 <p style="text-align: justify; text-justify: inter-word;">Our research in analytics at scale focuses on data-intensive applications that leverage advanced technologies such as Dask, Apache Arrow, and Zarr for scientific simulation models. Collaborating closely with international research networks and US national labs, we explore the capabilities of these cutting-edge tools to handle large-scale datasets efficiently. By harnessing the power of distributed computing and optimizing data formats, we enable organizations to perform complex data analysis tasks with unprecedented speed and scalability, unlocking transformative insights and accelerating scientific discoveries.</p>
 
-# Reports the use of HPC/IA/Quantum In Colombia and Region
+# Tech Reports 
 
 <p style="text-align: justify; text-justify: inter-word;">Our research initiatives focus on documenting and advancing the current landscape of high-performance computing, artificial intelligence infrastructure, and quantum information science in Colombia and the region. We investigate the state-of-the-art efforts undertaken by local universities, research centers, and national laboratories, mapping the communities and research groups actively engaged in HPC applications, AI infrastructure development, and quantum computing research. By synthesizing real-world information about computational capabilities, identifying research gaps, and fostering collaboration among academic and industrial stakeholders, we aim to establish a comprehensive understanding of regional computational science activities and catalyze strategic initiatives that strengthen Colombia's position in advanced computing research.</p>
 
