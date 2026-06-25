@@ -8,8 +8,8 @@ excerpt: |
     Our work highlights practical HPC applications, scalable AI systems, and emerging quantum computing initiatives.
     This page offers a concise view of regional computational science activity and strategic research progress.
 header:
-  overlay_image: /assets/images/research.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_image: /assets/images/research_background2.png
+  overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
 
 sidebar:
   - nav: sidebar-services
