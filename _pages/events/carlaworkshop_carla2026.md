@@ -20,6 +20,10 @@ organizing_committee:
   - image_path: "/assets/images/speakers/2025/MichaelDuda.jpg"
     excerpt: |
         **Msc. Michael Duda, NCAR**
+  - image_path: "/assets/images/carla2026/EfrainRodriguez.jpeg"
+    excerpt: |
+        **PhD. Efrain Rodriguez, Ecopetrol**
+        
  
 
 
