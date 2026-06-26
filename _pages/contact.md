@@ -10,14 +10,14 @@ members:
         **esteban.hernandez@cybercolombia.org**,
         **ejhernandezb@udistrital.edu.co**
         
-        Working on Distributed System, Weather Forecasting, Computational Molecular Dynamics and HPC on Cloud.
+        Working on Distributed System, Weather Forecasting, Computational Molecular Dynamics and Quantum Computing .
   
   - image_path: /assets/images/members/carlos_alvarez.jpg
     alt: "Dr. Carlos Álvarez"
     title: "Dr. Carlos Álvarez"
     excerpt: |
         **carlos.alvarez@cybercolombia.org**,
-        **carlosedu.alvarez@urosario.edu.co**
+        **carlose.alvarez@tec.mx**
 
         Working with  several parallel computing frameworks like OpenMP, MPI and Cuda. 
  
@@ -31,8 +31,8 @@ members:
         Working on validation and verification of OpenMP target offloading, as well as with OpenACC programming targetting CPU and heterogeneous systems based on GPGPUs.
   
   - image_path: /assets/images/members/aurelio_vivas.png
-    alt: "PhD(c) Aurelio Vivas"
-    title: "PhD(c) Aurelio Vivas"
+    alt: "PhD Aurelio Vivas"
+    title: "PhD Aurelio Vivas"
     excerpt: |
         **aurelio.vivas@cybercolombia.org**,
         **aa.vivas@uniandes.edu.co**
