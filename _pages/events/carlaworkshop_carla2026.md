@@ -48,10 +48,21 @@ As we move away from total reliance on specific governmental  institutions, we w
 * **The AI Revolution as an Equalizer**: AI-driven models (e.g., GraphCast, FourCastNet, and the Aardvark system) are significantly less computationally expensive than traditional HPC-run numerical models. We will showcase how LAC institutions can run high-precision, hyper-local forecasts "in-house" without needing massive supercomputing clusters.
 
 * **Showcasing Regional Leadership**: The workshop will shine a spotlight on active regional efforts, such as INPE and Brazilian Community and the SMN (Argentina), which are already analyzing how  AI outperforms traditional global models in specific LAC topographies.
-
-
-
 ----
+
+### Full-Day Agenda (Draft)
+
+- 8:30-9:00 AM — Registration and Welcome
+- 9:00-9:50 AM — Talk: Saulo Freitas
+- 9:50-10:10 AM — Morning Break
+- 10:10-11:00 AM — Talk: Michael Duda
+- 11:00-11:50 AM — Talk: Efrain Rodriguez
+- 11:50 AM-1:20 PM — Lunch Break (1.5 hours)
+- 1:20-2:20 PM — Technical Session and Discussion
+- 2:20-3:20 PM — Networking and Q&A
+- 3:20-3:35 PM — Afternoon Break
+- 3:35-4:30 PM — Open Discussion and Collaboration
+- 4:30-5:00 PM — Closing Remarks
 
 ### Workshop Keynote Talks
 
@@ -126,4 +137,3 @@ Important Note: In order to attend the workshop, you must register for the CARLA
 ## Stay connected
 
 If you would like to stay connected with this community, feel free to contact us at [workshops@cybercolombia.org](mailto:workshops@cybercolombia.org)
-
