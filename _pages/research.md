@@ -41,6 +41,6 @@ sidebar:
 
 <p style="text-align: justify; text-justify: inter-word;">Our research initiatives focus on documenting and advancing the current landscape of high-performance computing, artificial intelligence infrastructure, and quantum information science in Colombia and the region. We investigate the state-of-the-art efforts undertaken by local universities, research centers, and national laboratories, mapping the communities and research groups actively engaged in HPC applications, AI infrastructure development, and quantum computing research. By synthesizing real-world information about computational capabilities, identifying research gaps, and fostering collaboration among academic and industrial stakeholders, we aim to establish a comprehensive understanding of regional computational science activities and catalyze strategic initiatives that strengthen Colombia's position in advanced computing research.</p>
 
-[Status of HPC Colombia 2026](/assets/docs/Status_of_HPC_in_Colombia_2026.pdf)
+[Status of HPC Colombia 2026](/assets/docs/Status_of_HPC_in_Colombia_2026.pdf)<br>
 [Survey Responses](/assets/datasets/Estado_del_HPC_Colombia_Responses.csv)
 
