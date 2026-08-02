@@ -2,7 +2,7 @@
 permalink: /summer_school_9/
 title: "9th Colombian HPC Summer School"
 excerpt: |
-  High-Performance Computing, IA/ML, Quantum Computing 
+  High-Performance Computing, AI/ML, and Quantum Computing
 header:
   overlay_image: /assets/images/ss/ss_2025_banner_plain.png
   overlay_filter: 0.0 # same as adding an opacity of 0.5 to a black background
@@ -41,7 +41,7 @@ organizing_committee:
   - image_path: "/assets/images/committee/2024/DiegoAndresRodaPerdomo.jpg"
     excerpt: |
         **Diego Roa, PhD(c)**
-  - image_path: "assets/images/committee/2024/RafalAndresHerrera.jpg"
+  - image_path: "/assets/images/committee/2024/RafalAndresHerrera.jpg"
     excerpt: |
         **Rafael Herrera, PhD(c)**
 
@@ -117,8 +117,10 @@ co_committee:
 
 
 ---
-### Introduction
-<p style="text-align: justify; text-justify: inter-word;">Join us for the <strong>ninth edition</strong> of the <strong>CyberColombia International School</strong> series. This year, the program focuses on <strong>state-of-the-art topics</strong> in <strong>High-Performance Computing, AI/ML, and Quantum Computing</strong>. The event is designed to provide students, researchers, and professionals from both the private and public sectors with <strong>in-depth technical talks and hands-on training</strong>. Participants will gain valuable insights and practical skills in the use of <strong>high-performance computing (HPC) technologies</strong>.</p>
+<span class="cc-status cc-status--archive">Completed · June 16–18, 2026</span>
+
+## Introduction
+The **ninth edition** of the **CyberColombia International School** focused on **High-Performance Computing, AI/ML, and Quantum Computing**. The program combined technical talks with hands-on training for students, researchers, and professionals from the public and private sectors.
 <p></p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -131,7 +133,7 @@ co_committee:
   </iframe>
 </div>
 
-### Learning Objectives
+## Learning Objectives
 
 - Develop an understanding of the fundamentals of parallel computing, including computer architecture, race conditions, threads and processes, as well as performance metrics.
 - Gain familiarity with the basic principles of programming in C/C++, covering syntax, compilation, and tools such as Make and CMake.
@@ -140,7 +142,7 @@ co_committee:
 - Explore modern tools such as Dask for high-level parallel programming oriented toward large-scale data analysis.
 - Gain insight into the applications and use cases of High-Performance Computing, AI/ML, and Quantum Computing.
 
-### Host Universities
+## Host Universities
 
 <p> The event will be held in-person in the different reception sites: </p>
 
@@ -161,7 +163,7 @@ co_committee:
 | **Universidad de los Andes** (Bogotá)| Closed | aa.vivas@uniandes.edu.co |
 | **Universidad Pedagógica y Tecnológica de Colombia** (Boyacá)| on-site | miguel.mendoza@uptc.edu.co  |
 
-### Important dates
+## Important dates
 
 |**Event** |June 16 - 18, 2026 (GMT-5)    |
 | Registration (Host Sites) opens | March 09, 2026|
@@ -171,28 +173,28 @@ co_committee:
 | Scholarship (Students) opens | May 26, 2026 |
 | Scholarship (Students) closes | June 07, 2026 |
 
-### Format
+## Format
 In-Person
 
 <!-- <p style="font-size: 18px">The content tagged with * is subject to changes.</p> -->
 
-### Programme
+## Programme
 <p></p>
 
 <iframe  frameborder="0" scrolling="no" style="border:none; overflow:hidden;" height="800" width="100%" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTSl6GbMAiF3lQK9Z7WTnot3G4izeRdDrq4RTlbWt9ir_Ri53C5ohIeIXUmIXjFSCvkdtKUnZxoQLbY/pubhtml?gid=345604675&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
-### Organizing Committee
+## Organizing Committee
 <p></p>
 
 {% include feature_row id="organizing_committee" %}
 
-### Co-organizers
+## Co-organizers
 <p></p>
 
 {% include feature_row id="co_committee" %}
 
-### Partners
+## Partners
 <p></p>
 <center>
-<img width="100%" src="/assets/images/institutions/2026/partners.png"> 
+<img width="100%" src="/assets/images/institutions/2026/partners.png" alt="Partner institutions of the 2026 Colombian HPC Summer School">
 </center>

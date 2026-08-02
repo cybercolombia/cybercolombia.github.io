@@ -123,7 +123,7 @@ toc_sticky: true          # enables sticky toc
 # classes: wide
 ---
 
-<img src="/assets/images/institutions/andes_rosario.PNG" alt="Institutions" height="600" style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
+<img src="/assets/images/institutions/2020/andes_rosario.PNG" alt="Partner universities" height="600" style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
 
 ### Introduction
 <p></p>
@@ -164,7 +164,7 @@ toc_sticky: true          # enables sticky toc
 ### Collaborators
 <p></p>
 <center>
-<img width="100%" src="/assets/images/institutions/ss_2022C.PNG"> 
+<img width="100%" src="/assets/images/institutions/2022/ss_2022C.PNG" alt="Partner institutions of the 2022 HPC Summer School">
 </center>
 
 ### Organizing Committee

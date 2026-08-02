@@ -73,7 +73,7 @@ The summer school will take place in Bogotá, from June 10 to 14, 2019.
 
 ### Programme
 <br>
-<img width="100%" src="/assets/images/ss/ss_2019_programme.png">
+<img width="100%" src="/assets/images/ss/ss_2019_programme.png" alt="Program of the 2019 HPC Summer School">
 
 ### Speakers
 
@@ -87,7 +87,7 @@ The summer school will take place in Bogotá, from June 10 to 14, 2019.
 
 ### Sponsor & Co-organizer
 <br>
-<img width="100%" src="/assets/images/institutions/2019.png">
+<img width="100%" src="/assets/images/institutions/2019/2019.png" alt="Partner institutions of the 2019 HPC Summer School">
 
 ### Organizing Committee
 <br>

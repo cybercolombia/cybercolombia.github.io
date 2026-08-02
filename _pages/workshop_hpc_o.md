@@ -67,7 +67,7 @@ The summer school will take place in Bogotá, from September 19 and 20, 2017.
 
 ### Programme
 <br>
-<img width="100%" src="/assets/images/ss/ss_2017_programme.png">
+<img width="100%" src="/assets/images/ss/ss_2017_programme.png" alt="Program of the 2017 foundational HPC workshop">
 
 ### Speakers
 
@@ -77,10 +77,10 @@ The summer school will take place in Bogotá, from September 19 and 20, 2017.
 
 ### Sponsor & Co-organizer
 <br>
-<img width="50%" src="/assets/images/institutions/nvidia.png">
-<img width="50%" src="/assets/images/institutions/ibm.png">
-<img width="50%" src="/assets/images/institutions/mathworks.jpeg">
-<img width="50%" src="/assets/images/institutions/udistrital.png">
+<img width="50%" src="/assets/images/institutions/nvidia.png" alt="NVIDIA">
+<img width="50%" src="/assets/images/institutions/ibm.png" alt="IBM">
+<img width="50%" src="/assets/images/institutions/mathworks.jpeg" alt="MathWorks">
+<img width="50%" src="/assets/images/institutions/udistrital.png" alt="Universidad Distrital Francisco José de Caldas">
 
 
 ### Organizing Committee

@@ -28,7 +28,7 @@ Quantum Day 2026 brings together Team Xanadu and Amazon Braket for an introducto
 
 ## Date/Time
 <p style="text-align: justify; text-justify: inter-word;">
-June 19, 2025. <br/>
+June 19, 2026. <br/>
 8:30 AM (COT) - 5:00 PM (COT)
 </p>
 
@@ -96,4 +96,3 @@ A practical introduction to quantum programming using Team Xanadu’s PennyLane 
 * Create a free account at [pennylane.ai](https://pennylane.ai/). This account is required to download the session notebooks.
 * Possess basic knowledge of Python.
 * **CyberColombia** will be responsible for distributing the link to the participating host universities.
-

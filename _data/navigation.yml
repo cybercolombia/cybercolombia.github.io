@@ -1,52 +1,44 @@
 main:
-  
-  - title: "Events"
-    url: /events/workshops/
-  - title: "Quantum"
-    url: /quantum/
-  - title: "Summer"
+  - title: "Summer School"
     url: /summer_school/
-  - title: "About"
-    url: /mission/
+  - title: "Events"
+    url: /events/
   - title: "Research"
     url: /research/
+  - title: "Quantum"
+    url: /quantum/
   - title: "About"
-  - title: "News"
-    url: /linkedin/
+    url: /mission/
   - title: "Team"
     url: /team/
-  - title: "Blog"
-    url: /blog/
   - title: "Contact"
     url: /contact/
-  - title: "Branding & Logos"
-    url: /about/
  
 
 sidebar-summers:
-  - title: Summers
+  - title: "HPC Summer School"
     children:
-      - title: "Introduction"
+      - title: "Overview and impact"
         url: /summer_school/
-      - title: "9th Summer School (2026)"
+      - title: "9th edition — 2026"
         url: /summer_school_9/
-      - title: "8th Summer School (2025)"
+      - title: "8th edition — 2025"
         url: /summer_school_8/
-      - title: "7th Summer School (2024)"
+      - title: "7th edition — 2024"
         url: /summer_school_7/
-      - title: "6th Summer School (2023)"
+      - title: "6th edition — 2023"
         url: /summer_school_6/
-      - title: "5th Summer School (2022)"
+      - title: "5th edition — 2022"
         url: /summer_school_5/
-      - title: "4th Summer School (2021)"
+      - title: "4th edition — 2021"
         url: /summer_school_4/
-      - title: "3rd Summer School (2020)"
+      - title: "3rd edition — 2020"
         url: /summer_school_3/
-      - title: "2nd Summer School (2019)"
+      - title: "2nd edition — 2019"
         url: /summer_school_2/
-      - title: "1st Summer School (2018)"
+      - title: "1st edition — 2018"
         url: /summer_school_1/
-      - title: "1 HPC Workshop (2017)"
+      - title: "Foundational workshop — 2017"
         url: /workshop_hpc_0/
 
 sidebar-services:
@@ -78,19 +70,30 @@ sidebar-social:
         url: https://www.youtube.com/@cybercolombia1056
       - title: "Twitter"
         url: https://twitter.com/hpccol
-      - title: "Instagram"
 
 sidebar-events:
   - title: "Events"
     children:
-      - title: "Introduction"
+      - title: "All events"
+        url: /events/
+      - title: "Workshop series"
         url: /events/workshops/
-      - title: "1st Weather Workshop (Jamaica 2025)"
-        url: /events/workshop_carla2025/
-      - title: "2do Weather Workshop (Argentina 2026)"
+      - title: "Weather workshop overview"
+        url: /workshop_weather/
+      - title: "Technical Talks"
+        url: /technical_talks/
+      - title: "Weather School 2026"
+        url: /events/weather_2026/
+      - title: "CARLA Weather Workshop 2026"
         url: /events/workshop_carla2026/
+      - title: "Quantum Day 2026"
+        url: /events/quantum_day_2026/
       - title: "Urban AI with UrbanEcho"
         url: /events/urbanecho_2026/
+      - title: "CARLA Weather Workshop 2025"
+        url: /events/workshop_carla2025/
+      - title: "AMD Day 2025"
+        url: /events/amd_day_2025/
 
 sidebar-quantum:
   - title: "Quantum Alliance"
@@ -103,7 +106,8 @@ sidebar-quantum:
         url: /quantum/quantum_activities/
       - title: "Quantum Day 2026"
         url: /events/quantum_day_2026/
+      - title: "Quantum computing course"
+        url: /quantum/course/
 
 
   
-

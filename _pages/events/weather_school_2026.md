@@ -11,8 +11,8 @@ sidebar:
   - nav: sidebar-events
 ---
 
-# Weather Forecasting School: Focus on MPAS and WRF
 <div class="alert alert-info" role="alert">
+  <strong>Status:</strong> Completed<br>
   <strong>Date:</strong> March 16 – 19, 2026 <br>
   <strong>Location:</strong> Bogotá, Colombia. Air Force NCO Club<br>
   <strong>Instructor:</strong> TBD
@@ -98,6 +98,6 @@ This event is made possible by the support of our partners committed to the adva
 ---
 
 ## Registration
-Registration will open soon. Please subscribe to our newsletter to be notified when spots become available.
+Registration for this edition is closed. To propose a future training collaboration, contact the organizing team.
 
 **Contact:** [info@cybercolombia.org](mailto:info@cybercolombia.org)

@@ -62,7 +62,7 @@ mentors:
     excerpt: |
         **Diego Roa, PhD(c)**
         *Argonne National Laboratory*
-  - image_path: "assets/images/committee/2024/RafalAndresHerrera.jpg"
+  - image_path: "/assets/images/committee/2024/RafalAndresHerrera.jpg"
     excerpt: |
         **Rafael Herrera, PhD(c)**
         *Pacific Northwest National Laboratory*
@@ -200,7 +200,7 @@ toc_sticky: true     # enables sticky toc
 ### Partners
 <p></p>
 <center>
-<img width="100%" src="/assets/images/institutions/2024/logos.png"> 
+<img width="100%" src="/assets/images/institutions/2024/logos.png" alt="Partner institutions of the 2024 HPC Summer School">
 </center>
 
 ### Speakers & Mentors

@@ -1,6 +1,6 @@
 ---
 permalink: /summer_school_1/
-title: "1th HPC Summer School"
+title: "1st HPC Summer School"
 excerpt: |
    "HPC, building bridges between science and industry with cutting edge technology."
   
@@ -109,7 +109,7 @@ The summer school will take place in Bogotá, from June 5th to 9th, 2018.
 
 ### Programme
 <br>
-<img width="100%" src="/assets/images/ss/ss_2018_programme.png">
+<img width="100%" src="/assets/images/ss/ss_2018_programme.png" alt="Program of the 2018 HPC Summer School">
 
 ### Speakers
 
@@ -123,7 +123,7 @@ The summer school will take place in Bogotá, from June 5th to 9th, 2018.
 
 ### Sponsor & Co-organizer
 <br>
-<img width="100%" src="/assets/images/institutions/2019.png">
+<img width="100%" src="/assets/images/institutions/2019/2019.png" alt="Partner institutions of the 2018 HPC Summer School">
 
 ### Organizing Committee
 <br>

@@ -139,8 +139,8 @@ Due to the current situation with covid-19, the summer school will be an online 
 
 ### Organizers
 
-<img width="100%" src="/assets/images/institutions/2021_org.png">
+<img width="100%" src="/assets/images/institutions/2021/2021_org.png" alt="Organizers of the 2021 HPC Summer School">
 
 ### Supported by
 
-<img width="100%" src="/assets/images/institutions/2021.png">
+<img width="100%" src="/assets/images/institutions/2021/2021.png" alt="Partner institutions of the 2021 HPC Summer School">

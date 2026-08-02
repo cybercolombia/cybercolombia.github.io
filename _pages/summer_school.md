@@ -1,35 +1,104 @@
 ---
 permalink: /summer_school/
-title: "Summer School Series"
-#layout: splash
+title: "Colombian HPC Summer School"
 excerpt: |
-    Summer School provides a unique opportunity to attend state-of-the-art training delivered by world-leading academics and industry partners from around the globe  
+  CyberColombia's flagship national training program in high-performance computing, AI, data-intensive science, and emerging technologies.
 header:
   overlay_image: /assets/images/ss/ss_banner.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-
+  overlay_filter: 0.62
+  actions:
+    - label: "View the 2026 edition"
+      url: "/summer_school_9/"
+    - label: "Explore all editions"
+      url: "/summer_school/#edition-archive"
 sidebar:
   - nav: sidebar-summers
+breadcrumbs: true
 ---
 
-<style>
-  .page {
-    width: calc(100% - 300px);
-    padding-right: 0px;
-  }
-</style>
+<section class="cc-section" aria-labelledby="school-purpose">
+  <p class="cc-eyebrow">CyberColombia's flagship initiative</p>
+  <h2 id="school-purpose">Advanced computing education, distributed across Colombia</h2>
+  <p class="cc-lead">
+    Since 2018, the Colombian HPC Summer School has connected students, researchers, instructors, and host institutions through practical training in parallel programming, scientific computing, artificial intelligence, and data-intensive workflows. Each edition combines a shared national program with in-person learning and local community building.
+  </p>
 
-# Scope
+  <div class="cc-grid cc-grid--four" aria-label="Summer School impact">
+    <div class="cc-stat"><strong>9</strong><span>editions completed</span></div>
+    <div class="cc-stat"><strong>12</strong><span>host sites in 2026</span></div>
+    <div class="cc-stat"><strong>8+</strong><span>years of continuity</span></div>
+    <div class="cc-stat"><strong>HPC + AI</strong><span>with quantum foundations</span></div>
+  </div>
+</section>
 
-<p style="text-align: justify; text-justify: inter-word;">The aim of the HPC Summer School is to introduce the cornerstone of programming tools and techniques used for efficient parallel applications with special emphasis to High Performance Computing for students and professionals, among the fields of engineering and science, with basic and intermediate programming skills. This will allow them to advance their careers by harnessing the computational power of HPC to tackle large scale problems in their respective fields. Following from the school initiative, the event intends to accomplish the creation of collaborative interdisciplinary groups and the education of the next generation of highly specialized programmers. Ultimately, procuring innovative and efficient algorithms to optimally process all kinds of workflows.</p>
+<section class="cc-section cc-section--tint" aria-labelledby="current-edition">
+  <p class="cc-eyebrow">Most recent edition</p>
+  <h2 id="current-edition">9th Colombian HPC Summer School · 2026</h2>
+  <div class="cc-grid">
+    <article class="cc-card">
+      <span class="cc-status cc-status--archive">Completed</span>
+      <h3>June 16–18, 2026</h3>
+      <p>The ninth edition focused on HPC fundamentals, C/C++, OpenMP, MPI, Dask, AI/ML, and quantum computing through a distributed network of in-person host sites.</p>
+      <a class="btn btn--primary" href="/summer_school_9/">Program and participating sites</a>
+    </article>
+    <article class="cc-card">
+      <h3>A national delivery model</h3>
+      <p>Universities host local cohorts while sharing instructors, materials, and a common program. This expands access without losing the benefits of in-person collaboration.</p>
+    </article>
+    <article class="cc-card">
+      <h3>Prepare the next edition</h3>
+      <p>Institutions can express interest in hosting, supporting scholarships, contributing infrastructure, or joining the instructor network.</p>
+      <a href="mailto:info@cybercolombia.org">Contact the organizing team →</a>
+    </article>
+  </div>
+</section>
 
- 
-# What You Should Know
+<section class="cc-section" aria-labelledby="learning-model">
+  <p class="cc-eyebrow">Learning model</p>
+  <h2 id="learning-model">Practical skills for real scientific workloads</h2>
+  <div class="cc-grid">
+    <article class="cc-card">
+      <h3>Foundations</h3>
+      <p>Computer architecture, Linux environments, programming tools, performance reasoning, reproducibility, and collaborative development.</p>
+    </article>
+    <article class="cc-card">
+      <h3>Parallel computing</h3>
+      <p>Shared and distributed memory programming with OpenMP and MPI, profiling, optimization, and scalable data analysis.</p>
+    </article>
+    <article class="cc-card">
+      <h3>Emerging practice</h3>
+      <p>AI/ML workflows, accelerators, scientific applications, cloud platforms, and introductory quantum computing.</p>
+    </article>
+  </div>
+</section>
 
-<p style="text-align: justify; text-justify: inter-word;">The full stack of the courses and hands-on sessions require familiarity with programming languages and its logic. More specifically, we are sitting on C a function paradigm programming framework whose development dates back 40 years and is extensively used for high performance calculations alongside Fortran. In the context of the present event, we expect the assistants to have knowledge of data types, pointers, vectors and experience with parallel computation schematics is desirable, though not required. In addition to basic programming knowledge, we will be profiling the developed algorithms to identify performance improvements and possible design bottlenecks. Although knowledge of profiling tools is preferred, you will be working on it during the week, which will give you the time to learn.</p>
+<section class="cc-section" id="edition-archive" aria-labelledby="archive-heading">
+  <p class="cc-eyebrow">Program archive</p>
+  <h2 id="archive-heading">Every Summer School edition</h2>
+  <p class="cc-lead">Programs, speakers, partners, photographs, and materials remain available as a public record of the community's growth.</p>
 
-<p style="text-align: justify; text-justify: inter-word;">On the matter of integrations, experience with Python is expected as we intend to provide an outlook to expanding Python’s versatility with high performing algorithms for solving big data and large scale problems efficiently. Also, we would like to highlight that this trait is enormously appreciated in today’s development groups for its versatility in the process of building and commercializing multi-purpose applications for both academic and industrial sectors.</p>
+  <div class="cc-archive">
+    <a href="/summer_school_9/"><strong>9th edition · 2026</strong><span>HPC, AI/ML, and quantum computing</span></a>
+    <a href="/summer_school_8/"><strong>8th edition · 2025</strong><span>Distributed national training</span></a>
+    <a href="/summer_school_7/"><strong>7th edition · 2024</strong><span>Artificial intelligence and HPC</span></a>
+    <a href="/summer_school_6/"><strong>6th edition · 2023</strong><span>Parallel computing and data-intensive science</span></a>
+    <a href="/summer_school_5/"><strong>5th edition · 2022</strong><span>Technical training and regional collaboration</span></a>
+    <a href="/summer_school_4/"><strong>4th edition · 2021</strong><span>Virtual international school</span></a>
+    <a href="/summer_school_3/"><strong>3rd edition · 2020</strong><span>Virtual HPC training</span></a>
+    <a href="/summer_school_2/"><strong>2nd edition · 2019</strong><span>Parallel programming foundations</span></a>
+    <a href="/summer_school_1/"><strong>1st edition · 2018</strong><span>The beginning of the Summer School series</span></a>
+    <a href="/workshop_hpc_0/"><strong>Foundational workshop · 2017</strong><span>The program that preceded the series</span></a>
+  </div>
+</section>
 
-# What You Will Learn
-
-<p style="text-align: justify; text-justify: inter-word;">Stemming from this school, you will be able to procure the parallelization of tasks, which is a matter relative to each problem. Although similar strategies may apply, recognizing the kinds of situations fit for a parallel approach is not only a skill that you will learn but it requires training, exercising and a keen eye that is only built from personal experience. You will also encounter that the number of problems still to be solved in this arena is enormous. Learning to profile your code also builds dexterity and ability to identify bottlenecks, bugs and improvements. Learning also different computing architectures, each with a specific design fingerprint, you will be able to tackle the same problem from different angles. Last, but not least, the ability to exploit computational power with a robust algorithm for a specific application has infinite possibilities. You know by now that there is still quite a bit of roadwork ahead and the key is to perform well in time and resources.</p>
+<section class="cc-section">
+  <div class="cc-cta">
+    <p class="cc-eyebrow">Participate</p>
+    <h2>Help bring the next Summer School to more regions</h2>
+    <p>Host a local cohort, contribute an instructor, support travel and scholarships, or share infrastructure with the community.</p>
+    <div class="cc-actions">
+      <a class="btn btn--light-outline" href="mailto:info@cybercolombia.org">Contact the organizers</a>
+      <a class="btn btn--light-outline" href="/contact/">Join CyberColombia</a>
+    </div>
+  </div>
+</section>

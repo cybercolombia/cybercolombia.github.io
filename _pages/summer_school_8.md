@@ -235,7 +235,7 @@ In-Person
 ### Partners
 <p></p>
 <center>
-<img width="100%" src="/assets/images/institutions/2024/logos.png"> 
+<img width="100%" src="/assets/images/institutions/2024/logos.png" alt="Partner institutions of the 2025 HPC Summer School">
 </center>
 
 ### Speakers & Mentors
@@ -295,5 +295,4 @@ In-Person
 ### AMD Day 2025
 AMD Day is a co-located event we're organizing with AMD to discuss topics related to parallel computing architectures and Programming Models for AI Applications.
 
-Visit the [AMD Day 2025](/amd_day_2025/) website
-
+Visit the [AMD Day 2025](/events/amd_day_2025/) website

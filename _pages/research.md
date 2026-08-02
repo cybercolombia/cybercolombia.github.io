@@ -44,3 +44,19 @@ sidebar:
 [Status of HPC Colombia 2026](/assets/docs/Status_of_HPC_in_Colombia_2026.pdf)<br>
 [Survey Responses](/assets/datasets/Estado_del_HPC_Colombia_Responses.csv)
 
+# Papers
+
+<p style="text-align: justify; text-justify: inter-word;">
+
+CyberColombia: a Regional Initiative to Teach HPC and Computational Sciences (2021)
+Authors: Esteban Hernández Barragán, Carlos E. Álvarez, Carlos Varela, Juan Pablo Mallarino, José de Vega.
+ACI Avances en Ciencias e Ingenierías, 13(2), 9. DOI: 10.18272/aci.v13i2.2255. Tagged “CARLA 2020” in the journal record.  [Paper](https://www.researchgate.net/publication/356082594_CyberColombia_a_Regional_Initiative_to_Teach_HPC_and_Computational_Sciences)<br>
+
+⁠Expanding Horizons: Advancing HPC Education in Colombia through CyberColombia’s Summer Schools (2024)
+Authors: Aurelio Vivas (Uniandes / ANL), Carlos E. Alvarez (Tec de Monterrey), Jose M. Monsalve Diaz (ANL), Esteban Hernandez (CyberColombia), Juan G. Lalinde-Pulido (EAFIT), Harold Castro (Uniandes).
+Journal of Computational Science Education, 15(1), 15–22. DOI: 10.22369/issn.2153-4136/15/1/4 [Paper](https://jocse.org/downloads/jocse-15-1-4.pdf)<br>
+
+- ⁠Americas HPC Collaboration: Fostering an HPC Education and Workforce Development Ecosystem (SC25 BoF)
+Authors include Esteban Hernandez (CyberColombia, Distrital University) and Jose Manuel Monsalve (AMD; CyberColombia), plus Melesse Vergara, Posada, Rizzi, Barrios Hernández, Meneses, Navaux, B. Hernandez, and Valenzuela Andrade. [Proceedings](https://sc25.supercomputing.org/proceedings/bof/bof_pages/bof248.html)<br>
+
+</p>

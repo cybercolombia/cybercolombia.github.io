@@ -1,6 +1,6 @@
 ---
 permalink: /summer_school_3/
-title: "3th HPC Summer School"
+title: "3rd HPC Summer School"
 excerpt: |
     Five days of cutting-edge training on core skills for HPC,data science and data analytics
   
@@ -102,7 +102,7 @@ Following from the school initiative, the event intends to accomplish the creati
 
 ### Programme
 <br>
-<img width="100%" src="/assets/images/ss/ss_2021_programme.png">
+<img width="100%" src="/assets/images/ss/ss_2021_programme.png" alt="Program of the 2020 HPC Summer School">
 
 ### Our approach
 
@@ -142,4 +142,4 @@ Discord is a turbo-charged chatting platform used by  teams wordwide to work tog
 
 ### Partners & Organizers
 <br>
-<img width="100%" src="/assets/images/institutions/2020.png">
+<img width="100%" src="/assets/images/institutions/2020/2020.png" alt="Partner institutions of the 2020 HPC Summer School">

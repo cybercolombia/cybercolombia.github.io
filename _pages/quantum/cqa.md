@@ -48,7 +48,7 @@ It is crucial to clarify that **CyberColombia acts as the Orchestrator and Commu
 ## 3. The Ecosystem Architecture (The Stack)
 
 The CQA model is defined by a "Leapfrog Strategy" focused on **Application and Software**, avoiding the heavy capital expenditure of hardware fabrication. The ecosystem operates in three distinct layers:
-<img width="100%"  src="/assets/images/quantum/cqa_layers.png">
+<img width="100%" src="/assets/images/quantum/cqa_layers.png" alt="Three-layer architecture of the Colombian Quantum Alliance ecosystem">
 
 ## 4. Comparative Ecosystem Analysis
 
