@@ -142,4 +142,4 @@ Discord is a turbo-charged chatting platform used by  teams wordwide to work tog
 
 ### Partners & Organizers
 <br>
-<img width="100%" src="/assets/images/institutions/2020.png">
+<img width="100%" src="/assets/images/institutions/2020/2020.png">
