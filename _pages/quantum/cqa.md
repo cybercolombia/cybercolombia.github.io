@@ -1,136 +1,187 @@
 ---
 permalink: /quantum/
 title: "Colombian Quantum Alliance"
-# layout: splash
 excerpt: |
-   To establish Colombia as a Hub for Quantum Information Science (QIS) by 2036.
+   Building Colombia's quantum talent, software, and industry applications through a connected national and international ecosystem.
 
 header:
   overlay_image: /assets/images/logos/cqa_header.png
-  overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.3
 sidebar:
   - nav: sidebar-quantum
 ---
 
 <style>
-  .page {
-    width: calc(100% - 300px);
-    padding-right: 0px;
+  @media (min-width: 1024px) {
+    .page {
+      width: calc(100% - 300px);
+      padding-right: 0;
+    }
+  }
+
+  .cqa-highlight {
+    border-left: 4px solid #2a7fba;
+    background: #f4f8fb;
+    margin: 1.5rem 0;
+    padding: 1rem 1.25rem;
+  }
+
+  .cqa-highlight p:last-child {
+    margin-bottom: 0;
+  }
+
+  .cqa-stack {
+    display: grid;
+    gap: 0.75rem;
+    margin: 1.5rem 0;
+  }
+
+  .cqa-layer {
+    align-items: center;
+    border: 1px solid #c9d9e8;
+    border-left: 5px solid #174f8a;
+    border-radius: 0.25rem;
+    display: grid;
+    gap: 0.25rem 1rem;
+    grid-template-columns: minmax(9rem, 0.35fr) 1fr;
+    padding: 0.9rem 1rem;
+  }
+
+  .cqa-layer--value {
+    background: #eef6fc;
+    border-left-color: #2a7fba;
+  }
+
+  .cqa-layer--enablement {
+    background: #f6f1fa;
+    border-left-color: #7b3fa1;
+  }
+
+  .cqa-layer--infrastructure {
+    background: #f1f5fa;
+  }
+
+  .cqa-layer span {
+    color: #4a5560;
+  }
+
+  @media (max-width: 600px) {
+    .cqa-layer {
+      grid-template-columns: 1fr;
+    }
   }
 </style>
 
-<script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-
 # The Colombian Quantum Alliance (CQA)
 
-*"Uniting Minds, Entangling Futures"*
+*Uniting Minds, Entangling Futures*
 
-## 1. The Vision Statement
+The Colombian Quantum Alliance brings together universities, researchers, industry, and international technology providers to develop quantum skills, software, and practical use cases in Colombia. CyberColombia convenes this community and helps connect local talent with remote quantum and high-performance computing infrastructure.
 
-**To establish Colombia as a Hub for Quantum Information Science (QIS) by 2036.**
+[Meet the working group](/quantum/quantum_members/){: .btn .btn--primary }
+[See the 2026 activities](/quantum/quantum_activities/){: .btn .btn--inverse }
 
-We envision a future where Colombia does not merely observe the quantum revolution but actively participates in it. By leveraging our established strengths in High-Performance Computing (HPC) and our strategic "Triple-Helix" partnerships, the CQA will transition the nation from a consumer of foreign technology to a sovereign creator of quantum software, algorithms, and industrial applications.
+## Vision for 2036
 
-## 2. The Strategic Mission
+<div class="cqa-highlight" markdown="1">
+**By 2036, Colombia will be a Latin American hub for Quantum Information Science (QIS), recognized for its talent, quantum software, algorithms, and industry-ready applications.**
+</div>
 
-Our mission is to democratize access to quantum infrastructure, accelerate advanced workforce development, and foster the adoption of quantum solutions in national industry.
+Colombia should not merely observe the quantum transition. CQA is building the people, partnerships, and application capacity required for the country to participate as a creator of quantum solutions.
 
-### The Role of CyberColombia
+## Mission
 
-It is crucial to clarify that **CyberColombia acts as the Orchestrator and Community Enabler**, not a hardware provider.
+CQA turns the 2036 vision into three practical commitments:
 
-*   **We are the Glue:** CyberColombia provides the *human infrastructure* (community, workshops, networking) that connects researchers.
-*   **We are the Bridge:** We do not own the Supercomputers or Quantum Processors; we negotiate and manage the *access* to them through our global partners (NCSA, SCALAC).
-*   **We are the Catalyst:** We lower the barrier to entry so that a student in Bogotá can run code on a machine in Illinois or Munich without bureaucratic friction.
+1. **Develop talent:** expand quantum literacy, advanced training, and educator capacity.
+2. **Open access:** connect Colombian researchers and students with quantum processors, simulators, and HPC resources through cloud and international partners.
+3. **Create value:** move promising ideas into applied research and industry pilots in areas relevant to Colombia and the region.
 
-## 3. The Ecosystem Architecture (The Stack)
+## The CQA operating model
 
-The CQA model is defined by a "Leapfrog Strategy" focused on **Application and Software**, avoiding the heavy capital expenditure of hardware fabrication. The ecosystem operates in three distinct layers:
-<img width="100%"  src="/assets/images/quantum/cqa_layers.png">
+CQA follows a distributed, software-first model. Rather than beginning with the capital-intensive construction of quantum hardware, the alliance connects international infrastructure to Colombian talent and focuses local effort on software, algorithms, and applications.
 
-## 4. Comparative Ecosystem Analysis
+<div class="cqa-stack" role="img" aria-label="Three-layer CQA operating model: infrastructure access supports talent and research, which enables application-led value creation">
+  <div class="cqa-layer cqa-layer--value">
+    <strong>3 · Application-led value</strong>
+    <span>Industry, government, and research use cases</span>
+  </div>
+  <div class="cqa-layer cqa-layer--enablement">
+    <strong>2 · Talent and research</strong>
+    <span>Education, algorithms, interdisciplinary teams, and prototypes</span>
+  </div>
+  <div class="cqa-layer cqa-layer--infrastructure">
+    <strong>1 · Infrastructure access</strong>
+    <span>Cloud quantum processors, simulators, and HPC bridges</span>
+  </div>
+</div>
 
-To define our niche, we analyze our model against established US and European ecosystems. Our strategy is distinct because it is **Asset-Light** and **Software-First**.
+### 1. Infrastructure access
 
-### A. Contrast with the European Model (Munich Quantum Valley - MQV)
+Cloud services, quantum hardware, simulators, and supercomputing bridges give the community a practical environment for learning and experimentation.
 
-Our partner TUM is a key player in the Munich Quantum Valley. However, our operating models diverge significantly due to regional industrial realities.
+### 2. Talent and research enablement
 
-*   **The Munich Model (Hardware-Centric):** MQV operates with a multi-billion Euro budget with a primary mandate to *build* quantum computers (Superconducting and Neutral Atom). Their ecosystem relies on proximity to high-tech fabrication facilities (clean rooms, cryogenics manufacturers) and a mature hardware supply chain.
-*   **The CQA Model (Software-Centric):** CQA operates as an "Algorithm Factory." We accept the regional absence of hardware vendors (no local fabrication labs) not as a weakness, but as a constraint that forces strategic focus.
-*   *Differentiation:* We do not compete on "metal." We compete on the *Application Layer*—the bridge between the hardware and business value.
+Universities and research groups develop workforce skills, quantum literacy, algorithms, and interdisciplinary research.
 
-### B. Contrast with US "Tech Hubs" (e.g., Chicago Quantum Exchange - CQE)
+### 3. Application-led value creation
 
-*   **The US Model (Full-Stack):** Hubs like Chicago or Colorado are backed by billions in federal funding (CHIPS Act) to build physical hardware foundries. They rely on local manufacturing and heavy infrastructure.
-*   **The CQA Model (Distributed Hub):** We operate as a distributed software hub. We do not build the foundry; we access it via the cloud.
-*   *Advantage:* We avoid the massive CapEx of cryogenics and clean rooms.
-*   *Focus:* We train the workforce (Software Engineers) that the US hubs are desperate to hire, while retaining the IP of the algorithms created locally.
+Researchers, industry, and government identify use cases and develop solutions for sectors such as energy, finance, logistics, chemistry, and biodiversity.
 
-### C. Similarity to the "Mid-Atlantic Quantum Alliance" (MQA)
+### CyberColombia's role
 
-*   **The Shared DNA:** Like the MQA (Maryland/DC), the CQA is primarily a **Community of Practice**.
-*   **The Mechanism:** We function as an inclusive community that lowers barriers to collaboration. CQA adds a specific "International Bridge" component to connect local talent with global hardware that doesn't exist in the region.
+CyberColombia acts as the alliance's **orchestrator and community enabler**: it convenes the network, develops training and collaboration opportunities, and helps members reach infrastructure through partner relationships. It does not position itself as a quantum hardware provider.
 
-## 5. Strategic Justification: The Regional Reality
+## 2026: the foundation in action
 
-Based on the analysis by the **National Center for Supercomputing Applications (NCSA)** regarding the Latin American ecosystem (QURECA 2023), our strategy is grounded in economic realism.
+The first roadmap phase is already visible through a sequence of training, community, and research events:
 
-### A. The Investment Gap & Barrier to Entry
+| Date | Activity | Contribution to the vision |
+| --- | --- | --- |
+| **June 19, 2026** | [Quantum Day 2026](/events/quantum_day_2026/) | Hands-on training with Amazon Braket, Xanadu, and PennyLane |
+| **October 21–23, 2026** | [Quantum Latino 2026](https://www.quantum-latino.com/) · Medellín, Colombia | Connects Colombia's community with the wider Latin American quantum ecosystem |
+| **October 26–29, 2026** | [CILAMCE 2026](https://cilamce.com.br/) · Bogotá, Colombia | Introduces a symposium on methods in quantum computation and quantum information processing |
 
-Latin American R&D investment $$5 \le GDP$$ is insufficient to compete with OECD nations in hardware fabrication. The barriers to entry for *Quantum Hardware* are insurmountable in the short term.
+## Why this model fits Colombia
 
-However, the **Barrier to Entry for Quantum Software** is significantly lower. The gap is narrowest in:
+- **Software first:** skills, algorithms, simulation, and application prototypes have a lower entry barrier than hardware fabrication.
+- **Distributed by design:** cloud access allows participants across Colombia to use international quantum and HPC resources.
+- **Use-inspired:** research is connected to problems with scientific, public, and industrial value.
+- **Regionally connected:** CQA contributes to [Quantum Latino](https://www.quantum-latino.com/) rather than building an isolated national ecosystem.
 
-1.  Quantum Application Prototyping
-2.  Quantum Hardware Simulation
-3.  Quantum Programming Models
+## Strategic roadmap: 2026–2036
 
-**Conclusion:** Colombia’s most efficient ROI is to attack this "Low Barrier" zone.
+### Phase I — Foundation and literacy (2026–2028)
 
-### B. Moving to "Pasteur's Quadrant"
+*Focus: build the community, train educators, and establish access.*
 
-We adopt the **Use-Inspired Basic Research** approach. We study quantum mechanics not just for theory, but to solve specific, high-impact problems (e.g., tropical biodiversity mapping, Andean energy grid optimization). This ensures "Scientific Diplomacy" becomes effective by demonstrating direct economic value.
+- Deliver foundational events, including Quantum Day 2026 and Quantum Latino 2026 in Colombia.
+- Formalize collaboration among participating universities and research groups.
+- Develop shared training pathways and prepare the first advanced quantum education cohorts.
+- Continue technical dialogues with quantum cloud and software providers to expand access for alliance members.
+- **Target:** 100+ students trained and 10+ professors specialized.
 
-### C. Regional Synergy (Quantum Latino)
+### Phase II — Acceleration and pilot use cases (2029–2031)
 
-Individual nations in the region lack the scale for full self-sufficiency. Rather than building an isolated ecosystem, the CQA is designed to integrate into the **Quantum Latino** initiative. We act as the local operational arm of this wider community, ensuring that Colombian talent benefits from and contributes to the continental "Quantum Block."
+*Focus: move from training and prototypes to funded industry pilots.*
 
-## 6. Strategic Roadmap (2026-2036)
+- Launch the Andean Quantum Sandbox.
+- Develop proof-of-concept projects with Colombian organizations in priority sectors.
+- Contribute technical guidance on post-quantum cryptography.
+- Publish a CQA benchmark report to measure ecosystem progress.
 
-### Phase I: Foundation & Literacy (2026–2028)
+### Phase III — Scale and regional leadership (2032–2036)
 
-*Focus: Training the trainers and establishing connectivity.*
+*Focus: commercialize results and strengthen Colombia's regional role.*
 
-*   **Milestones:**
-    *   Formal Charter Signed between Universities.
-    *   Launch of "Quantum Cloud Gateway" for unified access.
-    *   First "Quantum Master's" Cohort begins.
-*   **Key Action:** **Initiate strategic dialogues with global quantum cloud providers** (e.g., AWS, Quantinuum, IQM) to assess current hardware status and negotiate preferential access or discount programs for Alliance Member universities.
-*   **Target Metric:** 100+ Students trained; 10+ Professors specialized.
+- Support the creation and growth of Colombian quantum ventures.
+- Expand Colombia's contribution to the Quantum Latino network.
+- Make the Andean Quantum Stack fully operational.
+- Export curricula and software tools to neighboring countries.
+- **Target:** 500+ specialized professionals and five or more patents generated by the ecosystem.
 
-### Phase II: Acceleration & Pilot Use Cases (2029–2031)
+## Join the alliance
 
-*Focus: Moving from textbooks to industry pilots.*
+CQA welcomes researchers, educators, students, technology providers, public institutions, and companies interested in building Colombia's quantum capabilities.
 
-*   **Milestones:**
-    *   Launch of the "Andean Quantum Sandbox."
-    *   Advisor status on Post-Quantum Cryptography (PQC) for the Government.
-*   **Key Action:** Three major Colombian companies (Energy/Finance) fund Proof of Concept (PoC) pilots.
-*   **Target Metric:** Publication of the first "CQA Benchmark Report" using NCSA metrics.
-
-### Phase III: Scaling & Sovereignty (2032–2036)
-
-*Focus: Commercialization and Regional Leadership.*
-
-*   **Milestones:**
-    *   Spin-off of Colombian Quantum Startups.
-    *   **Host the annual [Quantum Latino](https://www.quantum-latino.com/) summit in Colombia.**
-    *   "Andean Quantum Stack" becomes fully operational.
-*   **Key Action:** Exporting curriculum and software tools to neighboring nations (Peru, Ecuador) through the Quantum Latino network.
-*   **Target Metric:** 500+ Specialized Workforce; 5+ Sovereign Patents granted.
-
-
-Become part of the alliance. Contact us today at [quantum@cybercolombia.org](mailto:quantum@cybercolombia.org)
+[Contact quantum@cybercolombia.org](mailto:quantum@cybercolombia.org){: .btn .btn--primary }

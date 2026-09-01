@@ -1,9 +1,9 @@
 ---
 permalink: /quantum/quantum_members/
-title: "Colombian Quantum Alliance members "
+title: "CQA Working Group"
 #layout: splash
 excerpt: |
-   To establish Colombia as a Hub for Quantum Information Science (QIS) by 2036.
+   Researchers and educators building Colombia's capabilities in quantum information science.
 
 header:
   overlay_image: /assets/images/logos/cqa_header.png
@@ -87,23 +87,20 @@ active_members:
 ---
 
 <style>
-  .page {
-    width: calc(100% - 300px);
-    padding-right: 0px;
+  @media (min-width: 1024px) {
+    .page {
+      width: calc(100% - 300px);
+      padding-right: 0;
+    }
   }
 </style>
 
-<script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
+## CQA Working Group
 
-## The Colombian Quantum Alliance working Group 
-### Members
-<br>
+The working group brings together expertise in high-performance computing, physics, mathematics, chemistry, computer science, education, and industry applications. Its members shape CQA's training, research, infrastructure-access, and collaboration agenda.
 
 {% include feature_row type="left" id="active_members" %}
 
---
+## Join the working group
 
-
-Become part of the alliance. Contact us today at [quantum@cybercolombia.org](mailto:quantum@cybercolombia.org)
+Researchers, educators, and practitioners interested in contributing to CQA can contact [quantum@cybercolombia.org](mailto:quantum@cybercolombia.org).

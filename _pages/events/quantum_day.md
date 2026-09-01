@@ -3,7 +3,7 @@ permalink: /events/quantum_day_2026/
 title: "Quantum Day 2026"
 #layout: splash
 excerpt: |
-    Introduction with real companies to Quantum Computing.
+    Hands-on quantum computing with Amazon Braket, Xanadu, and PennyLane on June 19, 2026.
 
 header:
   overlay_image: /assets/images/quantum/QuantumDay2026.png
@@ -13,9 +13,11 @@ sidebar:
 ---
 
 <style>
-  .page {
-    width: calc(100% - 300px);
-    padding-right: 0px;
+  @media (min-width: 1024px) {
+    .page {
+      width: calc(100% - 300px);
+      padding-right: 0;
+    }
   }
 </style>
 
@@ -23,13 +25,13 @@ sidebar:
 
 ## Objective
 <p style="text-align: justify; text-justify: inter-word;">
-Quantum Day 2026 brings together Team Xanadu and Amazon Braket for an introductory, real-platform training on quantum computing. Participants will explore the visions of leading quantum hardware providers, learn how to access live cloud devices, and build practical workflows using modern quantum software.
+Quantum Day 2026 brings together Xanadu and Amazon Braket for a one-day introduction to quantum computing on real platforms. Participants will explore the quantum provider landscape, learn how to access cloud devices, and build practical workflows with modern quantum software.
 </p>
 
 ## Date/Time
 <p style="text-align: justify; text-justify: inter-word;">
-June 19, 2025. <br/>
-8:30 AM (COT) - 5:00 PM (COT)
+<strong>June 19, 2026</strong> <br/>
+8:30 a.m.–5:00 p.m. COT
 </p>
 
 ## Program Structure
@@ -50,9 +52,9 @@ An overview of the current quantum ecosystem with a focus on Amazon Braket and t
 
 | Time | Topic | Details |
 | :---: | :---: | :---: |
-| 8:30 AM - 9:30 AM | Overview of simulator-based quantum computing and Braket services |
-| 9:30 AM - 10:30 AM | Introduction to Amazon Braket using QPUs |
-| 10:30 AM - 11:45 AM | Machine Learning applications using quantum computing | 
+| 8:30 AM - 9:30 AM | Simulator-based quantum computing | Overview of Amazon Braket services and simulator workflows |
+| 9:30 AM - 10:30 AM | Quantum processing units | Introduction to running workloads on QPUs through Amazon Braket |
+| 10:30 AM - 11:45 AM | Quantum machine learning | Applications and example workflows |
 | 11:45 AM - 12:00 PM | Review and open discussion | Consolidation of key concepts and participant questions |
 | 12:00 PM | Session 1 wrap-up | Closing remarks for the first session |
 
@@ -96,4 +98,3 @@ A practical introduction to quantum programming using Team Xanadu’s PennyLane 
 * Create a free account at [pennylane.ai](https://pennylane.ai/). This account is required to download the session notebooks.
 * Possess basic knowledge of Python.
 * **CyberColombia** will be responsible for distributing the link to the participating host universities.
-
