@@ -91,12 +91,12 @@ Together, these contributions build the foundations for Colombia’s participati
 
 ## Research and strategy background
 
-- Tenjo-Patiño, Bello, and Montoya. [Quantum Computing Education in Latin America: Experiences and Strategies](https://arxiv.org/abs/2410.18307v3).
-- Bello and colleagues. [Quantum Ecosystem Research and Analysis in Colombia](https://arxiv.org/abs/2409.00059v1).
+- Tenjo-Patiño, Bello, and Montoya. [Quantum Computing Education in Latin America: Experiences and Strategies](https://arxiv.org/abs/2410.18307).
+- Bello and colleagues. [Quantum Ecosystem Research and Analysis in Colombia](https://arxiv.org/abs/2409.00059).
 - *Iniciativa Mexicana en Tecnologías Cuánticas* (2023).
-- Chile, *Estrategia Nacional de Tecnologías Cuánticas 2025–2035*.
-- Núñez-Corrales. *Condiciones y Oportunidades para América Latina en el Ecosistema de Tecnologías Cuánticas*, Quantum Latino (2023).
-- Heikkinen, Núñez-Corrales, and Stirbu. [Navigating the Socio-Technical Complexity Challenge in Quantum Software Ecosystems](https://arxiv.org/abs/2607.15135v1).
+- Chile, [Estrategia Nacional de Tecnologías Cuánticas 2025–2035](https://minciencia.gob.cl/uploads/filer_public/a9/2b/a92b6e0d-40ae-48dc-9b48-2da0ba5c7585/tecnologiascuanticas.pdf) (PDF).
+- Núñez-Corrales. [Condiciones y Oportunidades para América Latina en el Ecosistema de Tecnologías Cuánticas](https://www.quantum-latino.com/program-2023/), Quantum Latino (2023; conference programme).
+- Heikkinen, Núñez-Corrales, and Stirbu. [Navigating the Socio-Technical Complexity Challenge in Quantum Software Ecosystems](https://arxiv.org/abs/2607.15135).
 - Munich Quantum Valley. [Munich Quantum Software Stack](https://www.munich-quantum-valley.de/research/research-areas/mqss).
 
 *Last reviewed: September 2026.*
