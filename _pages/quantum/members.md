@@ -1,13 +1,11 @@
 ---
 permalink: /quantum/quantum_members/
-title: "Colombian Quantum Alliance members "
-#layout: splash
+title: "People in CQA"
+layout: cqa
+cqa: true
 excerpt: |
-   To establish Colombia as a Hub for Quantum Information Science (QIS) by 2036.
+   Researchers, educators, and professionals contributing to Quantum Information Science in Colombia.
 
-header:
-  overlay_image: /assets/images/logos/cqa_header.png
-  overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background
 sidebar:
   - nav: sidebar-quantum
 
@@ -16,18 +14,18 @@ active_members:
     title: "Dr. Esteban Hernández"
     excerpt: |
       Dr. Esteban Hernández is a Computer Engineer and holds a Ph.D. in Engineering with a specialization in High-Performance Computing (HPC). He also holds a Master’s degree in HPC, a postgraduate specialization in Applied Mathematics, and an additional specialization in Software Design for Networks. With over 23 years of professional experience, Dr. Hernández has held key roles at Amazon Web Services, Mercado Libre, and several startups, working in areas such as Computer Vision, Artificial Intelligence, and Numerical Simulation.
-      He is the founding member of CyberColombia, an interdisciplinary community dedicated to advancing HPC, AI, and Scientific Computing across Colombia and the wider Latin American region. During 2025 he served as the Executive Director of SCALAC – the Advanced Computing System for Latin America and the Caribbean – which led initiatives to develop and promote HPC capacity across the region. Currently lead the Colombian Quantum Alliance.
+      He is the founding member of CyberColombia, an interdisciplinary community dedicated to advancing HPC, AI, and Scientific Computing across Colombia and the wider Latin American region. During 2025 he served as the Executive Director of SCALAC – the Advanced Computing System for Latin America and the Caribbean – which led initiatives to develop and promote HPC capacity across the region. He currently leads the Colombian Quantum Alliance.
       Dr. Hernández is also co-author of the book “Parallel Heterogeneous Computing for Accelerating Weather Forecasting”, and he actively advises organizations on accelerating compute-intensive workloads, including several Numerical Weather Prediction (NWP) models in high-performance environments. 
       [LinkedIn](https://www.linkedin.com/in/hpccol/)
         
   - image_path: /assets/images/quantum/members/JhonDarioMedina.png
     title: "Jhon Dario Medina" 
     excerpt: |
-      Engineer Jhon Dario Medina is a Systems Engineer with 42 years of professional experience most of them working for EPM -  Empresas Públicas de Medellín - (“The best company of the Colombia Country during the XX Century”, Portafolio award), from where he retired in October 2024.
-      During his last years with EPM, Engineer Medina worked in the IT Strategy and Architecture area, helping to implement de major enterprise packages such as CRM and in the adoption of Microsoft Azure cloud computing, being the principal architect of the “Azure Integration Services” platform, wich has specialized cloud tools for integration and interoperability between systems.
+      Jhon Dario Medina is a Systems Engineer with 42 years of professional experience, most of it at Empresas Públicas de Medellín (EPM), from which he retired in October 2024.
+      During his final years at EPM, he worked in IT Strategy and Architecture, contributing to the implementation of enterprise systems, including CRM, and the adoption of Microsoft Azure cloud computing. He served as principal architect of the Azure Integration Services platform, which provides tools for integration and interoperability between systems.
       At EPM, he was the first leader of the quantum computing research group until the time of his retirement and has continued in this field of research.
-      Currently, he teaches an introductory course on quantum computing aimed at large companies, and the first of his clients in this course was EPM itself.
-      One of the research fields is dedicated to Microsoft’s strategy in Quantum Computing and its quantum software platforms, such as Microsoft Quantum Development Kit -MKDK.
+      He currently teaches an introductory quantum computing course for large organisations; EPM was its first client.
+      One of his research interests concerns Microsoft’s strategy in Quantum Computing and its quantum software platforms, including the Microsoft Quantum Development Kit (QDK).
 
       He has also been a university professor and an entrepreneur in the field of software package development, mainly for the garment sector.
       [LinkedIn](https://www.linkedin.com/in/jhon-dario-medina-rios-6590a696/)
@@ -41,15 +39,15 @@ active_members:
       [LinkedIn](https://www.linkedin.com/in/luis-seijas-chemistry/)
         
   - image_path: "/assets/images/quantum/members/GustavoCaceres.jpg"
-    title: "Mg. Gustavo Caceres"
+    title: "Gustavo Cáceres, MSc"
     excerpt: |
       Gustavo Cáceres Castellanos holds a degree in Systems Engineering, a Master’s degree in Information and Communication Sciences, and a specialization in Systems. He is a Full Professor at the Universidad Pedagógica y Tecnológica de Colombia (UPTC), affiliated with the School of Systems and Computer Engineering (EISC), with over 35 years of teaching experience. He is a researcher at the Information Management Research Group (GIMI).
       During his sabbatical year (2023), he designed the micro-curriculum for teaching quantum computing for the Systems and Computer Engineering program at UPTC. He currently leads the creation and formalization of the Center for Quantum Computing and Emerging Technologies for Boyacá (C3B), a transversal and interdisciplinary unit open to the entire university, as well as the Specialized Quantum Computing Research Seed Group (ICCE-UPTC).
-      He is responsible for the high-performance GPU simulation infrastructure based on an NVIDIA GeForce RTX 5090 (32 GB GDDR7) and ZBook Fury workstations, optimized for high-fidelity quantum simulations using Qiskit, Pennylane, cuQuantum, and Cirq.
+      He is responsible for the high-performance GPU simulation infrastructure based on an NVIDIA GeForce RTX 5090 (32 GB GDDR7) and ZBook Fury workstations, optimized for high-fidelity quantum simulations using Qiskit, PennyLane, cuQuantum, and Cirq.
       He is currently developing a research project focused on fostering “quantum thinking” through gamified platforms for the UPTC academic community. His vision integrates cutting-edge research, human talent development, and technology transfer, linking the C3B with research groups and graduate programs in the Faculty of Engineering, as well as with the needs of Boyacá’s productive sector.
       [LinkedIn](https://www.linkedin.com/in/gustavo-c%C3%A1ceres-castellanos-88604213/)
   - image_path: "/assets/images/quantum/members/JoseManuelEscorcia.png"
-    title: "Mg.José Manuel Escorcia Tafur"
+    title: "Dr. José Manuel Escorcia Tafur"
     excerpt: |
       José Manuel Escorcia Tafur is an Assistant Professor at Universidad EAFIT and Head of the Undergraduate Program in Mathematical Engineering. He holds a Ph.D. in Mathematics from the Instituto de Matemática Pura e Aplicada —IMPA—, a Master’s degree in Applied Mathematics from the University of Puerto Rico at Mayagüez, and a degree in Mathematics from Universidad de Cartagena. His research focuses on nonlinear partial differential equations, soliton dynamics, modulational instability, blow-up phenomena, variable-coefficient systems, and reaction-diffusion models.
       He is also interested in quantum computing, particularly in its connections with mathematical modeling, scientific computing, the simulation of dynamical systems, and the development of computational approaches for applied problems. He has taught the Quantum Computing course at Universidad EAFIT and is willing to contribute to quantum-related projects from the perspective of his mathematical background and expertise, especially in areas where analytical modeling, differential equations, dynamical systems, numerical methods, and scientific computing can support the development of quantum computing applications.
@@ -63,7 +61,7 @@ active_members:
       [LinkedIn](https://www.linkedin.com/in/camilo-espejo-357ab8143/)
 
   - image_path: "/assets/images/quantum/members/NicolasAvilan.jpg"
-    title: "Dr. Nicolas Avilan"
+    title: "Dr. Nicolás Avilán"
     excerpt: |
       Nicolás Avilán Vargas holds a Ph.D. in Physics and is a Professor at the School of Sciences and Engineering of Universidad del Rosario, Bogotá, Colombia, where he serves as Director of the Applied Mathematics and Computer Science undergraduate program. He is a researcher whose work lies at the intersection of Applied Mathematics, Artificial Intelligence, and Quantum Computing. His research focuses on computational geometry, machine learning, quantum information science, and the mathematical foundations of intelligent systems.
       He is actively involved in interdisciplinary research and educational initiatives that integrate mathematics, computing, and emerging quantum technologies. Through research, teaching, and international collaborations, he contributes to the advancement of quantum education and the development of new generations of researchers in this field. His work promotes the integration of mathematical rigor, computational thinking, and innovative technologies to address contemporary scientific and technological challenges.
@@ -86,24 +84,14 @@ active_members:
 
 ---
 
-<style>
-  .page {
-    width: calc(100% - 300px);
-    padding-right: 0px;
-  }
-</style>
 
-<script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
 
-## The Colombian Quantum Alliance working Group 
-### Members
-<br>
+CQA brings together people with complementary interests in Quantum Information Science, education, and scientific computing. The profiles below describe individual experience and areas of contribution. Institutional affiliations identify participants’ professional backgrounds and do not, by themselves, establish institutional membership or commitments.
+
+## Members
 
 {% include feature_row type="left" id="active_members" %}
 
---
 
 
-Become part of the alliance. Contact us today at [quantum@cybercolombia.org](mailto:quantum@cybercolombia.org)
+To explore participation in CQA, contact [quantum@cybercolombia.org](mailto:quantum@cybercolombia.org)
