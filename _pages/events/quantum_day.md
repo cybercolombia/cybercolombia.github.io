@@ -3,6 +3,7 @@ permalink: /events/quantum_day_2026/
 title: "Quantum Day 2026"
 layout: cqa
 cqa: true
+classes: wide
 excerpt: |
     A community learning event with participants from Amazon Braket and Xanadu/PennyLane.
 

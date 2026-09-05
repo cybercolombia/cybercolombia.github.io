@@ -3,6 +3,7 @@ permalink: /quantum/quantum_members/
 title: "People in CQA"
 layout: cqa
 cqa: true
+classes: wide
 excerpt: |
    Researchers, educators, and professionals contributing to Quantum Information Science in Colombia.
 

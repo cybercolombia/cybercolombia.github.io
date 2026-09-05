@@ -4,6 +4,7 @@ permalink: /quantum/our-approach/
 title: "Our Approach"
 excerpt: "The evidence, principles, and collaborative work behind CQA’s three-phase roadmap."
 cqa: true
+classes: wide
 sidebar:
   - nav: sidebar-quantum
 ---
@@ -50,6 +51,8 @@ Our approach develops through educational activities, scientific exchange, and c
 Across these activities, we recognise contributions, communicate the status of work clearly, and distinguish exploration from validated results. Sharing useful materials and experience helps others build on what has already been done. The pace of participation can vary with academic calendars, professional responsibilities, and available resources.
 
 ## Three phases, one continuous process
+
+{% include cqa-roadmap.html %}
 
 Our roadmap connects community development with increasingly sustained scientific contributions. Its dates are indicative horizons. Activities may overlap, and progress depends on shared interest, experience, and the resources available to the teams involved.
 

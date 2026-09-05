@@ -4,6 +4,7 @@ permalink: /quantum/quantum_activities/
 title: "Activities and Research"
 excerpt: "Education, scientific exchange, ongoing research, and regional cooperation across the CQA community."
 cqa: true
+classes: wide
 sidebar:
   - nav: sidebar-quantum
 ---
