@@ -4,6 +4,7 @@ permalink: /quantum/
 title: "Building QIS Capacity in Colombia"
 excerpt: "A voluntary community advancing Quantum Information Science through education, research, and cooperation."
 cqa: true
+classes: wide
 sidebar:
   - nav: sidebar-quantum
 ---
@@ -42,6 +43,8 @@ Subsequent activity includes Quantum Day 2026, participation in the Bogotá Cham
 CQA is listed as a **Supporting Partner of Quantum Latino 2026**, and its lead, Esteban Hernández, is included in the published keynote and panel programme. We also support Qiskit Fall Fest 2026 at Universidad Distrital. These October events are upcoming as of September 2026. [View activities and participation details]({{ '/quantum/quantum_activities/' | relative_url }}).
 
 ## Three phases towards 2036
+
+{% include cqa-roadmap.html %}
 
 <div class="cqa-phase" markdown="1">
 ### Phase I — Consolidation · 2026
