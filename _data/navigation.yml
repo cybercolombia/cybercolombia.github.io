@@ -93,11 +93,13 @@ sidebar-events:
 sidebar-quantum:
   - title: "Quantum Alliance"
     children:
-      - title: "Introduction"
+      - title: "Overview"
         url: /quantum/
-      - title: "Members"
+      - title: "Our Approach"
+        url: /quantum/our-approach/
+      - title: "People"
         url: /quantum/quantum_members/
-      - title: "Ongoing work"
+      - title: "Activities & Research"
         url: /quantum/quantum_activities/
       - title: "Quantum Day 2026"
         url: /events/quantum_day_2026/
