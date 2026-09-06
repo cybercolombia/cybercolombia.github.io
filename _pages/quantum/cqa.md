@@ -66,6 +66,12 @@ Develop sustained areas of expertise and contribute original research, education
 
 These phases are indicative, overlapping horizons. Progress depends on shared interest, experience, and the resources available to participating teams. [Read how each phase develops]({{ '/quantum/our-approach/#three-phases-one-continuous-process' | relative_url }}).
 
+## Resources
+
+Explore books, research manuscripts, and reports shared by CQA and CyberColombia contributors. The collection includes a quantum computing foundations textbook in English and Spanish, studies on education and computational methods, and a report on Colombia’s HPC ecosystem.
+
+[Explore CQA resources]({{ '/quantum/resources/' | relative_url }}) or [browse the repository](https://github.com/cybercolombia/cqa).
+
 ## Contribute to CQA
 
 Share a scientific question, support a learning activity, contribute technical experience, or connect colleagues with complementary interests. Participation grows through contributions that people are willing and able to make.
