@@ -101,6 +101,8 @@ sidebar-quantum:
         url: /quantum/quantum_members/
       - title: "Activities & Research"
         url: /quantum/quantum_activities/
+      - title: "Resources"
+        url: /quantum/resources/
       - title: "Quantum Day 2026"
         url: /events/quantum_day_2026/
 

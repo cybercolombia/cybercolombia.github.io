@@ -39,7 +39,7 @@ Our reported exchanges include conversations with the NCSA team, Amazon Braket, 
 
 The purpose is to learn, compare approaches, and identify opportunities for cooperation. The scope of any infrastructure access or institutional commitment depends on the arrangements made by the participants concerned.
 
-## Research and resources in progress
+## Research and shared resources
 
 ### coQuantum-research
 
@@ -51,7 +51,7 @@ Participants are exploring simulation, hybrid computational methods, and the for
 
 ### Educational resources and evaluation guidance
 
-Work in progress includes resources on prerequisites for quantum computing and guidance for examining which parts of an algorithm may be suitable for quantum methods.
+The shared collection includes a quantum computing foundations textbook in English and Spanish, research manuscripts, and an institutional report. Contributors continue to develop educational materials and guidance for evaluating computational methods. [Explore the resources and available editions]({{ '/quantum/resources/' | relative_url }}).
 
 ### Exchange through CILAMCE
 
