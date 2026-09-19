@@ -3,7 +3,7 @@ permalink: /events/workshop_carla2026/
 title: "Advances Weather Forecasting 2026"
 type: center
 excerpt: |
-   "2th Latin America and Caribbean Advances on Weather Forecasting. Final agenda defined. September 22, 2026. Colegio Nacional de Monserrat, Obispo Trejo 294, Salón Aula 4, Córdoba (Argentina)"
+   "2th Latin America and Caribbean Advances on Weather Forecasting. September 22, 2026. Córdoba (Argentina)"
 header:
   overlay_image: /assets/images/backgrounds/Hurricanes.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
