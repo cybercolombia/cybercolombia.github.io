@@ -47,7 +47,8 @@ As we move away from total reliance on specific governmental  institutions, we w
 
 * **The AI Revolution as an Equalizer**: AI-driven models (e.g., GraphCast, FourCastNet, and the Aardvark system) are significantly less computationally expensive than traditional HPC-run numerical models. We will showcase how LAC institutions can run high-precision, hyper-local forecasts "in-house" without needing massive supercomputing clusters.
 
-* **Showcasing Regional Leadership**: The workshop will shine a spotlight on active regional efforts, such as INPE and Brazilian Community and the SMN (Argentina), which are already analyzing how  AI outperforms traditional global models in specific LAC topographies.
+* **Showcasing Regional Leadership**: The workshop will shine a spotlight on active regional efforts, such as INPE and Brazilian Community and the SMN (Argentina), which are already analyzing how AI outperforms traditional global models in specific LAC topographies.
+
 ----
 
 ### Full-Day Agenda (Draft)
