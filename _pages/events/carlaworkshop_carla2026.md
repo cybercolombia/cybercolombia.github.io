@@ -61,8 +61,8 @@ As we move away from total reliance on specific governmental  institutions, we w
 - 10:10-11:00 AM — Talk: Recent progress of WMO Integrated Processing and Prediction System (WIPPS) — Yuki Honda, Chief of WIPPS section, WMO
 - 11:00-11:50 AM — Talk: From Orbit to Atmosphere by Dafer Paola Quispe Durand UNMSM Peru
 - 11:50 AM-1:20 PM — Lunch Break (1.5 hours)
-- 1:20-1:50 PM — Talk: Real-time simulations using MPAS-A — Falko Judt
-- 1:50-2:20 PM — Talk: NVIDIA Earth-2 — Speaker TBD
+- 1:20-1:50 PM — Talk: Real-time simulations using MPAS-A — Falko Judt (WMO)
+- 1:50-2:20 PM — Talk: NVIDIA Earth-2 — Pedro Mário Cruz e Silva (NVIDIA)
 - 2:20-2:50 PM — Talk: From Raw Sensor Messages to Model-Ready Weather Data, by K. M. Farias1, V. S. Uchôa, Instituto de Pesquisas Eldorado, Brazil
 - 2:50-3:20 PM — Talk: Operationalizing MPAS-Atmosphere at IDEAM, by Alexander Rojas R. of IDEAM Colombia
 - 3:20-3:35 PM — Networking and Q&A
