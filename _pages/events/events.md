@@ -50,9 +50,6 @@ Earlier this year, we successfully hosted the **8th Colombian HPC Summer School*
 
 ### Publications
 
-![Recent Book Launch](/assets/images/image_abf566.jpg)
-*Figure: Our team presenting "De la CPU a la QPU" and strategies for WRF optimization.*
-
 * **Book:** *De la CPU a la QPU: Optimizando Arquitecturas para el Pronóstico Atmosférico*
     * *Authors:* Esteban Hernández Barragán, Nelson Enrique Vera, Carlos Enrique Montenegro.
 * **Paper:** *Parallel Computing Strategies in WRF: The Role of MPI, OpenMP, & NUMA Affinity* (Presented at CARLA).

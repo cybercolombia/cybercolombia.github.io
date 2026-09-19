@@ -62,8 +62,6 @@ sidebar-services:
 sidebar-call:
   - title: "Call for participation"
     children:
-      - title: "Description"
-        url: /call_for_description/
       - title: "HPC Summer 2025"
         url: /call_2025/
 
@@ -95,15 +93,18 @@ sidebar-events:
 sidebar-quantum:
   - title: "Quantum Alliance"
     children:
-      - title: "Introduction"
+      - title: "Overview"
         url: /quantum/
-      - title: "Members"
+      - title: "Our Approach"
+        url: /quantum/our-approach/
+      - title: "People"
         url: /quantum/quantum_members/
-      - title: "Ongoing work"
+      - title: "Activities & Research"
         url: /quantum/quantum_activities/
+      - title: "Resources"
+        url: /quantum/resources/
       - title: "Quantum Day 2026"
         url: /events/quantum_day_2026/
 
 
   
-

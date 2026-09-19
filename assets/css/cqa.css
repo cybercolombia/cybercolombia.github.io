@@ -1,0 +1,25 @@
+/* CQA content extends the site's existing responsive Minimal Mistakes layout. */
+.cqa-content { --cqa-navy: #061b41; --cqa-cyan: #007da5; }
+.cqa-brand { background: #fff; margin: 0 0 2rem; padding: 0.5rem; border-bottom: 3px solid var(--cqa-cyan); }
+.cqa-brand a { display: block; max-width: 38rem; }
+.cqa-brand img { display: block; width: 100%; height: auto; margin: 0; }
+.cqa-content h2, .cqa-content h3 { color: var(--cqa-navy); }
+.cqa-content a { overflow-wrap: anywhere; }
+.cqa-content a:focus-visible { outline: 3px solid var(--cqa-cyan); outline-offset: 3px; }
+.cqa-content .cqa-lead { font-size: 1.15em; line-height: 1.6; }
+.cqa-content .cqa-actions { display: flex; flex-wrap: wrap; gap: 0.6rem; margin: 1.4rem 0 2rem; }
+.cqa-content .cqa-actions .btn { margin: 0; background: var(--cqa-navy); color: #fff; }
+.cqa-content .cqa-note { border-left: 3px solid var(--cqa-cyan); padding: 0.7rem 1rem; background: #f3f8fb; }
+.cqa-content .cqa-phase { padding: 0.25rem 0 0.25rem 1rem; margin: 1.3rem 0; border-left: 3px solid var(--cqa-cyan); }
+.cqa-content .feature__item { clear: both; }
+@media (max-width: 40em) {
+  .cqa-brand { margin-bottom: 1.3rem; padding: 0.25rem; }
+  .cqa-content .cqa-actions { flex-direction: column; align-items: flex-start; }
+  .cqa-content table { font-size: 0.85em; }
+}
+
+/* Wide pages use the theme's existing layout; the roadmap follows the content width. */
+.cqa-content .cqa-roadmap { display: block; width: 100%; margin: 1.5rem 0 2rem; }
+.cqa-content .cqa-roadmap > a { display: block; width: 100%; }
+.cqa-content .cqa-roadmap img { display: block; width: 100%; height: auto; margin: 0; }
+.cqa-content .cqa-roadmap figcaption { margin-top: 0.65rem; line-height: 1.5; }
