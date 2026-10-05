@@ -52,7 +52,7 @@ The workshop program covered international forecasting initiatives, regional mod
 | [Recent progress of WMO Integrated Processing and Prediction System (WIPPS) — Yuki Honda (WMO)](/assets/images/carla2026/slides/Recent%20progress%20of%20WIPPS_Yuki%20Honda%20(WMO)_CARLA26.pdf) | 10:10–11:00 AM |
 | From Orbit to Atmosphere — Dafer Paola Quispe Durand (UNMSM, Peru) | 11:00–11:50 AM |
 | Lunch break | 11:50 AM–1:20 PM |
-| Real-time simulations using MPAS-A — Falko Judt (NCAR) | 1:20–1:50 PM |
+| [Real-time simulations using MPAS-A — Falko Judt (NCAR)](/assets/images/carla2026/slides/2th%20Latin%20America%20and%20Caribbean%20Advances%20on%20Weather%20Forecasting._2026.pdf) | 1:20–1:50 PM |
 | [NVIDIA Earth-2 — Pedro Mário Cruz e Silva (NVIDIA)](/assets/images/carla2026/slides/09-24_CARLA2026_Earth-2_Talk.pdf) | 1:50–2:20 PM |
 | [From Raw Sensor Messages to Model-Ready Weather Data — K. M. Farias and V. S. Uchôa (Instituto de Pesquisas Eldorado, Brazil)](/assets/images/carla2026/slides/Workshop%20Weather%20-%20CARLA%202026%20(Final%20Presentation).pdf) | 2:20–2:50 PM |
 | [Operationalizing MPAS-Atmosphere at IDEAM — Alexander Rojas R. (IDEAM, Colombia)](/assets/images/carla2026/slides/MPAS_IDEAM_CARLA26_def.pdf) | 2:50–3:20 PM |
@@ -72,6 +72,8 @@ This talk introduced the MONAN program (Model for Ocean-laNd-Atmosphere predicti
 Saulo R. Freitas is a researcher specializing in meteorology and atmospheric sciences. He holds a D. Sc. in Applied Physics from the University of São Paulo. He conducted postdoctoral research at NASA Ames Research Center and served as a Visiting Researcher at NOAA's Earth System Research Laboratory. He is a Senior Researcher and Professor in the Graduate Program in Meteorology at INPE. His research focuses on air pollution and atmospheric chemistry associated with wildfires, convection parameterization, and numerical weather forecasting integrated with atmospheric chemistry and aerosols.
 
 **Real-time simulations using MPAS-A — Falko Judt**
+
+Slides: [Falko Judt's presentation](/assets/images/carla2026/slides/2th%20Latin%20America%20and%20Caribbean%20Advances%20on%20Weather%20Forecasting._2026.pdf)
 
 Falko Judt is a research meteorologist in the Mesoscale and Microscale Meteorology Laboratory at NCAR. His research focuses on tropical meteorology, especially hurricanes, atmospheric predictability, and the science behind weather prediction. He earned his PhD in Meteorology and Oceanography from the Rosenstiel School at the University of Miami in 2014, completed an Advanced Study Program postdoctoral appointment at NCAR, and joined the NCAR MMM group as a Scientist in 2018. His work combines numerical simulations, observations, and global cloud-resolving model experiments to improve the prediction of extreme weather events.
 
