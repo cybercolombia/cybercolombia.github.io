@@ -53,7 +53,7 @@ The workshop program covered international forecasting initiatives, regional mod
 | From Orbit to Atmosphere — Dafer Paola Quispe Durand (UNMSM, Peru) | 11:00–11:50 AM |
 | Lunch break | 11:50 AM–1:20 PM |
 | Real-time simulations using MPAS-A — Falko Judt (NCAR) | 1:20–1:50 PM |
-| NVIDIA Earth-2 — Pedro Mário Cruz e Silva (NVIDIA) | 1:50–2:20 PM |
+| [NVIDIA Earth-2 — Pedro Mário Cruz e Silva (NVIDIA)](/assets/images/carla2026/slides/09-24_CARLA2026_Earth-2_Talk.pdf) | 1:50–2:20 PM |
 | [From Raw Sensor Messages to Model-Ready Weather Data — K. M. Farias and V. S. Uchôa (Instituto de Pesquisas Eldorado, Brazil)](/assets/images/carla2026/slides/Workshop%20Weather%20-%20CARLA%202026%20(Final%20Presentation).pdf) | 2:20–2:50 PM |
 | [Operationalizing MPAS-Atmosphere at IDEAM — Alexander Rojas R. (IDEAM, Colombia)](/assets/images/carla2026/slides/MPAS_IDEAM_CARLA26_def.pdf) | 2:50–3:20 PM |
 | Networking and Q&A | 3:20–3:35 PM |
